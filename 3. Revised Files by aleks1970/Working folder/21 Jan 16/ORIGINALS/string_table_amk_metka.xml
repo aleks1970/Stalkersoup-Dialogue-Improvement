@@ -1,0 +1,17 @@
+<!-- TB3D 1.0.9.9.9.8 -->
+<!-- Text RE-edited by: Steve90k and Sword2012 20/Dec/15 -->
+
+	<string id="amk_metka">
+		<text>GPS Beacon</text>
+	</string>
+	<string id="amk_metka_s">
+		<text>GPS Beacon</text>
+	</string>
+	<string id="enc_amk_metka">
+		<text>GPS beacon. This device makes it possible to tag important or useful locations on your map, which you can obtain through your PDA. For activation you have to drop it and enter an information text in the PDA-Window.</text>
+	</string>
+
+
+<!-- 20:58 09.07.2007 -->
+<!-- Modified by Aero 19:22 20.04.2008 -->
+

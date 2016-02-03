@@ -1,0 +1,7 @@
+stable_storyline_info_sarcofag.xml
+
+this file has an identical string found in 
+string_table_tips_sarcofag.xml
+
+steve2000 has corrected one ofthe files, but TB will need to be notified of the duplicate strings
+
