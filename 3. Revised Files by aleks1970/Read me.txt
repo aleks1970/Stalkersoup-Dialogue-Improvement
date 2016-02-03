@@ -1,0 +1,4 @@
+
+  Place the file which needs to be tested (for the LUA error, ect.) into the "Working folder" folder ...
+	
+	aleks1970
