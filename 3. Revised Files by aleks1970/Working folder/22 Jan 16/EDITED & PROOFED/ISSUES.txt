@@ -1,0 +1,9 @@
+string_table_tutorial ISSUES
+
+Aleks, there seem to be some inaccuracies in code for the keyboard actions. Would you please check these, most notably in lines 19 and 22
+
+And shouldn't 'Sprinting' be called 'Running', since there's no key for 'Run'?
+
+Thanks
+
+Mike (sword2012)

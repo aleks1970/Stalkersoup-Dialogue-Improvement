@@ -1,0 +1,21 @@
+stable_bio_name
+
+I see that that most of the biographies in here have been copied word for word from the STALKER Wiki http://stalker.wikia.com/wiki/
+
+Is it okay to do this without altering anything to avoid plaguiarism, or is TB planning to give a credit?
+
+
+
+string_table_ui_text
+
+In order to tidy up the UI, please remove the following redundant line of text
+Line 39: 'Use just AFTER talking to Stargazer'
+
+Then move Line 36: 'escape - {SKIP CAVE} to the attic in Cordon, and completes the cave quest'
+to underneath Line 60: 'skip_oso - Completes through the Monolith destruction and the NPP2 gauntlet'
+
+
+THANK YOU :-)
+
+Please, check the gamedata folder from this archive: - https://www.dropbox.com/s/qg1j60li5gizhnx/new_tb3d_teleports-aleks1970.rar?dl=1
+aleks1970
