@@ -1,0 +1,309 @@
+<!-- TB3D 1.1.0.0.0.0 controller vice comptroller, snorks, fixed formatting -->
+<string_table>
+<string id="infusomat_vkl">
+	<text>Auto-Stimulator</text>
+</string>
+<string id="infusomat_vkl_s">
+	<text>Auto-Stimulator</text>
+</string>
+<string id="enc_infusomat_vkl">
+	<text>Autostimulator .. The state at the moment - is included. In this state, the device continuously monitors the state of the media and, depending on the level of health decides injected into the bloodstream of a special pacemaker, known in the zone called "Black Speed".</text>
+</string>
+<string id="enc_infusomat_vikl">
+	<text>Autostimulator ..  Condition at the moment - off. If I turn it on, then the device will constantly monitor the status of the carrier, and depending on the level of health decides injected into the bloodstream of a special pacemaker, known in the zone as "Black Speed"</text>
+</string>
+<string id="infusomat_vikl">
+	<text>Switched off Auto-Stimulator</text>
+</string>
+<string id="item_bioradar">
+	<text>Bioradar</text>
+</string>
+<string id="item_bioradar_s">
+	<text>Bioradar</text>
+</string>
+<string id="enc_item_bioradar_descr">
+	<text>This amazing device allows you to detect at a distance of 50 meters, many life forms, like warm-blooded and cold-blooded. Principle of its operation is described in detail in the monograph of Professor Bolshakov, "Practical application of the unique properties of the Artefact ZX-232" Crystal Ball "in the field, as well as in the thesis assistant Semenov" Biological organisms as natural radio transceivers.Briefly describe the operation of the device can be so: the majority of living organisms emit during the motion of electromagnetic waves, which can be tracked and measured their frequency, intensity and determine the position of the source in space. When you work the muscles, the nerve fibers to the muscle bundle receives electrical impulses, and the living tissue, and tissue, which retained the conductivity current are microtransmitter. For quite a long time it was believed that due to the extreme weakness of the signals they can detect only in laboratory conditions, using bulky amplifying equipment - according to this principle worked and are working the so-called "auroskopy", devices that hold around the living body "aura" that is, in fact, electromagnetic radiation a certain range. During the investigation of various artifacts Zone scientists came across a very interesting effect of one of the subjects - an artifact "Crystal Ball". A small handheld radio assistant Semenov, quite unexpectedly, began to take a signal of private radio station, located in one of the provincial areas of Argentina. After examining an unusual phenomenon, the scientific staff of the camps came to only plausible explanation - an artifact of the "Crystal Ball" amplifies and filters the radio signal from interference orderly. Obviously, the microscopic part of the signal Argentine loudspeaker present at the site of the camp, but was so small that no powerful receivers were unable to fix.However, only had to bring it to a stationary console connection camps "Crystal Ball", as the noise began to be heard broadcasting hundreds of voices in the further setting up successfully filtered out and caught almost all the signals available on the range of remote communication transmitters, the most distant of which was located at a distance of 14,000 kilometers!The development of the project "Crystal interception immediately imposed stamped" top secret ", but until then some devices made using such amazing properties, yet the public domain. The device "bioradar Peleng radiation of living tissues of organisms, filtering them by frequency and distance. As a result, conventional liquid crystal display you can see the tags that indicate living organisms. Since the unit was created primarily for exploration in the Zone, assistant Semenov uploaded to the database device information about the frequencies most often emitted by representatives of the local fauna. Unfortunately, the organisms Zone mutate so quickly that within a few weeks a list of frequencies had to be updated. However, the resourceful stalkers among the first owners of the device, invented a simple, though barbaric way bearing mutants - if there's device, the best on the belt, put a sample of biological tissue of the monster types you want to detect - the device will automatically reset, and mutants of the desired type will be displayed on the screen is. The disadvantages of the device is it's high cost.</text>
+</string>
+<string id="bioradar">
+	<text>BioRadar</text>
+</string>
+<string id="infusomat_vikl_s">
+	<text>Switched off Auto-Stimulator</text>
+</string>
+<string id="enc_steroids_black">
+	<text>Attack stimulants known for a long time. The ancient Vikings before battle ate mushrooms, drank beer, brandy, so that in battle one does not feel pain and go into a state of "Berserker", a warrior demon who possessed incredible strength and endurance. Berserkerstvo, though called combat madness, considered the highest military valor. At all times there were certain types of combat stimulants, and this kind - the representative of the last generation per se. Stimulator Black Speed "is a blend of powerful narcotic painkillers, anti-shock and hormonal drugs used in sports medicine as a rapid-doping, as well as military special units where their use is strictly regulated. Allowed to use as a last resort in extreme situations, when necessary to mobilize all resources of the body for a short time. Officially stimulant called Combined stimulants sixth-generation ("PCB-6"), but among the special forces who had experienced myself its effect is much more common to hear the name "Black Speed. People who used the tool, explain such an exotic name properties of the drug - first apply becomes unwieldy machinery of death, does not feel pain, fear, shock, with a force of several people, and after expiration (ie few minutes) comes the reckoning. Depleted resources of an organism need to be restored, there is a drop in blood pressure, a rare breath, bradycardia. Possible short-term loss of consciousness. Within a few days after use requires complete rest, or possible attacks of sudden headache, convulsions, sudden jumps in blood pressure - both downward and upward, which is why there are cases of heart attacks and strokes even in young people. Confirmed drug PCB-6 is prohibited, but on the black market it can still be found. Rumor has it that his release is still continuing to use SWAT teams.</text>
+</string>
+<string id="steroids_black">
+	<text>"Black Speed" Stimulator</text>
+</string>
+<string id="steroids_black_s">
+	<text>"Black Speed" Stimulator</text>
+</string>
+<string id="art_box_special">
+	<text>Container for three Artefacts</text>
+</string>
+<string id="art_box_special_s">
+	<text>Container for three Artefacts</text>
+</string>
+<string id="art_box_1special">
+	<text>Container for one Artefact</text>
+</string>
+<string id="art_box_1special_s">
+	<text>Container for one Artefact</text>
+</string>
+<string id="art_box_8special">
+	<text>Container for eight Artefacts</text>
+</string>
+<string id="art_box_8special_s">
+	<text>Container for eight Artefacts</text>
+</string>
+<string id="enc_arc_art_box_basic">
+	<text>Average researcher container for artifacts. Designed for hand-carrying artifacts moderate risk. Despite its small size, it is providing the necessary protection from the mean and anomalous radioactivity. Made from a special heavy-duty plastic, coated with a layer on top of the latest metal alloy, obtained in the laboratory at Lake Yantar. Very popular with professional miners artifacts.</text>
+</string>
+<string id="enc_arc_art_box_8basic">
+	<text>Light researcher container for artifacts. Designed for hand carrying radioactive artifacts. Despite its small size, it is providing the necessary protection of the weak radiation. Made from a special heavy-duty plastic, coated with a layer on top of the latest metal alloy, obtained in the laboratory at Lake Yantar. Very popular with professional miners artifacts.</text>
+</string>
+<string id="enc_arc_art_1box_basic">
+	<text>Special researcher container for artifacts. Designed for hand-carrying particularly dangerous or particularly radioactive artifacts. Despite its small size, it is providing the necessary protection from the anomalous and radiation. Made from a special heavy-duty plastic, coated with a layer on top of the latest metal alloy, obtained in the laboratory at Yantar. The process of manufacturing is kept secret, but we know the hard radiation of any intensity almost completely screened by the walls of the container. Very popular with professional miners artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_1">
+	<text>Special researcher container for artifacts. This container contains a single artifact.</text>
+</string>
+<string id="enc_arc_art_box_basic_2">
+	<text>Special researcher container for artifacts. This container contains two artifact.</text>
+</string>
+<string id="enc_arc_art_box_basic_3">
+	<text>Special researcher container for artifacts. This container contains three artifact.</text>
+</string>
+<string id="enc_arc_art_box_basic_4">
+	<text>Special researcher container for artifacts. This container contains four artifact.</text>
+</string>
+<string id="enc_arc_art_box_basic_5">
+	<text>Special researcher container for artifacts. This container contains five artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_6">
+	<text>Special researcher container for artifacts. This container contains six artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_7">
+	<text>Special researcher container for artifacts. This container includes seven artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_8">
+	<text>Special researcher container for artifacts. This container contains eight artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_9">
+	<text>Special researcher container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_10">
+	<text>Special researcher container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_11">
+	<text>Special researcher container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_12">
+	<text>Special researcher container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_13">
+	<text>Special researcher container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_14">
+	<text>Special researcher container for artifacts.</text>
+</string>
+<string id="enc_kontrolers_diarys">
+	<text>"Eye of the Beholder"</text>
+</string>
+<string id="arc_diary_1_name">
+	<text>Diary experimental</text>
+</string>
+<string id="arc_diary_1_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_2_name">
+	<text>Scientific Notes</text>
+</string>
+<string id="arc_diary_2_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_3_name">
+	<text>Pile of letters. (Secret)</text>
+</string>
+<string id="arc_diary_3_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_4_name">
+	<text>Entries of stalker</text>
+</string>
+<string id="arc_diary_4_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_5_name">
+	<text>Report young specialist</text>
+</string>
+<string id="arc_diary_5_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_6_name">
+	<text>S.T.A.L.K.E.R.s Diary</text>
+</string>
+<string id="arc_diary_6_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_7_name">
+	<text>Zombie Entries</text>
+</string>
+<string id="arc_diary_7_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_8_name">
+	<text>Records found</text>
+</string>
+<string id="arc_diary_8_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_9_name">
+	<text>S.T.A.L.K.E.R.s Diary</text>
+</string>
+<string id="arc_diary_9_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_10_name">
+	<text>Unknown Diary</text>
+</string>
+<string id="arc_diary_10_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_11_name">
+	<text>Diary on the Experiment</text>
+</string>
+<string id="arc_diary_11_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_12_name">
+	<text>Entries Byvaly</text>
+</string>
+<string id="arc_diary_12_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_13_name">
+	<text>Military Records</text>
+</string>
+<string id="arc_diary_13_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_14_name">
+	<text>Notes on the Experiment</text>
+</string>
+<string id="arc_diary_14_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_15_name">
+	<text>report on the experience</text>
+</string>
+<string id="arc_diary_15_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_16_name">
+	<text>Duty Officer's Diary</text>
+</string>
+<string id="arc_diary_16_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_17_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_17_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_18_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_18_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_19_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_19_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_20_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_20_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_21_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_21_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_22_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_22_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_23_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_23_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_24_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_24_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_25_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_25_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_26_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_26_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_27_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_28_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_28_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_29_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_29_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_30_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_30_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_31_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_31_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_32_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_32_descr">
+	<text>Entries encrypted</text>
+</string>
+<string id="arc_diary_33_name">
+	<text>Improbable information</text>
+</string>
+<string id="arc_diary_33_descr">
+	<text>Entries encrypted</text>
+</string>
+</string_table>
