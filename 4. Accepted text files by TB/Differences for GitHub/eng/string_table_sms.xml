@@ -1,4 +1,4 @@
-<!-- TB3D 1.0.9.9.9.9 sms_pilot, _girl3_nachalo, sms_shadows_cube, sms_shadows_speech, sms_solvador, harsh environment, hunt_part2_message, sms_syac, sms_zaschita_portal, sms_foto_mozg_ok, sms_mina_pant, sms_pili_sdelal_psevdofoto - aleks1970, 186 char limit to sms messages!!!! -->
+<!-- TB3D 1.1.0.0.0.0 sms_pilot, _girl3_nachalo, sms_shadows_cube, sms_shadows_speech, sms_solvador, harsh environment, hunt_part2_message, sms_syac, sms_zaschita_portal, sms_foto_mozg_ok, sms_mina_pant, sms_pili_sdelal_psevdofoto - aleks1970, 186 char limit to sms messages!!!! -->
 <string_table>
 
 <string id="nl_default">
@@ -89,7 +89,8 @@
 <string id="sms_mihai">
 <text>MIHAI</text>
 </string>
-<string id="sms_vtaly">
+<!-- corrected: "vtaly" to a "vitaly" - 109999 - aleks1970 -->
+<string id="sms_vitaly">
 <text>VITALY ANIMAL</text>
 </string>
 <string id="sms_strelok">
@@ -251,8 +252,9 @@
 <string id="sms_perfumer">
 <text>PERFUMER</text>
 </string>
+<!-- corrected: "NORMON" to a "NORMAN" - 109999 - aleks1970 -->
 <string id="sms_norman">
-<text>NORMON</text>
+<text>NORMAN</text>
 </string>
 <string id="sms_omborok">
 <text>OMBOROK</text>
@@ -294,7 +296,7 @@
 <text>SYAC</text>
 </string>
 
-<!-- TB3D ------------------------------->
+<!-- TB3D -->
 <string id="sms_coll_greet">
 <text>Marked One.. made it this far eh, look like crap though! Well... come on in then before the military come back... OH.. and watch your back... you're reputation precedes you!</text>
 </string>
@@ -347,7 +349,7 @@
 <text>Explosives</text>
 </string>
 <string id="sms_babah_another">
-<text>Blown up at another location </text>
+<text>Blown up at another location</text>
 </string>
 <string id="sms_babah_strange">
 <text>Here a strange place ...</text>
@@ -362,13 +364,13 @@
 <text>Nothing has blown up!</text>
 </string>
 <string id="sms_babah_timer">
-<text>Timer is running! Urgent need to put it and retreat to a safe distance. </text>
+<text>Timer is running! Urgent need to put it and retreat to a safe distance.</text>
 </string>
 <string id="sms_babah_nil">
-<text>babah obj == nil: id </text>
+<text>babah obj == nil: id</text>
 </string>
 <string id="sms_babah_name">
-<text>, name </text>
+<text>, name</text>
 </string>
 <string id="sms_car_blowout">
 <text>Radio not available during blowut!</text>
@@ -377,7 +379,7 @@
 <text>To use the repair kit you should stay in the car!</text>
 </string>
 <string id="sms_car_found">
-<text>You have found one of the unique cars! It remains to find </text>
+<text>You have found one of the unique cars! It remains to find</text>
 </string>
 <string id="sms_car_found_all">
 <text>You've found all the unique autos! Received award: M-134 Minigun 'Plus', Carton FMJ 5.56x45mm</text>
@@ -395,7 +397,7 @@
 <text>What about that tunnel and those gold bars?\nWhy has the energy levels gone up near the NPP and not in it?\nSomething is...</text>
 </string>
 
-<!-- arhara_dialog ------------------------>
+<!-- arhara_dialog -->
 <string id="sms_baza_vxod">
 <text>to the entrance of the base is disabled</text>
 </string>
@@ -858,7 +860,8 @@
 <string id="sms_idu_na_nz_2">
 <text>Understand you. As for Black Doctors Think, I'm almost sure: it not strange that an eminent scientist distinguished stuffed corpse just arriving at the hospital?</text>
 </string>
-<string id="sms_idu_na_nz_2">
+<!-- corrected: "sms_idu_na_nz_2" to a "sms_idu_na_nz_2_2" - 109999 - aleks1970 -->
+<string id="sms_idu_na_nz_2_2">
 <text>I still cannot believe that the Peregrine Falcon in his mask did not see Fritz, that women don't see.. But the doctor? That's for your meditation while walking. Give Fang my greetings.</text>
 </string>
 <string id="sms_idu_na_nz_3">
@@ -960,7 +963,8 @@
 <string id="sms_chaes2_kluk_2">
 <text>Strelok, now that you're there. This can not be done - what are you, the military did not know? Return after decoding back to the station, they are checking all the coordinates.</text>
 </string>
-<string id="sms_chaes2_kluk_2">
+<!-- corrected: "sms_chaes2_kluk_2" to a "sms_chaes2_kluk_2_2" - 109999 - aleks1970 -->
+<string id="sms_chaes2_kluk_2_2">
 <text>Only one way out - look for yourself knocked chopper - they should not be so much. Pay attention to those where there are dead bodies in black Armor, it must be exactly the turntables.</text>
 </string>
 <string id="sms_chaes2_kluk_3">
@@ -1660,17 +1664,17 @@
 <text>Hey, Major took the time ... vodka went to the fire ... What more</text>
 </string>
 <string id="sms_kuznets_1">
-<text>I told you ... occupy a position, take your binoculars and watch ... Let the people drink, eat ... </text>
+<text>I told you ... occupy a position, take your binoculars and watch ... Let the people drink, eat ...</text>
 </string>
 <string id="sms_kuznets_1_2">
 <text>Previously, what people do not start fooling around to take a leak in the bushes sharitsya - do not poke your nose to the fire - shoot.</text>
 </string>
-<!-- 109999, NEED TO CHECK WHY DUPLICATED!!! -->
+<!-- 109999, NEED TO CHECK WHY DUPLICATED!!! - corrected "sms_narod_napilsy_1", new text - aleks1970 -->
 <string id="sms_narod_napilsy">
 <text>Everything seems people get drunk ... oh. a little vodka for the same military happiness need ... and why I was carrying 10 bubbles - and one would be enough...</text>
 </string>
 <string id="sms_narod_napilsy_1">
-<text>Everything seems people get drunk ... oh. a little vodka for the same military happiness need ... and why I was carrying 10 bubbles - and one would be enough...</text>
+<text>If you are sure - move towards the fire. Inspection. If there is no case - ask the captain. Shooting them - do not even think about it. Around vodka - they had more vodka before you're offer your crate, no less!!</text>
 </string>
 <string id="sms_yntar_k_molnii1">
 <text>Lightning, hello. I've got a few obscure items lumped ... It looks like - it isomorphs. I am now Warlab, then plan to you.</text>
@@ -1882,9 +1886,7 @@
 <string id="sms_del_blok_and_restr">
 <text>Passkey received. An attempt to deactivate the locking lever activated a teleport.</text>
 </string>
-<!-- string id="sms_zaschita_teleport"> <!-- ???, aleks1970 - ->
-<text>Protection of the teleport is activated.</text>
-</string-->
+<!-- Deleted: "sms_zaschita_teleport" - aleks1970 -->
 <string id="sms_zaschita_portal"> <!-- corrected, aleks1970 -->
 <text>Protection of the teleport is activated.</text>
 </string>
@@ -2242,18 +2244,17 @@
 
 <!-- OGSE style companions -->
 <string id="sms_your_companion">
-<text>Your companion </text>
+<text>Your companion</text>
 </string>
 <string id="sms_companion_dead">
-<text> has died!</text>
+<text>has died!</text>
 </string>
 <string id="sms_companion_dead_2">
-<text> has died, too. Your reputation with stalkers has been damaged!</text>
+<text>has died, too. Your reputation with stalkers has been damaged!</text>
 </string>
 <string id="sms_is_enemy">
-<text> has become your enemy!</text>
+<text>has become your enemy!</text>
 </string>
-
 <string id="sms_no_info">
 <text>No information [</text>
 </string>
@@ -2283,7 +2284,6 @@
 <string id="sms_x8_doc1_3">
 <text>By the way.. there is something strange, an entry is repeated constantly. Military but I can't make it out...\nWhat do you think?</text>
 </string>
-
 <string id="sms_x8_doc2">
 <text>I think that's what.. you have to move. We're in trouble.. our last conversation overheard. And maybe someone else knew about the Cube ... Maybe the one who let you tip me...</text>
 </string>
@@ -2296,34 +2296,27 @@
 <string id="sms_x8_doc2_4">
 <text>The Cordon around the Perimeter, in 8 hours'.\nWrite exactly as I wrote, then maybe they will think you already found the Cube ... Try.</text>
 </string>
-
 <string id="sms_shadows_cube1">
 <text>Excellent! They fell for it ... Well now let them wait for you at the edge of the zone. Heh... Well okay... What's in the apartment, just Pavel's Notepad?</text>
 </string>
-
 <string id="sms_shadows_cube2">
 <text>You need to find some local stalkers, try the old laundry, used to be a station a while back. They may know about the lab...</text>
 </string>
-
 <string id="sms_companion_sig_found">
-<text>Your companion's PDA signal found. </text>
+<text>Your companion's PDA signal found.</text>
 </string>
 <string id="sms_companion_sig_proximity">
-<text> is in proximity!</text>
+<text>is in proximity!</text>
 </string>
-
 <string id="sms_sak_cube">
 <text>Shadows..  shplb.  oul cube i..   sssssssnnnnt..   sst..  ange..</text>
 </string>
-
 <!-- harsh environment -->
 <string id="harsh_environment_title">
 <text>ENVIRONMENT WARNING</text>
 </string>
-
 <string id="harsh_environment_msg">
 <text>You are in a dangerously high radiation area, leave immediately!</text>
 </string>
-
 <!-- Moved duplicated "hunt_part2_message" string id in to the "valerich_stable.xml" file - aleks1970 -->
 </string_table>
