@@ -1,0 +1,14 @@
+tb3d_modders script
+This was submitted straight to TB on 01 Feb 16, within two days of the 1.10000 patch release, in case he needed to work on it further. No code was touched, just tidying up of the text on the right to make it easier to understand. Eric has told me that he will check it
+
+The REWORKED folder contains three re-edited files taken from Aleks' 6. Sword2012-text-amendments folder
+
+The CORRECTED and ORIGINALS folders contain two files from just before the new 1.10001 patch
+
+The 'books' folder contains just one small file with minor text correction, from just before the new 1.10001 patch
+
+
+Steve and I shall now work only on files from the 1.10001 patch
+
+
+Sword2012 - 08 Feb 16

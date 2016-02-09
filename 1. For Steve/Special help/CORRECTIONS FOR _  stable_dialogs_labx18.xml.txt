@@ -1,0 +1,30 @@
+<string id="dar_explorer_dialog_11">
+<text>Hmm. What kind of job? Something you want? Or maybe something you already found? I've heard this place is full of surprises...</text>
+</string>
+
+;converted from russian grammar
+
+
+I cannot change the folowing strings as I don not reconzie the story or conext and there is not enough backround information to determine the context.
+
+I may post these strings on the forum for help...
+
+<string id="dar_explorer_dialog_111">
+<text>Sorry, I can not tell, and even once.</text>
+</string>
+<string id="dar_explorer_dialog_1111">
+<text>Yes you wait to run away. Run into more ... And I found? I'm also here not just drag.</text>
+</string>
+<string id="dar_explorer_dialog_11111">
+<text>This is my business, what I found.</text>
+</string>
+
+
+
+<string id="dar_explorer_dialog_11112">
+<text>I found the documents in X-18. The bartender promised to pay well.</text>
+</string>
+
+; changed from Russian grammar
+
+
