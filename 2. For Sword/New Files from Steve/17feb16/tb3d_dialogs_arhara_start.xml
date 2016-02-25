@@ -955,13 +955,13 @@ Well, I have one of those objects here already, and will offer it as a reward to
 		<text>Crap! OK, I'm listening, shoot.</text>
 	</string>
 	<string id="voronin_stol_dostat_3">
-		<text>Marked One, you've done pretty well for yourself so far... so listen: My data tells me that bandits have established new communications with the mercenaries and have been informing them of our movements. Things are serious. My men are constantly getting ambushed. They don't grow on trees you know, although anything seems possible in the Zone, eh stalker?</text>
+		<text>Marked One, you've done pretty well for yourself so far... So listen: My data tells me that bandits have established new communications with the mercenaries and have been informing them of our movements. Things are serious. My men are constantly getting ambushed. They don't grow on trees you know, although everything else seems possible in the Zone, eh stalker?</text>
 	</string>
 	<string id="voronin_stol_dostat_4">
 		<text>Well?, I don't read minds, ESPECIALLY yours!, so spill it already!</text>
 	</string>
 	<string id="voronin_stol_dostat_5">
-		<text>Mister CONGENIALITY we have here! Go find me a computer and videolink device. The video signal has been tracked to the ATP, and the computer is somwhere inside the base in the Dark Valley. My agents report there's a secret room in the basement that houses the equipment.</text>
+		<text>Mister CONGENIALITY we have here! Go find me a computer and a videolink. The computer is somewhere inside  the Dark Valley Bandit Base. My agents report there's a secret room somewhere that houses the equipment. Oh and have a look around for a book... It's very important.</text>
 	</string>
 	<string id="voronin_stol_dostat_6">
 		<text>General, if I get all these pieces of garbage, would you prepare for me an officer's uniform, not below colonel?</text>
@@ -1090,18 +1090,18 @@ Well, I have one of those objects here already, and will offer it as a reward to
 		<text>Big words General! Whats going on?</text>
 	</string>
 	<string id="voronin_infa_gg_3">
-		<text>I have just been informed that Mercenaries are going to attack Duty's northern post bordering the Wild territory. I've already sent more men, and your presence would help the defense. I don't want to send someone who is going to hide in a corner and shit himself while my fighters perish! Therefore your task is to destroy the leader of the group, he goes by the nickname Hump.</text>
+		<text>I have just been informed that Mercenaries are going to attack Duty's northern post bordering the Wild territory. I've already sent more men, and your presence would help the defense. I don't want to send someone who is going to hide in a corner and shit himself while my fighters perish! Therefore your task is to destroy the leader of the group. He goes by the nickname Hump.</text>
 	</string>
 	<string id="voronin_infa_gg_4">
 		<text>Hump?! Where are we? Notre Dame? Sounds like a snoozer to me!</text>
 	</string>
 	<string id="voronin_infa_gg_5">
-		<text>Its all about the Hardware!!!! Not Idle talk! I expect you to destroy Hump. There'll be no further dialogue otherwise. Your reward is whatever you find on Hump and his Mercenary mob. You will approach me later. I will give you a signal when they are about to attack. But before you can do this, you need to aquire a Thunder-Storm</text>
+		<text>Its all about the Hardware!!!! Not Idle talk! I expect you to destroy Hump. There'll be no further dialogue otherwise. Your reward is whatever you find on Hump and his Mercenary mob. You will approach me later. I will give you a signal when they are about to attack. But before you can do this, you need to aquire an OTS 14 Tunder. It's very similar to the Groza</text>
 	</string>
 
 
 	<string id="voronin_infa_gg_poluch_0">
-		<text>Hey General, Say Hello to My Little Friend! One kick-ass Thunder-storm. I'm ready to rock-n-roll!</text>
+		<text>Hey General, Say Hello to My Little Friend! One kick-ass OTS. I'm ready to rock-n-roll!</text>
 	</string>
 	<string id="voronin_infa_gg_poluch_1">
 		<text>Good Man! Now I see you mean bussiness!</text>

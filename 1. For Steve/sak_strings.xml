@@ -5,97 +5,97 @@ life heart 41-11, artmod_873_dialog_0, removed some hard returns, artmod_821, 84
 new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, removed '-' -->
 <string_table>
 	<string id="freedom_dinamit_0">
-		<text>Your men on the barrier say that you're looking for a reliable person?</text>
+		<text>Your guys on the Barrier say that you're looking for someone reliable...</text>
 	</string>
 	<string id="freedom_dinamit_1">
-		<text>My men have almost dug a tunnel to the Dark Valley, but to complete the work we need dynamite. I know that it can be found in the Cordon rookie camp, can you bring it for us? You will be rewarded.</text>
+		<text>My men have almost finished digging a tunnel to the Dark Valley, but to complete it we need a few sticks of dynamite. I saw some in the Cordon rookie camp recently. Can you get go and it for us? You'll be rewarded</text>
 	</string>
 	<string id="freedom_dinamit_2">
-		<text>Ok, I'll look around when I get to Cordon again.</text>
+		<text>Ok, I'll have a look around when I'm at Cordon next</text>
 	</string>
 	<string id="freedom_dinamit_3">
-		<text>No, I've got better things to do.</text>
+		<text>Sorry, I've other things to do</text>
 	</string>
 	<string id="freedom_dinamit_have_0">
-		<text>Hi, I brought the dynamite.</text>
+		<text>Hi! Here's your dynamite</text>
 	</string>
 	<string id="freedom_dinamit_have_1">
-		<text>Come on, come on, Let's see!</text>
+		<text>Wow! Let's see!</text>
 	</string>
 	<string id="freedom_dinamit_have_2">
-		<text>Here take this heavy burden off my hands, this better be worth it.</text>
+		<text>You've no idea what it's like carrying this stuff. I've been afraid to run, or drop my rucksack, or get too close to any anomaly! I'm glad to be rid of it, that's for sure. I just hope it was worth it...</text>
 	</string>
 	<string id="freedom_dinamit_have_3">
-		<text>Well thank you, look what we are planning right here. Right after the login boxes do, and exit near the lake in the Dark Valley. Need be, help.</text>
+		<text>Thank you. Here's what we're planning. It should come out near the lake in the Dark Valley. If you ever need to use it, feel free. Just keep it a secret, okay?</text>
 	</string>
 	<string id="freedom_dinamit_have_4">
-		<text>Thanks. I would be.</text>
+		<text>Thanks, and I promise...</text>
 	</string>
 	<string id="mil_leader_start_dialog_15001">
-		<text>Hi Marked One. We've been waiting for you to bring the dynamite.</text>
+		<text>Hi, Marked One. We've been waiting for you, and the dynamite...</text>
 	</string>
 	<string id="mil_leader_start_dialog_15002">
-		<text>Yes. Here it is.</text>
+		<text>Yes. Sorry about the delay. I needed to be careful with it</text>
 	</string>
 	<string id="mil_leader_start_dialog_15003">
-		<text>Well, now the guys will blow up Jumper, and we shall be free to go! Hmm, as I bent, Freedom to freely walk, MDA, In general, the place I pointed out to you, use.</text>
+		<text>Well, now the guys'll blow up the final part, and then Freedom will be free to travel freely. It will for your use too, friend</text>
 	</string>
 	<string id="mil_leader_start_dialog_15004">
-		<text>Well, look what you did there.</text>
+		<text>Wow, well done. I'm impressed</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_0">
-		<text>The information on Ghost mentioned something about an unmarked road.</text>
+		<text>The information on Ghost mentioned something about an unmarked road</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_1">
-		<text>You have a sharp eye. But you know the old saying, you don't get something for nothing. We have been experimenting with a few rare artifacts. One in particular has been impossible for me to aquire, the Grandmothers Beads of the Burer. Surely you've heard about this artefact? Bring it to me and I will show you the trail.</text>
+		<text>You've a sharp eye. But you know the old saying, you don't get anything of value for nothing? We've been experimenting with a few rare artifacts. One in particular has been impossible to aquire, the 'Elder Glassbeads'. Have you heard of it? Bring one to me, and I'll show you the trail</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_2">
-		<text>I'll try to find it for you.</text>
+		<text>I'll try to find one for you</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_3">
-		<text>I'm going to the Monolith, so I don't have the time right now.</text>
+		<text>I need to go to the Monolith, so I don't have time right now</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_0">
-		<text>I brought you the Grandmothers Beads of the Burer.</text>
+		<text>Here, I brought you an Elder Glassbeads</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_1">
-		<text>You've got to be kidding me. Let me see it!!</text>
+		<text>You've got to be kidding me. Let me see it!</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_2">
-		<text>Here, take it.</text>
+		<text>Here, it's yours...</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_3">
-		<text>Amazing! simply amazing! Ok, here's the trail.\nI will mark it on your map, from Agroprom leading straight here. See?\nHowever; I don't know the way back. There is evidence that the Military, at Agroprom, have documents that show the location of the road. But the case with the documents has gone missing. Do you think you could find them for me?</text>
+		<text>Amazing! Simply amazing! Okay, here's the trail. I'll mark it on your map, from Agroprom leading straight here. See? \nHowever, I don't know the way back. There's evidence that the Military at Agroprom have documents that show the location of the road. But the case with those documents has gone missing. Do you think you could find them for us?</text>
 	</string>
 	<string id="yan_scientist_find_case_0">
-		<text>Are these documents still in the vicinity of Agroprom?</text>
+		<text>Are these documents still around Agroprom?</text>
 	</string>
 	<string id="yan_scientist_find_case_1">
-		<text>They are not in the Military Base, but they can't be very far from it, either.</text>
+		<text>They're definitely not in the Military Base. We've looked. But they can't be far from it, either</text>
 	</string>
 	<string id="yan_scientist_find_case_2">
-		<text>I will find them for you, don't worry.</text>
+		<text>I'll find them for you, don't worry</text>
 	</string>
 	<string id="yan_scientist_find_case_3">
-		<text>No, Im going to make my way to the Monolith.</text>
+		<text>No, I need to make my way to the Monolith</text>
 	</string>
 	<string id="yan_scientist_find_case_4">
-		<text>That's great news!! I will await your return.</text>
+		<text>That's great news! I'll await your return</text>
 	</string>
 	<string id="yan_scientist_find_case_5">
-		<text>Well, there will still be time, come back as soon as you can.</text>
+		<text>Well, there'll still be time. Come back as soon as you can</text>
 	</string>
 	<string id="yan_scientist_find_case_have_0">
-		<text>I brought you the documents.</text>
+		<text>I brought you the documents</text>
 	</string>
 	<string id="yan_scientist_find_case_have_1">
-		<text>Let's see what you have brought.</text>
+		<text>Let's see what you have</text>
 	</string>
 	<string id="yan_scientist_find_case_have_2">
-		<text>Here, take a look.</text>
+		<text>Here, take a look</text>
 	</string>
 	<string id="yan_scientist_find_case_have_3">
-		<text>Yes, this was exactly what we were looking for. This gives the location of the path from here to Agroprom.</text>
+		<text>Yes, exactly what we were looking for. They give the location of the path from here to Agroprom</text>
 	</string>
 	<string id="yan_scientist_find_case_have_4">
 		<text>Thank you, Professor!</text>
@@ -107,40 +107,40 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Core</text>
 	</string>
 	<string id="dolgovazyi_repair_0">
-		<text>Good Master, do you perform repairs?</text>
+		<text>Hi, do you do repairs?</text>
 	</string>
 	<string id="dolgovazyi_repair_1">
-		<text>Yes, but I warn you, it's not cheap. The more wear, the more expensive it will be. Let's see what needs fixing,\n.\nThe list of possible repairs:</text>
+		<text>Yes, but it's not cheap. It's very difficult to get decent spares here. The more wear, the more expensive it will be. What would you like done?\n.\nList of repairs possible:</text>
 	</string>
 	<string id="dolgovazyi_repair_2">
-		<text>Repair my sidearm.</text>
+		<text>Would you repair my sidearm, please?</text>
 	</string>
 	<string id="dolgovazyi_repair_3">
-		<text>Repair my primary weapon.</text>
+		<text>Would you repair my primary weapon, please?</text>
 	</string>
 	<string id="dolgovazyi_repair_4">
-		<text>Repair my Armour.</text>
+		<text>Would you repair my armour, please?</text>
 	</string>
 	<string id="dolgovazyi_repair_5">
-		<text>Damn, money strained. Please try later.</text>
+		<text>Sorry, I'm short of cash at the moment. I'll come back later</text>
 	</string>
 	<string id="dolgovazyi_repair_6">
-		<text>Schas, all at once will make,...\n.\nDone, take!</text>
+		<text>Just give me a moment...\n.\nThere you go. All yours!</text>
 	</string>
 	<string id="dolgovazyi_repair_7">
-		<text>Yes, Marked One, cool you tapped. So... Somewhere I had armored... Oh there they are... Like that! Yeah... Ugh.\n.\nGet like brand new!</text>
+		<text>Yes, Marked One, cool you tapped. So... Somewhere I had armored... Oh there they are... Like that! Yeah... Ugh.\n.\nGet like brand new! XXX</text>
 	</string>
 	<string id="dolgovazyi_repair_8">
-		<text>Hmm. Excellent work. Hey, where are you pricked? Silent? Well, all right.</text>
+		<text>Hmm. Excellent work. Hey, where are you pricked? Silent? Well, all right. XXX</text>
 	</string>
 	<string id="dolgovazyi_repair_9">
-		<text>Excellent work, well worth the money!!</text>
+		<text>Excellent work, and well worth the money!</text>
 	</string>
 	<string id="dolgovazyi_repair_10">
-		<text>Can you fix something else for me?</text>
+		<text>Can you fix something else for me, please?</text>
 	</string>
 	<string id="dolgovazyi_repair_11">
-		<text>Come on, do it.\n.\nThe list of possible repairs:</text>
+		<text>Sure, no problem\n.\nHere's my price list:</text>
 	</string>
 	<string id="dolgovazyi_name">
 		<text>Lanky</text>
@@ -153,13 +153,13 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 	</string>
 	<!-- moved string id: "ammo-5.7x28_name" in to the string_table_enc_weapons file -aleks1970 -->
 	<string id="enc_weapons1_wpn-pkm">
-		<text>Ammunition -\n: 7.62x54mm\n Capacity -\n: 100 rounds\n.\nSuch a weapon is usually only found on heavily armed detachments of Military STALKERs ... Extremely rare because of it's large size and weight. Requires the use of Exoskeleton armour due to it's large size, as it must be strapped on, and attached to the users armour.\nThe original PK Pulemyot Kalashnikova or Kalashnikovs Machinegun was a development of Kalashnikovs automatic rifle design, firing the 7.62x54mmR Eastern Bloc standard ammunition originally from the Mosin-Nagant. It is equipped with a simple bipod and is designed as a squad-level support weapon; it is also suitable for installation and vehicle mounting. The PK machine gun can be used as a light anti-aircraft weapon when it is put on an AA mount. Most are belt-fed, using linked 25 round belts. These 25-round belts can be linked to any length necessary. Typical of Soviet machine guns, the standard model feeds from the right and ejects it's spent cases via an ejection port on the left side of the weapon, contrary to the right side ejection port seen in most Western machine guns.\nThe PKM Kalashnikovs Machine-gun Modernized is the current model. It is a modernized, product-improved version of the PK weighing only 7.5 kg without ammunition</text>
+		<text>Ammunition -\n: 7.62x54mm\n Capacity -\n: 100 rounds\n.\nThis extremely rare weapon is found only in heavily armed detachments of Military Stalkers. Because of its large size and weight, it requires the use of Exoskeleton armour, to which it must be physically attached.\nThe original PK Pulemyot Kalashnikova or 'Kalashnikov's Machinegun' was a development of Kalashnikov's automatic rifle design, firing the 7.62x54mmR Eastern Bloc standard ammunition originally from the Mosin-Nagant. \nIt is equipped with a simple bipod, and designed as a squad-level support weapon. It is also suitable for fixed installation and vehicle mounting, and can be used as a light anti-aircraft weapon when fixed to an AA mount. \nMost are belt-fed, using linked 25-round belts, which can be joined together to create any length necessary. Typical of Soviet machine guns, the standard model feeds from the right, and expels its spent cases via an ejection port on the left side of the weapon, contrary to the RH side ejection port on most Western machine guns.\nThe current model is the PKM Kalashnikov's Machinegun Modernized, an improved version of the PK and weighing only 7.5kg when empty</text>
 	</string>
 	<string id="wpn-pkm_name">
 		<text>PKM Pulemyot Kalashnikova</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54r_box">
-		<text>Regular sniper cartridge for the SVD, SVU-AS rifles and PKM machine gun. Box with 100 or 250 bullets on the ribbon for manual version of PKM machine gun.\n Despite the fact that the 7N1 adopted in 1967, it is two to three times the modern gross 7N13 in terms of dispersion. However, due to the use of blunt stamped steel core 10, the shell does not have the bullet high breakdown properties.</text>
+		<text>Regular sniper cartridge for the SVD rifle, SVU-AS rifle, and the PKM machine gun. Box with 100 or 250 bullets on the ribbon for manual version of PKM machine gun.\n Despite the fact that the 7N1 was adopted in 1967, it is 2-3 times the modern gross 7N13 in terms of dispersion. However, due to the use of blunt stamped steel core 10, the shell does not have the bullet high breakdown properties. XXX</text>
 	</string>
 	<string id="ammo-7.62x54r_100_s">
 		<text>7.62x54mm (100)</text>
@@ -168,7 +168,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>7.62x54mm (250)</text>
 	</string>
 	<string id="enc_weapons1_wpn-p90">
-		<text>Ammunition: 5.7x28mm FN SS190\n.\nThe FN P90 is a selective fire personal defense weapon (PDW) designed and manufactured by FN Herstal in Belgium. The P90s name is an abbreviation of FNs Project 9.0 - the weapon was created in response to NATO requests for a replacement for 9x19mm Parabellum firearms. It was designed as a compact but powerful firearm for vehicle drivers, operators of crew-served weapons, support personnel, special forces and counter-terrorist groups. The P90 has a futuristic appearance. It features a compact bullpup design and ambidextrous controls, and incorporates several innovations such as the top-mounted magazine and FNs high velocity 5.7x28mm ammunition. The P90 was developed between 1986 and 1990. A P90 TR variant was then introduced in 1999, featuring a triple rail interface system for mounting accessories. Since 2005, the P90 has also been offered to civilian shooters as the PS90, a semi-automatic sporting model with a lengthened barrel</text>
+		<text>Ammunition: 5.7x28mm FN SS190\n.\nThe FN P90 is a selective-fire personal defense weapon (PDW) designed and manufactured by FN Herstal in Belgium. The P90's name is an abbreviation of FN's Project 9.0, in response to NATO requests to replace standard 9x19mm Parabellum firearms. It was designed as a compact but powerful weapon for vehicle drivers, operators of crew-served weapons, support personnel, special forces and counter-terrorist groups. The P90 has a futuristic appearance, featuring a compact bullpup design and ambidextrous controls, and incorporates several innovations - such as the top-mounted magazine and FN's high velocity 5.7x28mm ammunition. Originally developed between 1986 and 1990, a P90 TR variant was introduced in 1999, featuring a triple rail interface system for mounting accessories. Since 2005, the P90 has been offered to civilians as the PS90, a semi-automatic sporting model with a longer barrel</text>
 	</string>
 	<string id="wpn-p90_name">
 		<text>FN P90</text>
@@ -181,31 +181,31 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Ensign Sherstuk</text>
 	</string>
 	<string id="repair_item_outfit_desc">
-		<text>Repair-kit for field repairs of body armour and other equipment.</text>
+		<text>Repair-kit for field repairs of body armour and other vital equipment</text>
 	</string>
 	<string id="repair_item_outfit_name">
 		<text>Remnabor RIA</text>
 	</string>
 	<string id="repair_item_weapon_desc">
-		<text>Repair-kit for weapon field repairs.</text>
+		<text>Repair-kit for field repairs of weapons</text>
 	</string>
 	<string id="repair_item_weapon_name">
 		<text>Remnabor RIW</text>
 	</string>
 	<string id="repair_box_desc">
-		<text>Box for Repair-kits.</text>
+		<text>Box for repair kits</text>
 	</string>
 	<string id="repair_box_name">
-		<text>Tool Box</text>
+		<text>Toolbox</text>
 	</string>
 	<string id="wpn-saiga12c">
 		<text>Saiga 12C</text>
 	</string>
 	<string id="enc_weapons1_saiga12c">
-		<text>"Saiga-12C" automatic shotgun. It is used as an assault weapon for close combat operations. Recommended as a reliable and accurate weapon. It is reloaded automatically due to the energy of powder combustion gases bled from the barrel bore through the barrel port. The shotgun may be equipped with a sight leaf adjustable for windage and elevation, which makes zeroing and firing at moving targets more convenient.\nAmmunition:\n12x70 buckshot,\n12x76 slug,\n12x76 dart.</text>
+		<text>Saiga-12C automatic shotgun. Reliable and accurate, it is used as an assault weapon for close combat operations. Automatic reloading is made possible by feeding combustion gases from the barrel bore through the barrel port. An optional sight leaf, adjustable for windage and elevation, makes zeroing and firing at moving targets more convenient.\nAmmunition:\n12x70 buckshot,\n12x76 slug,\n12x76 dart</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak47">
-		<text>Kalashnikov model 1947 chambered for 7.62x39mm ammunition. It is a simple and reliable weapon, although the cheapness in the production of so many affected the overall useability and accuracy. In the Zone is a fairly rare weapon because of it's lack in service with the army.\nAmmunition:\n7.62x39mm fmj\n7.62x39mm AP</text>
+		<text>Kalashnikov model 1947, chambered for 7.62x39mm ammunition. A simple, reliable and ubiquitous weapon, although the low cost of its production process affected its overall useability and accuracy. Not often seen in the Zone because of its lack in service in the Military.\nAmmunition:\n7.62x39mm fmj\n7.62x39mm AP</text>
 	</string>
 	<string id="device_pda1">
 		<text>PDA</text>
@@ -220,22 +220,22 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>MIL PDA</text>
 	</string>
 	<string id="enc_equipment_device_pda1">
-		<text>A personal digital assistant (PDA), also known as a palmtop computer, is a mobile device that functions as a personal information manager. A PDA has an electronic visual display, enabling it to include a web browser, but some newer models also have audio capabilities, enabling them to be used as mobile phones or portable media players. Many can access the Internet, intranets or extranets via Wi-Fi or Wireless Wide Area Networks.</text>
+		<text>A personal digital assistant (PDA), also known as a palmtop computer, is a mobile device that functions as a personal information manager. It has an electronic visual display, enabling it to include a web browser, but newer models also have audio capabilities, enabling them to be used as mobile phones or portable media players. Many can access the Internet, intranets or extranets via Wi-Fi or Wide Area Networks</text>
 	</string>
 	<string id="enc_equipment_device_pda_npc">
-		<text>A military (PDA), also known as a palmtop computer, is a mobile device that functions as a personal information manager. A PDA has an electronic visual display, enabling it to include a web browser, but some newer models also have audio capabilities, enabling them to be used as mobile phones or portable media players. Many can access the Internet, intranets or extranets via Wi-Fi or Wireless Wide Area Networks.</text>
+		<text>A more rugged version of a consumer personal digital assistant (PDA), also known as a palmtop computer - a mobile device that functions as a personal information manager. It has an electronic visual display, enabling it to include a web browser, but some models also have audio capabilities, enabling them to be used as mobile phones or portable media players. Many can access the Internet, intranets or extranets via Wi-Fi or Wide Area Networks</text>
 	</string>
 	<string id="super_gauss">
 		<text>Supergauss canister</text>
 	</string>
 	<string id="enc_weapons1_ammo_super_gauss">
-		<text>High Energy Capacitor with ready-killer element in store for gauss-pistol. It has enormous destructive power. The energy source is an encapsulated piece of the Artefact "Moonlight".</text>
+		<text>Gauss pistol, a single-handed weapon comprising a high energy capacitor feeding a series of convergence elements, creating an enormously focused destructive pulse from its energy source - an encapsulated piece of a Moonlight artefact</text>
 	</string>
 	<string id="strelok_pda_name">
 		<text>Strelok's PDA</text>
 	</string>
 	<string id="strelok_pda_desc">
-		<text>The PDA belonging to Strelok ... contains a lot of information, but unfortunately almost all of it is in some sort of strange, encrypted format.</text>
+		<text>Strelok's PDA. A lot of people would like to get their hands on this. Contains a wealth of information - almost all of it heavily encrypted</text>
 	</string>
 	<string id="wpn-ak47">
 		<text>AK-47</text>
@@ -245,71 +245,71 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>%c[255,255,128,128]\nBest regards from Syak!</text>
 	</string>
 	<string id="kodes">
-		<text>Code Combinations for the doors</text>
+		<text>Code combinations for the doors</text>
 	</string>
 	<string id="ways_info_door_sak_text">
-		<text>Syak gave me the password code to the door of a small shelter, which is located opposite the turning to Pripyat. This set of numbers is as follows: 1287975.</text>
+		<text>Syak gave me the door code of a small shelter, located opposite the turning to Pripyat - 1287975</text>
 	</string>
 	<string id="dead_monolit_title">
-		<text>Information from dead Monolithian</text>
+		<text>Information from the dead Monolithian</text>
 	</string>
 	<string id="dead_monolit_text">
-		<text>Found documents and photos, could make out 'laboratory' and 'Limansk' but most was hard to read. There was a code which looked like '886677' but that would be a pretty stupid security code so it is probably wrong.</text>
+		<text>Found some mouldy documents and photos. Could make out 'laboratory' and 'Limansk' but the rest is impossible. There's a door code that looks like '886677', but nobody would be stupid enough to create a security code like that, would they?</text>
 	</string>
 	<string id="enc_ways">
 		<text>Transitions located</text>
 	</string>
 	<!-- AR -->
 	<string id="enc_info_red_battery_text">
-		<text>%c[255,255,255,255]Endurance %c[255,1,255,1] +182%\n %c[255,255,255,255]Radiation %c[255,255,1,1] +10%\n %c[255,255,255,255]Beat %c[255,1,255,1] +8%\n %c[255,255,255,255]Electroshock %c[255,1,255,1] +16%\n %c[255,255,255,255]Explosion %c[255,1,255,1] +5%\n %c[255,255,255,255]Bullet-proof %c[255,1,255,1] +5%\n.\n %c[255,224,224,160] Unique artifact in appearance resembles a regular "Battery", but red. Radioactive, emits light. Has the effect of restoration of forces and a bit protects from impact. Artefact "Ruby Battery" may eliminate anomalies "Elektra" and "Vortex"\n.\nArtifact "Battery" strikes anomaly "Snow"\n %c[255,255,255,255]Time transmutation %c[255,224,224,160]5 minutes Zones\n %c[255,255,255,255]The probability of successful transmutation %c[255,1,255,1] 99%\n %c[255,255,255,255]The probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+		<text>%c[255,255,255,255] Radiation %c[255,255,1,1] +10% \n %c[255,255,255,255]Endurance %c[255,1,255,1] +182% \n %c[255,255,255,255]Impact %c[255,1,255,1] +8% \n %c[255,255,255,255]Electricity %c[255,1,255,1] +16% \n %c[255,255,255,255]Explosion %c[255,1,255,1] +5% \n %c[255,255,255,255]Bulletproof %c[255,1,255,1] +2% \n \n%c[255,224,224,160]Unique artefact resembling a regular 'Battery' in appearance, but red. Radioactive, and emits light. Has a positive effect on the restoration of stamina, and offers some cushioning from impact. The 'Ruby Battery' should partially nullify the effects of the 'Elektra' and 'Vortex' anomalies \n \nFormed when a 'Battery' reacts with a 'Snow' anomaly \n %c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time \n %c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99% \n %c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
 	</string>
 	<string id="enc_info_red_spring_text">
-		<text>%c[255,255,255,255]Radiation %c[255,255,1,1] +5%\n %c[255,255,255,255]Beat%c[255,1,255,1] +16%\n %c[255,255,255,255]Explosion %c[255,1,255,1] +6%\n%c[255,255,255,255]Bullet-proof %c[255,1,255,1] +8%\n.\n %c[255,224,224,160] Unique artifact in appearance resembles a regular "spring" but red. Slightly radioactive, emits light. Has the effect of protection from impact. Artefact "Ruby Spring" can eliminate the anomaly of "Whirligig"\n.\nArtifact "Spring" strikes the anomaly "Snow"\n %c[255,255,255,255]Time transmutation %c[255,224,224,160]5 minutes Zones\n %c[255,255,255,255]The probability successful transmutation %c[255,1,255,1] 99%\n %c[255,255,255,255]The probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+		<text>%c[255,255,255,255] Radiation %c[255,255,1,1] +5% \n %c[255,255,255,255]Impact %c[255,1,255,1] +16% \n %c[255,255,255,255]Explosion %c[255,1,255,1] +6% \n %c[255,255,255,255]Bulletproof %c[255,1,255,1] +8% \n \n%c[255,224,224,160]Unique artifact resembling a regular 'Spring' in appearance, but red. Slightly radioactive, and emits light. Offers cushioning from impact. The 'Ruby Spring' should partially nullify the effects of the 'Whirligig' anomaly \n \nFormed when a 'Spring' reacts with a 'Snow' anomaly \n %c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time \n %c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99% \n %c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
 	</string>
 	<string id="enc_info_red_pellicle_text">
-		<text>%c[255,255,255,255]Health %c[255,1,255,1] +700%\n %c[255,255,255,255]Bleeding %c[255,1,255,1] -33%\n %c[255,255,255,255]Radiation %c[255,255,1,1] +5%\n %c[255,255,255,255]Beat %c[255,1,255,1] +5%\n %c[255,255,255,255]Bullet-proof %c[255,255,1,1] -50%\n.\n %c[255,224,224,160] Unique artifact in appearance resembles a regular "Pellicle", but red. Slightly radioactive, emits light. Has the effect of the rapid healing of open wounds, but significantly reduces the protection of bullet impacts. Artefact Ruby Pellicle can eliminate the anomaly "Springboard"\n.\nArtifact "Pellicle" rushes to the anomaly "Snow"\n %c[255,255,255,255]Time transmutation %c[255,224,224,160]5 minutes Zones\n %c[255,255,255,255]The probability successful transmutation %c[255,1,255,1] 99%\n %c[255,255,255,255]The probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+		<text>%c[255,255,255,255] Radiation %c[255,255,1,1] +5%  \n %c[255,255,255,255]Bleeding %c[255,1,255,1] -33% \n %c[255,255,255,255]Health %c[255,1,255,1] +700% \n %c[255,255,255,255]Impact %c[255,1,255,1] +5% \n %c[255,255,255,255]Bulletproof %c[255,255,1,1] -50% \n \n%c[255,224,224,160]Unique artifact resembling a regular 'Pellicle' in appearance, but red. Slightly radioactive, and emits light. Has the remarkable effect of rapidly healing open wounds, while detrimentally attracting small particles of metal in motion I.e. Bullets. The 'Ruby Pellicle' should partially nullify the effects of the 'Springboard' anomaly \n \nFormed when a 'Pellicle' reacts with a 'Snow' anomaly \n %c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time \n %c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99% \n %c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
 	</string>
 	<string id="enc_enc_info_way100a_text">
-		<text>In Agroprom is the transition to the Cordon</text>
+		<text>Transition discovered from Agroprom to the Cordon</text>
 	</string>
 	<string id="enc_enc_info_way101a_text">
-		<text>In the Cordon is the transition to Agroprom</text>
+		<text>Transition discovered from the Cordon to Agroprom</text>
 	</string>
 	<string id="enc_enc_info_way102a_text">
-		<text>From Agroprom to the location of Yantar</text>
+		<text>Transition discovered from Agroprom to Yantar</text>
 	</string>
 	<string id="enc_enc_info_way103a_text">
-		<text>In the swamp of Yantar is a direct path to Agroprom</text>
+		<text>Transition discovered from Yantar to Agroprom</text>
 	</string>
 	<string id="enc_enc_info_way104a_text">
-		<text>From Rostock to the army warehouses</text>
+		<text>Transition discovered from Rostock to the Army Warehouses</text>
 	</string>
 	<string id="enc_enc_info_way105a_text">
-		<text>In army depots you have a direct road to the Wild Territory.</text>
+		<text>Transition discovered from the Army Warehouses to the Wild Territory.</text>
 	</string>
 	<string id="enc_enc_info_way106a_text">
-		<text>At the Research Center of Yantar you can get to the Brain Scorcher.</text>
+		<text>Transition discovered from Yantar to the Brain Scorcher</text>
 	</string>
 	<string id="enc_enc_info_way107a_text">
-		<text>There is an exit from the Radar to the Dark Valley.</text>
+		<text>Transition discovered from Radar to the Dark Valley</text>
 	</string>
 	<string id="enc_enc_info_way108a_text">
-		<text>From the Radar is a direct road to Yantar</text>
+		<text>FTransition discovered from Radar to Yantar</text>
 	</string>
 	<string id="enc_enc_info_way109a_text">
-		<text>In the Dark Valley you have the opportunity to go to the Brain Scorcher</text>
+		<text>Transition discovered from the Dark Valley to the Brain Scorcher</text>
 	</string>
 	<string id="enc_enc_info_way110a_text">
-		<text>From the Dark Valley to the Freedom Base</text>
+		<text>Transition discovered from the Dark Valley to the Army Warehouses</text>
 	</string>
 	<string id="enc_enc_info_way111a_text">
-		<text>Lukash reported on the presence of a passage from the Freedom Base to the Dark Valley</text>
+		<text>Transition discovered from the Army Warehouses to the Dark Valley</text>
 	</string>
 	<string id="enc_enc_info_way112a_text">
-		<text>The Informant has sold new information on a transition from the Radar to the Army Warehouses. Huckster, made it so... And where will you go!?</text>
+		<text>Transition bought from Snitch, from Radar to the Army Warehouses. Does it work?</text>
 	</string>
 	<string id="enc_enc_info_way112b_text">
-		<text>Explorer in the marshes showed me a trail to the Old Village</text>
+		<text>Transition discovered from the Swamp to the Old Village</text>
 	</string>
 	<string id="enc_enc_info_way113a_text">
 		<text>Go to the Army Warehouses</text>
@@ -321,497 +321,500 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Go to Chernobyl</text>
 	</string>
 	<string id="ways_info_way_false_text">
-		<text>There is a class of anomalies, the effect of which is beyond any comprehension... An example is the anomaly STALKERs know among each other as the Jumper. This anomaly has an infinitely small period of time that you can throw anything in it and it travels great distances, with the object inside does not experience any physical overload. It is rumored that one of those anomalies that can teleport directly to the cherished Monolithian Base is very close to the bar - in the Army Warehouses ...</text>
+		<text>There is a class of anomalies beyond comprehension. One is the Jumper. This anomaly will teleport matter a great distance away in an incredibly small period of time, while whatever's inside experiences no discomfort nor awareness of the passing of time or space. It's rumoured that one of these can teleport you directly to the Monolithian Base at the NPP, and that's it's at the Army Warehouses</text>
 	</string>
 	<string id="ways_info_way100a_text">
-		<text>\nMilitary Troop Commander\nCordon Defense\nReport\n14/09/2012 at 2200 hours in the evening, roll call revealed the absence of three soldiers entrusted to my unit, located on the territory of the former Institute Agrocomplex. The survey identified the following other facts - the missing soldiers repeatedly were uncontrollable by the non-commissioned officers, attended the so-called Sidorovich, who supplied them with alcohol and drugs.\nAccording to colleagues at the time of their patrol was discovered overlooked passage into the territory of the Cordon. Location and approach to the passage quote on the attached sketch-map. Undertaken measures to search for my missing soldiers have not brought results.</text>
+		<text>\nMilitary Troop Commander \nCordon Defense \nReport \n14 Sept 2012 - at 2200 hours in the evening, roll call revealed the absence of three soldiers entrusted to my unit, located in the area of the former Agricultural Institute. Further investigation revealed that the missing soldiers were repeatedly insubordinate to their NCOs, and regularly absconded to visit the trader known as Sidorovich, who supplied them with cigarettes and alcohol. \nAccording to their colleagues, they had discovered a hidden passage to the Cordon. The location and approach to this passage are detailed on the attached sketch-map. The searches for my missing soldiers is still ongoing</text>
 	</string>
 	<string id="ways_info_way101a_text">
-		<text>Explorer said:\nnear the vicinity of the former farm is not registered on the territory of the passage to Agroprom Institute</text>
+		<text>Explorer: Near the vicinity of the former farm is an unregistered transition to Agroprom</text>
 	</string>
 	<string id="ways_info_way102a_text">
-		<text>the Scientist in the Bunker; in gratitude for bringing him an artefact for his experiments, pointed to a completely unknown way from the former Agroprom Research Institute to a Research Laboratory in the swamps at Yantar...</text>
+		<text>In gratitude for bringing him an artefact for his experiments, the Scientist in the Bunker showed me a little known way from the Agroprom Research Institute to a research laboratory at Yantar</text>
 	</string>
 	<string id="ways_info_way103a_text">
-		<text>According to the documents stolen from the military base at SRI Agroprom, the military planned to penetrate deep into the Zone through the newly opened path, with one section of which passes through the Research Center for X-16, which is located near the tank of scientists in the Yantar swamp.</text>
+		<text>According to documents stolen from the military base at Agroprom, the Military planned to penetrate deep into the Zone through the newly-opened path, one section of which leads to Laboratory X-16, which is located close to the scientists' bunker at Yantar swamp</text>
 	</string>
 	<string id="ways_info_way104a_text">
-		<text>A search of a Mercenary named Ara, found the secret scheme of the road on which the Mercenaries plan to penetrate from it's base at the factory in the Wild Territory to the area of Army Warehouses.</text>
+		<text>The Mercenary named Ara had a map of the secret route his group intend to take, from their base at the factory in the Wild Territory straight to the Army Warehouses</text>
 	</string>
 	<string id="ways_info_way105a_text">
-		<text>Skull in the interrogation of a captured mercenary (buried at coordinates specified in the attached chart) received information about the existence of a direct path to block the mercenary post at the Army Warehouses at the main base of mercenaries in the Wild Territory.</text>
+		<text>Skull: The interrogation of a captured mercenary (now buried at the coordinates in the attached chart) revealed information on the existence of a hidden direct path, from the Army Warehouses to the main Mercenary base in the Wild Territory</text>
 	</string>
 	<string id="ways_info_way106a_text">
-		<text>Near the body of the Scientist, who died from the effects of zombification in the Red Forest, found the area in the plans, which has moved from the X-16 Research Facility, located near the Yantar swamps, in close proximity to the Radar Antenna.</text>
+		<text>Near the body of the zombified scientist in the Red Forest were the coordinates of a transition from the X-16 Research Facility, near the Yantar swamps, to the Radar antennae</text>
 	</string>
 	<string id="ways_info_way107a_text">
-		<text>On the block as members of Monolith, who guarded the exit from the Laboratory X-16 (unfortunately, Monolith managed to blow their way out) left a thick stack of documents which, among other Scientific Data is a description of the additional outlet in the Dark Valley</text>
+		<text>Monolith, who zealously guarded the transition from Lab X-16, left behind a thick stack of documents which, amongst other scientific data, has a full description of the additional outlet in the Dark Valley</text>
 	</string>
 	<string id="ways_info_way108a_text">
-		<text>Decrypted data transmitted from Sidorovich to the Barkeep reads as follows: The Military will soon make a tremendous breakthrough in the very heart of the Zone. Revealed - Psi-Emitter is in a transition from Laboratory X-16 in Yantar, with possible direct access to the ghost town of Pripyat...</text>
+		<text>Decrypted data transmitted from Sidorovich to the Barkeep: The Military will soon make a huge breakthrough in the very heart of the Zone. They've discovered a transition from the Psi-emitter in Lab X-16 at Yantar, with possible direct access to the ghost town of Pripyat</text>
 	</string>
 	<string id="ways_info_way109a_text">
-		<text>During the raid, members of the squad in the duty of the district laboratory X-18, found a metal case with documents. After a partial decoding information was found, it became clear - the military are preparing a massive raid to the center of the zone. One key pathway is located in the dark valley, which leads directly to the radar system.</text>
+		<text>During the raid of the X-18 lab, the Duty squad found a cabinet full of documents. Even with partial decoding, it's clear that the Military are preparing a massive incursion to the centre of the zone. One key pathway is in the Dark Valley, which leads directly to Radar</text>
 	</string>
 	<string id="ways_info_way110a_text">
-		<text>Lukash, leader of Freedom, passed the information about the passage from the Dark Valley right in the camp, is actively used by members of his group.</text>
+		<text>Lukash, the leader of Freedom, revealed that they are actively using the passage from the Dark Valley right into their camp at the Army Warehouses</text>
 	</string>
 	<string id="ways_info_way111a_text">
-		<text>Leader of Freedom, in gratitude for services rendered and authorized to use the secret passage to Freedom camp in the Dark Valley.</text>
+		<text>In gratitude for services rendered, Lukash gave me permission to use the secret passage to the Freedom camp from the Dark Valley</text>
 	</string>
 	<string id="ways_info_way112a_text">
 		<text>Transitions located</text>
 	</string>
 	<string id="ways_info_way113a_text">
-		<text>Information is available from the Mojito in regards to a Transition that originates at the Army Depot...</text>
+		<text>Information is available from Mojito in regards to a transition originating at the Army Warehouses</text>
 	</string>
 	<string id="ways_info_way114a_text">
-		<text>The Barkeep has provided information about the location of a Transition to Rostok</text>
+		<text>The Barkeep has provided information about the location of a transition to Rostok</text>
 	</string>
 	<string id="item_quest_case_03_desc">
-		<text>Scholars Documents</text>
+		<text>Scholar's documents</text>
 	</string>
 	<string id="item_quest_case_03_name">
-		<text>Scholars Documents</text>
+		<text>Scholar's documents</text>
 	</string>
 	<string id="playboy_desc">
-		<text>"Playboy" is an American mens magazine that features photographs of nude women as well as journalism and fiction. It was founded in Chicago in 1953 by Hugh Hefner and his associates, and funded in part by a $1,000 loan from Hefner's mother. The magazine has grown into Playboy Enterprises, Inc., with a presence in nearly every medium. Playboy is one of the worlds best known brands. In addition to the flagship magazine in the United States, special nation-specific versions of Playboy are published worldwide.</text>
+		<text>'Playboy' is an American men's magazine that features high quality glossy photographs of nude women, as well as erotic and regular journalism and fiction. It was founded in Chicago in 1953 by Hugh Hefner and his colleagues, and funded in part by a $1,000 loan from Hefner's mother. The magazine has grown into Playboy Enterprises, Inc, with a presence in nearly every medium. 'Playboy' is one of the world's best known brands and, depending on local decency laws, nation-specific versions of it are published worldwide</text>
 	</string>
 	<string id="wpn_vintorez_m1">
-		<text>Unique BCC "Vintorez"</text>
+		<text>Unique BCC 'Vintorez'</text>
 	</string>
 	<string id="enc_wpn_vintorez_m1">
-		<text>Ammunition -\n: 9x39mm SP-6 - armor\n: 9h39mm SP-5 - sniper\nSpecial "Vintorez" sniper rifle designed for silent and flashless shooting. Shooting at a distance required optical (daytime) and electron-optical (of night) sights. This gun is also equipped with an integrated silencer. The peculiarity of this particular weapon is the very low wear and tear of the barrel. Rumor has it that this weapon has been enhanced by means of placing it inside an anomaly ...</text>
+		<text>Ammunition -
+		\n: 9x39mm SP-6 - armoR
+		\n: 9x39mm SP-5 - snipeR
+		\nSpecial 'Vintorez' sniper rifle. Optical (daytime) and electro-optical (night) sights enable accurate shooting at a distance, and an integrated silencer ensures noise-free, flashless shots. A peculiarity of this unique weapon is the low wear and tear of the barrel. Rumour has it that this rifle has been enhanced by placement inside an anomaly</text>
 	</string>
 	<string id="playboy_name">
 		<text>Playboy Magazine</text>
 	</string>
 	<string id="playboy_kruglov_desc">
-		<text>Since reaching its peak in the 1970s, "Playboy" has seen a decline in circulation and cultural relevance because of competition in the field it founded first from Penthouse, Oui (which was published as a spin-off of Playboy) and Gallery in the 1970s; later from pornographic videos; and more recently from lad mags such as Maxim, FHM, and of course the WWW. In response, Playboy has attempted to re-assert it's hold on the 18-35 male demographic through slight changes to content and focusing on issues and personalities more appropriate to it's audience.</text>
+		<text>Since reaching its peak in the 1970s, Playboy has seen a decline in circulation and cultural relevance due to additional competition in the field it founded. Firstly from 'Penthouse', 'Oui' (published as a spin-off from Playboy) and 'Gallery' in the 1970s, then from increasingly explicit pornographic videos, more recently from 'lads' mags' such as Maxim and FHM, and finally the internet. In response, Playboy has attempted to reassert its hold on the 18-35 male demographic with slight changes to content, and focusing on issues and personalities more relevant to its target audience</text>
 	</string>
 	<string id="playboy_kruglov_name">
-		<text>"Playboy" collection (2006)</text>
+		<text>'Playboy' collection (2006)</text>
 	</string>
 	<string id="outfit_soldiersak_desc">
-		<text>Flak-jacket modified with the anti-gravity artefact "Cobblestone". Allows you to carry a lot of extra equipment, while in an active state. Unfortunately as a result of this modification, it is susceptible to more damage.</text>
+		<text>Flak-jacket modified with the anti-gravity Cobblestone artefact. Allows the carrying of much heavier equipment, without being hampered by the extra weight. Unfortunately, this modification makes the wearer more susceptible to harm, especially from explosive and impact damage</text>
 	</string>
 	<string id="outfit_soldiersak_name">
-		<text>"Cobblestone" Armor</text>
+		<text>'Cobblestone' Armour</text>
 	</string>
 	<string id="artmod_861_dialog_0">
-		<text>I need a better weapon ... any special jobs I can do to earn one!?</text>
+		<text>I need a better weapon. Are there any special jobs I can do to earn one?</text>
 	</string>
 	<string id="artmod_861_dialog_1">
-		<text>One of the stalkers is in possession of a document that I really need. I will not say from where nor from who. It was quite near here that he fell into an anomaly. He survived, but the document was lost. I would have gone looking for it myself, but I can't leave these Newbies alone. Find this document, bring it to me. I'll give you an AK-74U as a reward. It is in the underpass under the railroad tracks, directly to the North.\nWill you do this for me?</text>
+		<text>One Stalker is in possession of a document I really need. I won't say who, nor from where, but it was quite near here that he fell into an anomaly. He survived, but the document was lost. I'd have gone looking for it myself, but I can't leave these Rookies alone. Find this document, bring it to me, and I'll give you an AK-74U as a reward. It's in the underpass under the railroad tracks, directly to the North. \nWill you do this for me?</text>
 	</string>
 	<string id="artmod_861_dialog_2">
-		<text>Yes, if it's still in the underpass I will find it for you.</text>
+		<text>Okay, if it's still there, in the underpass, I'll find it for you.</text>
 	</string>
 	<string id="artmod_861_dialog_3">
-		<text>No way Wolf, I'm not going anywhere near an anomaly without protection.</text>
+		<text>Sorry Wolf, but I'm not going near any anomaly without protection</text>
 	</string>
 	<string id="artmod_862_dialog_0">
 		<text>Hey there Wolf, anything new happening?</text>
 	</string>
 	<string id="artmod_862_dialog_1">
-		<text>Baby-sitting these Rookies, drinking bad vodka. A typical day in the Zone!</text>
+		<text>Baby-sitting these Rookies, and drinking bad vodka. A typical day in the Zone!</text>
 	</string>
 	<string id="artmod_862_dialog_2">
-		<text>Here, I found that document for you, where's the weapon you promised?</text>
+		<text>Here, I found that document for you. I could really use that weapon you promised...</text>
 	</string>
 	<string id="artmod_862_dialog_3">
-		<text>Yes!! You're no Rookie now are you?! Here, take this gun, it's only got one full clip.\nTry to talk with Kuznetsov, he can help you with more cartridges.</text>
+		<text>Yes! You're no Rookie now, are you?! Here you go. It's only got one full clip.\nSee if you can talk with Kuznetsov. He should be able to help you with more cartridges</text>
 	</string>
 	<string id="tex_escape_lager_volk_document">
-		<text>\nWolf asked me to find a lost document for him in the passage-way under the railroad tracks. Promises an AK-74u for this job.</text>
+		<text>\nWolf asked me to find a lost document for him in the passageway under the railroad tracks. I should earn a decent AK-74u for this job...</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>Document case. It is made of a thick, refractory material.</text>
+		<text>A tough, heat-resistant document case</text>
 	</string>
 <!--	Duplicated string id from "string_table_items.xml" file - aleks1970
 	<string id="item_quest_case_02_desc">
 		<text>Slightly damaged, but secure fire-proof briefcase containing Important Documents...</text>
 	</string> -->
 	<string id="item_quest_case_02_name">
-		<text>Military Documents</text>
+		<text>Military documents</text>
 	</string>
 <!--	Duplicated string id from "string_table_items.xml" file - aleks1970
 	<string id="item_quest_case_02_name">
 		<text>Military Documents XGF497ff2_339t7</text>
 	</string> -->
 	<string id="item_quest_case_06_desc">
-		<text>Locked metal briefcase. According to the Soldier hiding in the old trailer in the swamp, it contains data sent by the Base Commander about one of the excursions deep into the Zone. It requires a code to unlock it electronically.</text>
+		<text>Locked metal briefcase, requiring a code to unlock it electronically. According to the soldier hiding in the old trailer in the swamp, it contains data sent by the Base Commander about one of the excursions deep into the Zone</text>
 	</string>
 	<string id="item_quest_case_06_name">
 		<text>Documents from the Military Base</text>
 	</string>
 	<string id="item_quest_sak_plan_name">
-		<text>bag of 'weed'</text>
+		<text>Bag of 'weed'</text>
 	</string>
 	<string id="item_quest_sak_plan_desc">
-		<text>moisture-proof bag filled with Marijuana 'Canabis Afgani KUSH'</text>
+		<text>Moisture-proof bag filled with Afghan Kush marijuana</text>
 	</string>
 	<string id="val_escort_captive_name">
 		<text>Max Lubero</text>
 	</string>
 	<string id="sak_resiver_name">
-		<text>Army Radio</text>
+		<text>Army radio</text>
 	</string>
 	<string id="sak_resiver_desc">
-		<text>Army-issue VHF radio. An older, out-dated model, but in terms of it's design, it was the model most resistant to various types of radiation throughout the Zone.</text>
+		<text>Army-issue VHF radio. An old, outdated model, but better than any other to resist most types of radiation throughout the Zone</text>
 	</string>
 	<string id="sak_resiver_yantar_name">
-		<text>Monitoring Unit</text>
+		<text>Monitoring unit</text>
 	</string>
 	<string id="sak_resiver_yantar_desc">
-		<text>Modern surveillance system manifests disturbances in the regular Army VHF radio. This design allows remote monitoring, and in some cases may provide a more precise tuning of the teleports that can be found throughout the Zone.</text>
+		<text>Modern surveillance system that monitors the frequencies of regular Army VHF radios. This design allows remote monitoring, and in some cases may provide a more precise tuning of the teleports found throughout the Zone</text>
 	</string>
 	<string id="item_case_esc_name">
-		<text>Outpost Documents</text>
+		<text>Outpost documents</text>
 	</string>
 <!--	Duplicated string id from the "string_table_items.xml" file - aleks1970
 	<string id="item_case_esc_name">
 		<text>Documents taken from the Outpost</text>
 	</string> -->
 	<string id="sak_document_desc">
-		<text>Documents found on the figures in the path.</text>
+		<text>Documents found on the bodies on the path</text>
 	</string>
 	<string id="sak_document_name">
-		<text>Secret Document</text>
+		<text>Secret document</text>
 	</string>
 	<string id="item_rad_document6_desc">
-		<text>Documents containing orders, and notes, what could possibly be useful within all of these jumbled papers?!</text>
+		<text>Documents containing orders and notes. What could possibly be of use in this jumbled old pile of papers?!</text>
 	</string>
 	<string id="item_rad_document6_name">
 		<text>File-folder containing documents</text>
 	</string>
 	<string id="item_rad_document7_desc">
-		<text>Outlined orders of the Troop Commander from over the past six months.</text>
+		<text>Orders from the Troop Commander from over the past six months</text>
 	</string>
 	<string id="item_rad_document7_name">
 		<text>File-folder containing documents</text>
 	</string>
 	<string id="sak_document2_desc">
-		<text>Contains important information on the current method of transforming Artefacts</text>
+		<text>Contains important information on the current methods of transforming artefacts</text>
 	</string>
 	<string id="sak_document2_name">
-		<text>Documents plus unreadable disc</text>
+		<text>Documents plus an unreadable disk</text>
 	</string>
 	<string id="garbage_pda_name">
 		<text>PDA containing important information</text>
 	</string>
 	<string id="garbage_pda_desc">
-		<text>PDA found at the dump, in a Bandit camp. Among other useful information, it contains instructions on how to transmutate an Artefact.</text>
+		<text>PDA found in a Bandit camp at the dump. Among other useful information, it contains instructions on how to transmute an artefact</text>
 	</string>
 <!--	<string id="garbage_pda_desc"> - Duplicated - aleks1970
 		<text>PDA found at the dump, in a camp of Bandits. Among other useful information, it contains instructions on how to transmutate an Artefact.</text>
 	</string> -->
 	<string id="inventory_sakbox_01_name">
-		<text>box of cartridges</text>
+		<text>Box of cartridges</text>
 	</string>
 	<string id="inventory_sakbox_01_desc">
-		<text>heavy wooden box. Inside are boxes of cartridges.</text>
+		<text>Heavy wooden box full of cartridges</text>
 	</string>
 	<string id="inventory_sakbox_02_name">
-		<text>Metal Box</text>
+		<text>Metal box</text>
 	</string>
 	<string id="inventory_sakbox_02_desc">
-		<text>Metal box containing a set of tools.</text>
+		<text>Metal box containing a decent set of tools</text>
 	</string>
 	<string id="inventory_sakbox_03_name">
 		<text>Safe</text>
 	</string>
 	<string id="inventory_sakbox_03_desc">
-		<text>Fireproof, armored safe Locked with a magnetic key code. Inaccessible, without a blowtorch!  Contents: - unknown</text>
+		<text>Fireproof armoured safe locked with a magnetic key code, so inaccessible without a blowtorch!  Contents: unknown</text>
 	</string>
 	<string id="inventory_sakbox_04_name">
-		<text>little box</text>
+		<text>Little box</text>
 	</string>
 	<string id="inventory_sakbox_04_desc">
-		<text>Metal Box</text>
+		<text>Metal box</text>
 	</string>
 	<string id="inventory_sakbox_05_name">
-		<text>High Security Container</text>
+		<text>High security container</text>
 	</string>
 	<string id="inventory_sakbox_05_desc">
-		<text>Steel laboratory container designed for storage and transportation of hazardous materials. In the Zone is used for transportation of artifacts with unknown properties.</text>
+		<text>Steel laboratory container designed for storage and transportation of hazardous materials. In the Zone, used for the transportation of artefacts with unknown properties</text>
 	</string>
 	<string id="sak_book1_name">
 		<text>Book</text>
 	</string>
 	<string id="sak_book1_desc">
-		<text>scientific book. Very difficult to understand.</text>
+		<text>Scientific book, very difficult to understand</text>
 	</string>
 	<string id="sak_book2_name">
 		<text>Notebook</text>
 	</string>
 	<string id="sak_book2_desc">
-		<text>Notebook filled with various scientific formulas and confusing tables.</text>
+		<text>Notebook filled with various scientific formulae and tables</text>
 	</string>
 	<string id="sak_book3_name">
 		<text>Book</text>
 	</string>
 	<string id="sak_book3_desc">
-		<text>An unremarkable looking book with tattered pages protruding at the edges.</text>
+		<text>An unremarkable looking book with tattered pages protruding at the edges</text>
 	</string>
 	<string id="stukach_book_name">
 		<text>Diary</text>
 	</string>
 	<string id="doktor_book_desc">
-		<text>the Swamp Doctors Notebook. Judging from the contents, he was here recently!!!</text>
+		<text>The Swamp Doctor's notebook. Judging from the contents, he must have been here recently!</text>
 	</string>
 	<string id="doktor_book_name">
-		<text>Doctors Diary</text>
+		<text>Doctor's Diary</text>
 	</string>
 	<string id="item_computer_desc">
-		<text>Computer systems unit in the Pripyat bus. Contains important information necessary for the operation of the teleport.</text>
+		<text>Computer system unit in the Pripyat bus. Contains important information necessary for the operation of the teleport</text>
 	</string>
 	<string id="item_computer_name">
 		<text>Laptop</text>
 	</string>
 	<string id="item_diplomat_desc">
-		<text>Laptop, found in Laboratory X-16. Contains detailed Seismological and Geological maps of Yantar, and surrounding areas.</text>
+		<text>Laptop, found in Lab X-16. Contains detailed geological and seismological maps of Yantar and the surrounding areas</text>
 	</string>
 	<string id="scaintist_pda_name">
-		<text>Scientists PDA</text>
+		<text>Scientist's PDA</text>
 	</string>
 	<string id="scaintist_pda_desc">
-		<text>Dead Pripyat scientists PDA. Contains information that attracts 'mojito'</text>
+		<text>Dead Pripyat scientist's PDA. Contains information useful to Mojito</text>
 	</string>
 	<string id="item_diplomat_name">
 		<text>Diplomatic documents</text>
 	</string>
 	<string id="item_notebook_desc">
-		<text>Laptop found in Laboratory X-18. Surprisingly, it is still in working condition. Contains data on the seismic survey conducted in the area surrounding the Army Warehouses.</text>
+		<text>Laptop found in Lab X-18. Surprisingly, still in working condition. Contains data on the seismic survey conducted in the area around the Army Warehouses</text>
 	</string>
 	<string id="item_notebook_name">
-		<text>Laptop containing important information.</text>
+		<text>Laptop containing important information</text>
 	</string>
 	<!-- moved string id: "stukach_book_desc" in to the dmx_mod_items file - aleks1970 -->
 	<string id="item_decoder1_name">
-		<text>Kruglovs device</text>
+		<text>Kruglov's device</text>
 	</string>
 	<string id="item_decoder1_desc">
-		<text>Complex Electronic Measuring Converter</text>
+		<text>Complex electronic measuring converter</text>
 	</string>
 	<string id="agroprom_pda_name">
-		<text>Moles PDA</text>
+		<text>Mole's PDA</text>
 	</string>
 	<string id="agroprom_pda_desc">
-		<text>PDA which belonged to the STALKER nicknamed Mole</text>
+		<text>PDA previously belonging to the Stalker known as Mole</text>
 	</string>
 	<string id="und_pda_name">
-		<text>Max Luberos PDA</text>
+		<text>Max Lubero's PDA</text>
 	</string>
 	<string id="und_pda_desc">
-		<text>Max Lubero brags that this PDA contains many secrets regarding the 'Duty' faction.</text>
+		<text>Max Lubero brags that this PDA contains many secrets pertaining to the Duty faction</text>
 	</string>
 	<string id="volkodav_pda_name">
-		<text>Wolfhounds PDA</text>
+		<text>Wolfhound's PDA</text>
 	</string>
 	<string id="volkodav_pda_desc">
-		<text>Among the encrypted data, there is a description concerning the transmutation of Artefacts.</text>
+		<text>Amongst the encrypted data is a a file relating to the transmutation of artefacts</text>
 	</string>
 	<string id="ara_pda_name">
-		<text>Mercenarys PDA</text>
+		<text>Mercenary's PDA</text>
 	</string>
 	<string id="ara_pda_desc">
-		<text>A Mercenary called Ara kept many secrets concerning his group, including a description of the secret passage between the Army Warehouses and the Wild Territory.</text>
+		<text>A Mercenary named Ara kept many secrets concerning his group, including a description of the secret passage between the Army Warehouses and the Wild Territory</text>
 	</string>
 	<string id="rad_pda_name">
 		<text>Monolith PDA (unknown)</text>
 	</string>
 	<string id="rad_pda_desc">
-		<text>Found a PDA near the Psi-Emitter, amongst all of the gibberish, there was an artefact transmutation recipe.</text>
+		<text>Found a PDA near the Psi-Emitter. In amongst all the gibberish was an artefact transmutation recipe</text>
 	</string>
 	<string id="quest_manycase_01_desc">
-		<text>Fireproof steel case with a combination lock.\n Contents: money</text>
+		<text>Fireproof steel case with a combination lock\n Contents: Cash</text>
 	</string>
 	<string id="quest_manycase_01_name">
-		<text>Steel Case</text>
+		<text>Steel case</text>
 	</string>
 	<string id="tex_esc_provodnik_groza">
-		<text>\na STALKER nicknamed Conductor asked me to find him a good weapon. a Thunderstorm Assault Rifle should do the trick.</text>
+		<text>The Stalker named Conductor asked me to find him a good weapon. A Tunder assault rifle should do the trick</text>
 	</string>
 	<string id="tex_yan_scientist_find_af_dummy_glassbeads">
-		<text>\nProfessor Sakharov, from the Science Lab located near the Yantar swamplands has asked me to find him a rare artefact, Grandmothers Beads of the Burer. Once delivered to him, he will show me the way to a hidden pathway.</text>
+		<text>Professor Sakharov from the lab in the Yantar swamplands has asked me to find him a rare artefact, an Elder Glassbeads. In return, he'll show me a hidden pathway</text>
 	</string>
 	<string id="tex_yan_scientist_find_case">
-		<text>\nProfessor Sakharov said that the Military has stolen a metal case containing documents concerning data on the study of pathways into the Zone.</text>
+		<text>Professor Sakharov said that the Military has stolen a metal case of documents relating to the study of pathways throughout the Zone</text>
 	</string>
 	<string id="tex_bar_dolg_leader_find_case">
-		<text>\General Voronin urgently needs a metal box containing important documents, which got lost in the Dark Valley. Exactly what these documents entail is a mystery.</text>
+		<text>General Voronin urgently needs to find a metal case containing important documents, which got lost in the Dark Valley. Exactly what these documents pertain to is a mystery</text>
 	</string>
 	<string id="tex_mil_lukash_find_dinamit">
-		<text>A leader within the Freedom ranks says that they require some dynamite. Perhaps this will help pave the way into the Dark Valley. According to Lukash, the dynamite was somewhere in the Rookie camp. Where exactly? I don't know.</text>
+		<text>A leader within Freedom says that they need some dynamite. Maybe this'll help pave the way into the Dark Valley. According to Lukash, there should be some dynamite in the Rookie camp. Exactly where, I've no idea...</text>
 	</string>
 	<string id="tex_esc_reward_case">
-		<text>\nInside the box that was taken from the Army base at Agroprom was a disk containing encrypted data that I'm told that the Bartender in the old factory at Rostock can decipher.</text>
+		<text>Inside the box taken from the Military base at Agroprom was a disk containing encrypted data. I'm told that the Barkeep in the old factory at Rostok can decipher it</text>
 	</string>
 	<string id="tex_esc_tolik_five_teily">
-		<text>\nTolik asked me to bring him five blind dog's tails. He needs them in order to convert an Artefact.</text>
+		<text>Tolik asked me to bring him five blind dog's tails. He needs them to convert an artefact</text>
 	</string>
 	<string id="artmod_111_dialog_0">
 		<text>Did you want to ask me something?</text>
 	</string>
 	<string id="artmod_111_dialog_1">
-		<text>I recently met a seasoned STALKER, we shared a bottle, and he told me how to obtain the Meat Chunk artefact from combining two others, but that requires some blind dog's tails. I, myself was trying to get them, but as you can see, I'm barely alive. If you bring me these tails, then I will tell you the secret that was told unto me.</text>
+		<text>I met a seasoned Stalker recently. We shared a bottle, and he taught me how to make a Meat Chunk by combining two other artefacts plus some blind dog's tails. I was trying to get them myself but, as you can see, I barely survived. If you can bring me these tails, I'll share the secret with you, and we can make them together</text>
 	</string>
 	<string id="artmod_111_dialog_2">
-		<text>Okay, I'll try to get the tails for you.</text>
+		<text>Okay, I'll try to get the tails for you</text>
 	</string>
 	<string id="artmod_111_dialog_3">
-		<text>Im sorry, but I can't help you.</text>
+		<text>Im sorry, but I can't help you</text>
 	</string>
 	<string id="artmod_112_dialog_0">
-		<text>I brought you the tails you asked for.</text>
+		<text>I brought you those tails you asked for</text>
 	</string>
 	<string id="artmod_112_dialog_1">
-		<text>Well Marked One, I can't thank you enough.</text>
+		<text>Wow! Marked One, I can't thank you enough</text>
 	</string>
 	<string id="artmod_112_dialog_2">
-		<text>Take these tails, they stink!</text>
+		<text>Please take them. They stink!</text>
 	</string>
 	<string id="artmod_112_dialog_3">
-		<text>Wait here, I wrote down the way to use these in order to create a Meat Chunk. Though, I've not yet been able to test it, cross your fingers.</text>
+		<text>Wait here. I wrote down how to use these to make a Meat Chunk. Though I've not been able to test it yet, so cross your fingers...</text>
 	</string>
 	<string id="artmod_121_dialog_0">
-		<text>How is it that I can help you?</text>
+		<text>How can I can help you?</text>
 	</string>
 	<string id="artmod_121_dialog_1">
-		<text>We control this territory, protect it against Bandits and other sources of evil. From time to time we provide swag, and useful information. As you can see, our weapons are quite archaic, but on the other hand, at least we are not short of ammunition. I need you to bring me a TOZ-34 hunting rifle, for our purposes it is the most suitable weapon. In return, I'll tell you how to transform a bad artefact into a good one.</text>
+		<text>We control this territory, protecting it against Bandits and other nasties. Occasionally we provide goodies, like useful information. As you can see, our weapons are quite archaic, but at least we're not short of ammunition. I need you to bring me a TOZ-34 hunting rifle. For what we need, it's the most suitable weapon. In return, I'll tell you how to transform a bad artefact into a pretty good one</text>
 	</string>
 	<string id="artmod_121_dialog_2">
-		<text>Okay, sure, no problem, shouldn't be difficult. I think Sidorovich has one in stock.</text>
+		<text>Sure, no problem Shouldn't be difficult. I think Sidorovich has one in stock</text>
 	</string>
 	<string id="artmod_121_dialog_3">
-		<text>I hope you can help me out.</text>
+		<text>Thank you. I hope you can help me out</text>
 	</string>
 	<string id="artmod_122_dialog_0">
-		<text>Hey there, I brought you the TOZ.</text>
+		<text>Hey there! I brought you the Toz</text>
 	</string>
 	<string id="artmod_122_dialog_1">
-		<text>Once again the Bandits are causing trouble. You came at just the right time.</text>
+		<text>You came just at the right time. The Bandits are causing trouble again...</text>
 	</string>
 	<string id="artmod_122_dialog_2">
 		<text>Do you need my help?</text>
 	</string>
 	<string id="artmod_122_dialog_3">
-		<text>They're gone for now. Wait, I promised to tell you how to get Slugs. So here: a Medusa, a Quirk, a blind dogs tail and a sausage, 300 grams, Don't laugh, I'm serious!, dropping all of this crap into the Vortex anomaly, and wait. After ten minutes you will have a Slug artefact. How about that!!!</text>
+		<text>Thanks, but they're gone for now. Wait, I promised to tell you how to make Slugs, so here: Get a Medusa, a Quirk, a blind dog's tail and a 300 gram sausage. Don't laugh, I'm serious! Drop it all into a Vortex anomaly, and wait. After ten minutes you'll have a Slug artefact. I promise!</text>
 	</string>
 	<string id="tex_esc_petruha_toz">
-		<text>\nPetruha, team leader. Requests you to bring him a TOZ hunting rifle, which is very useful to him in the destruction of all creatures.</text>
+		<text>\nPetruha, team leader, requests you to bring him a TOZ-34 hunting rifle, to help him protect the area from mutants</text>
 	</string>
 	<string id="artmod_131_dialog_0">
-		<text>Do you have any information about Artefact modification?</text>
+		<text>Do you have any info on artefact modification?</text>
 	</string>
 	<string id="artmod_131_dialog_1">
-		<text>Yesterday, one of the local Bandits, after a strong drink, began to boast that he would be rich soon. Claiming that he can convert a Medusa into a better Artefact. Let's try it out!! If you find a Medusa, then bring it to me, and I will share his recipe with you.</text>
+		<text>Yesterday one of the local Bandits, after a strong drink, started boasting that he'd soon be rich. Claimed that he could convert a Medusa into a better artefact. Let's try it out! You find a Medusa, bring it to me, and I'll share his recipe with you. Deal?</text>
 	</string>
 	<string id="artmod_131_dialog_2">
-		<text>Sounds interesting enough. Let's give it a try.</text>
+		<text>Sounds interesting enough. Let's give it a try</text>
 	</string>
 	<string id="artmod_131_dialog_3">
-		<text>Sounds like Bullshit to me.</text>
+		<text>Sounds like bullshit to me...</text>
 	</string>
 	<string id="artmod_132_dialog_0">
-		<text>I found a Medusa for you.</text>
+		<text>I found a Medusa for you</text>
 	</string>
 	<string id="artmod_132_dialog_1">
-		<text>Okay, let's try out this transmutation recipe of yours.</text>
+		<text>Okay, let's try out this transmutation recipe of yours</text>
 	</string>
 	<string id="artmod_132_dialog_2">
-		<text>Here it is. so, how is it done?</text>
+		<text>Here you go. So, how's it done?</text>
 	</string>
 	<string id="artmod_132_dialog_3">
-		<text>The Bandit said to toss a Medusa, Stone Blood, a bandage, and a tin of food into the Whirligig anomaly. I'm not really sure what is supposed to happen after that, but we will soon find out!!!</text>
+		<text>The Bandit said to toss a Medusa, a Stone Blood, an ordinary cloth bandage, and a tin of food into a Whirligig anomaly, then leave it for about ten minutes. I'm not sure what's supposed to happen after that, but we'll soon find out!</text>
 	</string>
 	<string id="tex_esc_shustryi_medusa">
-		<text>\nShustry wants to try out a new transmutation that he learned of from a Bandit. In order to do this, he needs a Medusa Artefact.</text>
+		<text>\nShustry wants to try out a new transmutation that he learned from a Bandit. To do this, he needs a Medusa artefact</text>
 	</string>
 	<string id="tex_esc_shustryi_Jellyfish">
-		<text>\nLively wants to try out a new transmutation that he learned of from a Bandit. In order to do this, he needs a Medusa Artefact.</text>
+		<text>\nLively wants to try out a new transmutation that he learned from a Bandit. To do this, he needs a Medusa artefact</text>
 	</string>
 	<string id="artmod_141_dialog_0">
-		<text>Hello Major, are you interested in conducting some business?</text>
+		<text>Hello Major. Are you interested in doing some business?</text>
 	</string>
 	<string id="artmod_141_dialog_1">
-		<text>It will be my Birthday soon. So, listen up! We have plenty of food, but not enough spirits. I can't just go to a shop and buy some around here, HA!!  So, if you were to bring me ten bottles of vodka, I will give you three boxes of ammunition, along with some information. We have recently detained a stalker. He swears that he can create a Crystal Medusa Prickle. I'll share this info with you when you bring me the vodka. This will be one piece of business you will not regret!!!</text>
+		<text>It'l be my birthday soon, so listen up! We've plenty of food, but not enough booze. Unfortunately, I can't just go to a corner shop and buy some around here...  So, if you were to bring me, let's say, ten bottles of vodka, I will give you three boxes of ammunition, plus some useful information. We recently detained a Stalker who swore that he could create a Crystal Thorn. I'll tell you when you bring the vodka, okay? This'll be one piece of business you'll not regret!</text>
 	</string>
 	<string id="artmod_141_dialog_2">
-		<text>Interesting. I really like the sound of this.</text>
+		<text>Interesting. I really like the sound of this</text>
 	</string>
 	<string id="artmod_141_dialog_3">
-		<text>Not interested. Sorry.</text>
+		<text>Not interested. Sorry...</text>
 	</string>
 	<string id="artmod_142_dialog_0">
-		<text>Good morning Major and a Happy Birthday to you!!!</text>
+		<text>Good morning Major, and a happy birthday to you!</text>
 	</string>
 	<string id="artmod_142_dialog_1">
-		<text>Did you bring me the vodka!?</text>
+		<text>Fuck that, Stalker! Did you bring the vodka?</text>
 	</string>
 	<string id="artmod_142_dialog_2">
-		<text>Yes, that's ten bottles, the real deal, don't you worry.</text>
+		<text>Yep, ten bottles as requested. The real deal, too...</text>
 	</string>
 	<string id="artmod_142_dialog_3">
-		<text>Well done stalker! I remembered your reward. Here are three boxes of ammo, oh, and yes, the recipe. Let us put that in your PDA.\nIf you need to approach me for some gear in the future, bring vodka! Yes, there is still some small business to offer, but that can wait until later.</text>
+		<text>Well done Stalker! I remembered your reward - three boxes of ammo. Oh, and the recipe. Let me put that in your PDA.\nIf you need any gear from me in future, don't forget to bring vodka! \nThere's another little matter I'd like to discuss with you, but it can wait until later...</text>
 	</string>
 	<string id="tex_esc_bridge_vodka">
-		<text>\nMajor Kuznetsov can supply information about artefact transformation and supply bullets for the AK-74 in exchange for ten bottles of vodka. Besides, he promised further bargains to be had upon successful execution of a personal favor.</text>
+		<text>\nMajor Kuznetsov can supply rounds for the AK-74, plus useful information on artefact transformation, in exchange for ten bottles of vodka. He also promised further bargains to be had upon the successful execution of a personal favour</text>
 	</string>
 	<string id="artmod_161_dialog_0">
-		<text>What kind of First-Aid kit do you need?</text>
+		<text>What kind of med-kit do you need?</text>
 	</string>
 	<string id="artmod_161_dialog_1">
-		<text>I'm not sure. Last time these blind dogs became even more mutated. Even the tiniest of cuts could mean the end! So you have to immediately disinfect and cut out the piece of contaminated flesh.\nIf you are up to it, then bring me a dozen First-Aid kits. Then I will give you another artefact recipe.</text>
+		<text>I'm not sure. The blind dogs around here seem to getting even more mutated, so even the tiniest cut could mean the difference between life and death! You have to cut out the piece of contaminated flesh completely, and disinfect it immediately.\nIf you're up to it, bring me a dozen first-aid kits. I'll give you another artefact recipe, okay?</text>
 	</string>
 	<string id="artmod_161_dialog_2">
-		<text>Okay, I will get them for you, Ahhh, the ZONE! The deeper in, the worse it gets!</text>
+		<text>Okay, I'll get them for you \n Ah, the Zone! It's like shit - the deeper you're in, the worse it gets!</text>
 	</string>
 	<string id="artmod_161_dialog_3">
-		<text>Sorry Fox, I need to move on, you are on your own.</text>
+		<text>Sorry Fox, but I need to move on. You're on your own...</text>
 	</string>
 	<string id="artmod_162_dialog_0">
-		<text>Fox, I have brought you the ten kits as promised.</text>
+		<text>Hi Fox. I've got the ten kits you wanted</text>
 	</string>
 	<string id="artmod_162_dialog_1">
-		<text>You brought me Army Med-Kits? Correct?</text>
+		<text>Excellent. You brought me Army med-kits? Right?</text>
 	</string>
 	<string id="artmod_162_dialog_2">
-		<text>No, regular kits, I didn't bring any Army kits.</text>
+		<text>No, the regular ones. You didn't say anything about Army kits...</text>
 	</string>
 	<string id="artmod_162_dialog_3">
-		<text>Thanks all the same. Here's the recipe, in the Elektra anomaly throw a Stone Blood, a Medusa, a dog's tail, and pour in one litre of vodka. After ten or fifteen minutes you will get a Fireball!!!</text>
+		<text>Sorry, my mistake. They'll do. Here's your recipe, as I promised. Find an Elektra anomaly, and throw in a Stone Blood, a Medusa, a dog's tail, and a bottle of vodka. After about ten minutes you'll get a Fireball!</text>
 	</string>
 	<string id="tex_esc_fox_medkit">
-		<text>Fox needs at least ten Med-Kits.</text>
+		<text>Fox needs at least ten med-kits</text>
 	</string>
 	<string id="artmod_211_dialog_0">
-		<text>And where is my thanks?! Count how many times I have brought you back from the dead.</text>
+		<text>Did you say "Thank you?" Sorry, I didn't hear you. How many times I have brought you back from the dead?</text>
 	</string>
 	<string id="artmod_211_dialog_1">
-		<text>Yes, you did rescue me, forgive my immodesty, but I see you're an experienced stalker, A craftsman has converted an MP5 submachine gun to use a heavier cartridge. With this it would be easier for me to fight. I know that a stalker carrying this very gun perished in the railway tunnel, which leads from the Garbage to Agroprom. I want you to get it for me. I will share with you information on how to convert an artefact.</text>
+		<text>Yes, you did rescue me. Forgive my discourtesy, but I do see you're an experienced Stalker, A craftsman recently converted an MP5 submachine gun to use a heavier cartridge. With this, it would be easier for me to fight. I know that a Stalker carrying this very weapon perished in the railway tunnel leading from the Garbage to Agroprom. I'd like you to get it for me. In return, I'll share information I have on how to convert an artefact</text>
 	</string>
 	<string id="artmod_211_dialog_2">
-		<text>In the tunnel you say? Okay, I will take a look.</text>
+		<text>In the tunnel you say? Okay, I'll take a look</text>
 	</string>
 	<string id="artmod_211_dialog_3">
-		<text>As the chips will fall, I make no promises.</text>
+		<text>We'll see. I'm not making any promises</text>
 	</string>
 	<string id="artmod_212_dialog_0">
-		<text>I have returned.</text>
+		<text>Guess where I've been...</text>
 	</string>
 	<string id="artmod_212_dialog_1">
 		<text>Did you find the gun?</text>
 	</string>
 	<string id="artmod_212_dialog_2">
-		<text>Found it, tested it, not a bad gun at all, here, take it.</text>
+		<text>Found it, tested it. Not bad at all. Here you go...</text>
 	</string>
 	<string id="artmod_212_dialog_3">
-		<text>With such a weapon I can defend myself properly. Thank you!! Now, let's add some recipes to your PDA. Use your...\nListen, Marked One... can I ask you something?</text>
+		<text>With such a weapon I can defend myself properly. Thank you!! Now, let's add some recipes to your PDA...\nPsst. Listen, Marked One... Can I ask you something?</text>
 	</string>
 	<string id="tex_gar_dram_novice_mp5_m1">
-		<text>\nYurek, a Novice from the Garbage, has asked me to find him a modified MP-5 M1 machine gun</text>
+		<text>\nYurek, a Novice from the Garbage, has asked me to find him a modified MP-5 M1 machine gun</text>XXX
 	</string>
 	<string id="artmod_811_dialog_0">
 		<text>What a day! What do you need? Go ahead, tell me.</text>
@@ -1847,7 +1850,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>\n.\nArtifact "Night Star" is produced by the joint anomalies in the transmutation of the "Vortex" just four ingredients:\nPseudodog Tail\nCrystal thorn\nMedusa\nThorn.\ntransformation occurs within 5-10 minutes</text>
 	</string>
 	<string id="enc_artmod_soul_gravi_zone_text">
-		<text>\n.\nArtifact "Soul" is produced by the joint anomalies in the transmutation of the "Vortex" just four ingredients:\nSnork leg\nSlug\nStone Flower\nFlash.\ntransformation occurs within 5-10 minutes</text>
+		<text>\n.\nArtifact "Soul" is produced by the joint anomalies in the transmutation of the "Vortex" just four ingredients:\nSnork leg\nSlug\nStone FloweR\nFlash.\ntransformation occurs within 5-10 minutes</text>
 	</string>
 	<string id="enc_artmod_dummy_pellicle_gravi_zone_text">
 		<text>\n.\nArtifact "Pellicle" is produced by the joint anomalies in the transmutation of the "Vortex" just four ingredients:\nSoul\nGoldfish\nCrystal\nMica.\ntransformation occurs within 5-10 minutes</text>
@@ -1904,7 +1907,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>\n.\nArtifact "Moonlight" is produced by transmutation in the joint anomalies "Burner" just four ingredients:\nBloodsucker tentacle\nFlash\nMedusa\nGravi.\ntransformation occurs within 5-10 minutes</text>
 	</string>
 	<string id="enc_artmod_dummy_battery_zharka_text">
-		<text>\n.\nArtifact "battery" is produced by transmutation in the joint anomalies "Burner" just four ingredients:\nDog Tail\nVodka\nMica\nFlash.\ntransformation occurs within 5-10 minutes</text>
+		<text>\n.\nArtifact "battery" is produced by transmutation in the joint anomalies "Burner" just four ingredients:\nDog Tail\nVodka\nMicA\nFlash.\ntransformation occurs within 5-10 minutes</text>
 	</string>
 	<string id="enc_artmod_medusa_galant_text">
 		<text>\n.\nArtifact "Medusa" is produced by transmutation in the joint anomalies "Elektra" at once the four components:\nTushkano Head\nBandage\nConserva\nDog Tail.\ntransformation occurs within 5-10 minutes</text>
@@ -1922,7 +1925,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>\n.\nArtifact "Soul" is produced by the joint anomalies in the transmutation of "Elektra" at once the four components:\nPseudodog Tail\nFireball\nStone Blood\nGravi.\ntransformation occurs within 5-10 minutes</text>
 	</string>
 	<string id="enc_artmod_gold_fish_galant_text">
-		<text>\n.\nArtifact "Goldfish" is produced by the joint anomalies in the transmutation of "Elektra" at once the four components:\nEye flesh\nStone Flower\nThorn\nMedusa\ntransformation occurs within 5-10 minutes</text>
+		<text>\n.\nArtifact "Goldfish" is produced by the joint anomalies in the transmutation of "Elektra" at once the four components:\nEye flesh\nStone FloweR\nThorn\nMedusa\ntransformation occurs within 5-10 minutes</text>
 	</string>
 	<string id="enc_artmod_Jellyfish_galant_text">
 		<text>\n.\nArtifact "Medusa" is produced by transmutation in the joint anomalies "Elektra" at once the four components:\nDog Tail\nConserva\nBandage\nHead tushkano.\ntransformation occurs within 5-10 minutes</text>
@@ -1935,7 +1938,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 	</string>
 	<!-- AR -->
 	<string id="enc_artmod_life_heart_ice_zone_text">
-		<text>%c[255,224,224,160]unique, very rare artifact. It has truly miraculous properties - to resurrect the dead! The only drawback - a large burden.\n.\nArtifact produced by a joint anomalies in the transmutation of "Snow" just four artifacts:\nNight Star "Goldfish", "Sea urchin", "Babys dummy".\n %c[255,255,255,255]Time transmutation %c[255,224,224,160]5 minutes Zones\n %c[255,255,255,255]The probability of successful transmutation %c[255,1,255,1] 100% %c[default]</text>
+		<text>%c[255,224,224,160]unique, very rare artifact. It has truly miraculous properties - to resurrect the dead! The only drawback - a large burden.\n.\nartifact produced by a joint anomalies in the transmutation of "Snow" just four artifacts:\nNight Star "Goldfish", "Sea urchin", "Babys dummy.\n %c[255,255,255,255]Time transmutation %c[255,224,224,160]5 minutes Zones\n %c[255,255,255,255]The probability of successful transmutation %c[255,1,255,1] 100% %c[default]</text>
 	</string>
 	<string id="af_life_heart">
 		<text>The heart</text>
@@ -2295,7 +2298,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>could be configured to Yantar swamp, but again need a map ..</text>
 	</string>
 	<string id="teleport_05_dialog_4">
-		<text>Ah-ah! I know - Marked One features are much, bring those traits that?</text>
+		<text>Ah-ah! I know - Marked One features are much, bring those traits that?"</text>
 	</string>
 	<string id="teleport_05_dialog_5">
 		<text>Well-ell, yes... And you never just wanted to? In general, a laptop in the laboratory of X-16, go?</text>
@@ -2844,7 +2847,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>And what is needed for this? Well, at least, if I want to fly Cordon...</text>
 	</string>
 	<string id="teleport_10_dialog_5">
-		<text>Well firstly need the artifact, which this gives rise to teleport. For each locality it your own. No known artifacts for Cordon, Yantar, army depots and, in fact, Pripyat.\nSecond need calculation point of arrival, and then you can understand - takes you back to the stone where ever... Different people have different count. Who math calls for help, and who - otherworldly forces. I'm about halfway - use a unique artifact. For example to calculate portal at Cordon need "Ruby spring". This is a very rare artifact, but Syak promised that he would give it to me... I like that pulled him out of one scrape... Go to it...</text>
+		<text>Well firstly need the artifact, which this gives rise to teleport. For each locality it your own. No known artifacts for Cordon, Yantar, army depots and, in fact, Pripyat.\nSecond need calculation point of arrival, and then you can understand - takes you back to the stone where ever... Different people have different count. Who math calls for help, and who - otherworldly forces. I'm about halfway - use a unique artifact. For example to calculate portal at Cordon need "Ruby spring. This is a very rare artifact, but Syak promised that he would give it to me... I like that pulled him out of one scrape... Go to it...</text>
 	</string>
 	<string id="teleport_10_dialog_2">
 		<text>Okay, I'll go long, I have not seen Syaka...</text>
@@ -2853,7 +2856,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>No, do not go, can then...</text>
 	</string>
 	<string id="tex_doktor_teleport_10">
-		<text>\nThe Doctor needs a unique artifact "Ruby spring", with it's help he can teleport to calculate the cordon. Springs had promised to give Syak, a trader from the Radar.</text>
+		<text>\nThe Doctor needs a unique artifact "Ruby spring, with it's help he can teleport to calculate the cordon. Springs had promised to give Syak, a trader from the Radar.</text>
 	</string>
 	<string id="teleport_102_dialog_0">
 		<text>Here I am, hello Doctor...</text>
@@ -3225,7 +3228,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Yes-ah .. Sorry - no one can return...</text>
 	</string>
 	<string id="strelok_pda1_dialog_3">
-		<text>In fact, a persistent rumor goes - there is a special miracle artifact, "The heart" is called... And like you have in your PDA, even the way it was for...</text>
+		<text>In fact, a persistent rumor goes - there is a special miracle artifact, "The heart is called... And like you have in your PDA, even the way it was for...</text>
 	</string>
 	<string id="strelok_pda1_dialog_4">
 		<text>I? In this PDA?</text>
