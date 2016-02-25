@@ -63,7 +63,7 @@
 		<text>Make a wish ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_demo_play">
-		<text>STALKERSOUP + </text>
+		<text>STALKERSOUP +</text>
 	</string>
 	<string id="st_dmx_sleep">
         <text>Sleep... ($$ACTION_USE$$)</text>

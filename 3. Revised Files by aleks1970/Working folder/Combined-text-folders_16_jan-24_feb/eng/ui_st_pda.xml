@@ -252,7 +252,7 @@
 		<text>- Plain label</text>
 	</string>
 	<string id="set_reminder_following_time_script">
-		<text>Set timer reminder with the following time - </text>
+		<text>Set timer reminder with the following time -</text>
 	</string>
 	<string id="Incor_time_format_script">
 		<text>Incorrect time format!</text>

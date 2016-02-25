@@ -15,16 +15,16 @@
 		<text>Maximum</text>
 	</string>
 	<string id="gd_master">
-		<text>Master</text>
+		<text>Marked One</text>
 	</string>
 	<string id="gd_novice">
-		<text>Rookie</text><!-- Was 'Novice' -->
+		<text>Cadet</text><!-- Was 'Novice' -->
 	</string>
 	<string id="gd_stalker">
-		<text>Stalker</text>
+		<text>Advanced</text>
 	</string>
 	<string id="gd_veteran">
-		<text>Veteran</text>
+		<text>Elite</text>
 	</string>
 	<string id="High">
 		<text>High</text>

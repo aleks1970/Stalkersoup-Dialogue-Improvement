@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.0.9.9.9.8   StalkerSoup new pda_name section aleks1970, line: 456, 459 -->
+<!-- TB3D 1.1.0.0.0.0   StalkerSoup new pda_name section aleks1970, line: 456, 459, amber to yantar, lukash -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 23 Jan 16 -->
+<!-- Lines 701, 1598-1607 changed by Sword2012, 15 Feb 16 -->
 <string_table>
 	<!-- ********** new pda game descriptions ********** -->
 	<string id="Bring_parcel_to_Fox_pda_name">
@@ -607,7 +608,7 @@
 		<text>Find the Emerald Stone Blood artefact for the Ecologist</text>
 	</string>
 	<string id="Find_Tolik_five_dog_tails_pda_name">
-		<text>Find five dog tails for Tolik </text>
+		<text>Find five dog tails for Tolik</text>
 	</string>
 	<string id="Stealing_unique_costumes_Miser_pda_name">
 		<text>Steal the unique costumes for Miser</text>
@@ -693,20 +694,12 @@
 	<string id="Bengal_fire_from_jumping_pda_name">
 		<text>Creating a Bengal Fire from a Springboard</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Bengal_fire_from_jumping_pda_name">
-		<text>Bengal fire from jumping</text>
-	</string> -->
 	<string id="Slither_from_jumping_pda_name">
 		<text>Creating a Slither from a Springboard</text>
 	</string>
 	<string id="Crystal_from_jumping_pda_name">
-		<text>Creating a Crystal from a Springboard</text>
+		<text>Creating a Crystal from a Springboard</text><!-- Replaced 'Crystal from jumping' - Sword2012. 15 Feb 16 -->
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Crystal_from_jumping_pda_name">
-		<text>Crystal from jumping</text>
-	</string> -->
 	<string id="Sea_Urchin_from_jumping_pda_name">
 		<text>Creating an Urchin from a Springboard</text>
 	</string>
@@ -737,20 +730,12 @@
 	<string id="Drop_from_carousel_pda_name">
 		<text>Creating a Droplet from a Whirligig</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Drop_from_carousel_pda_name">
-		<text>Drop from the carousel</text>
-	</string> -->
 	<string id="Crystal_from_Carousel_pda_name">
 		<text>Creating a Crystal from a Whirligig</text>
 	</string>
 	<string id="Moonlight_from_carousel_pda_name">
 		<text>Creating a Moonlight from a Whirligig</text>
 	</string>
-<!--	Duplicated - aleks1970	
-	<string id="Moonlight_from_carousel_pda_name">
-		<text>Moonlight from the carousel</text>
-	</string> -->
 	<string id="Grind_from_Carousel_pda_name">
 		<text>Creating a Grind from a Whirligig</text>
 	</string>
@@ -784,20 +769,12 @@
 	<string id="Gravel_from_frying_pda_name">
 		<text>Creating a Gravi from a Burner</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Gravel_from_frying_pda_name">
-		<text>Gravel from the frying</text>
-	</string> -->
 	<string id="Night_Star_from_Frying_pda_name">
 		<text>Creating a Night Star from a Burner</text>
 	</string>
 	<string id="Moonlight_from_frying_pda_name">
 		<text>Creating a Moonlight from a Burner</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Moonlight_from_frying_pda_name">
-		<text>Moonlight from frying</text>
-	</string> -->
 	<string id="Battery_from_Frying_pda_name">
 		<text>Creating a Battery from a Burner</text>
 	</string>
@@ -963,10 +940,6 @@
 	<string id="With_agricultural_industry_Amber_pda_name">
 		<text>From Agroprom to Yantar</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_agricultural_industry_Amber_pda_name">
-		<text>With the agricultural industry in Amber</text>
-	</string> -->
 	<string id="With_Wild_Territory_Warehouses_pda_name">
 		<text>From Wild Territory to Army Warehouses</text>
 	</string>
@@ -1126,27 +1099,15 @@
 	<string id="With_ATP_Cordon_pda_name">
 		<text>From ATP to Cordon</text>
 	</string>
-<!--	Duplicated - aleks1970	
-	<string id="With_ATP_Cordon_pda_name">
-		<text>With ATP at Cordon</text>
-	</string> -->
 	<string id="With_ATP_Army_Warehouses_pda_name">
 		<text>From ATP to Army Warehouses</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_ATP_Army_Warehouses_pda_name">
-		<text>With ATP in the Army Warehouses</text>
-	</string> -->
 	<string id="Locate_bag_south_Chernobyl_pda_name">
 		<text>Locate the bag in the south of Chernobyl</text>
 	</string>
 	<string id="With_ATP_Pripyat_pda_name">
 		<text>From ATP to Pripyat</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_ATP_Pripyat_pda_name">
-		<text>With ATP in the Pripyat</text>
-	</string> -->
 	<string id="Find_the_Bolotny_Locket_pda_name">
 		<text>Find the lost locket for Bolotny</text>
 	</string>
@@ -1379,7 +1340,7 @@
 		<text>Find the safe</text>
 	</string>
 	<string id="Bring_Sidorychev_remyaschika_return_amulet_pda_name">
-		<text>Bring Sidorychev two remyaschika, and return the amulet</text>
+		<text>Bring Sidorychev two repair kit's, and return the amulet</text>
 	</string>
 	<string id="Find_bring_Hermit_Box_pda_name">
 		<text>Find the Box for the Hermit</text>
@@ -1631,16 +1592,17 @@
 		<text>Wild Territory</text>
 	</string>
 <!-- text for the new tasks about mutant minimap detector - aleks1970 -->
+<!-- Sword2012, check this text in-game - aleks1970 -->
 	<string id="Collect_details_detector_werewolf_pda_name">
-		<text>Collect your Werewolf detector</text>
+		<text>Collect details for the Werewolf detector</text>
 	</string>
 	<string id="Collect_details_detector_chimera_pda_name">
-		<text>Collect your Chimera detector</text>
+		<text>Collect details for the Chimera detector</text>
 	</string>
 	<string id="Collect_details_detector_burer_pda_name">
-		<text>Collect your Burer detector</text>
+		<text>Collect details for the Burer detector</text>
 	</string>
 	<string id="Collect_details_detector_librarian_pda_name">
-		<text>Collect your Librarian detector</text>
+		<text>Collect details of the detector for Librarian</text>
 	</string>
 </string_table>
