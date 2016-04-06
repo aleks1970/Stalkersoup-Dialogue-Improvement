@@ -1,0 +1,24 @@
+
+
+Files with the changed Dos\Windows => into the UNIX Pattern:
+
+ - stable_storyline_info_darkvalley.xml
+ - stable_dialogs_deadcity.xml
+ - amk_flame_dialogs.xml
+ - ui_st_others.xml
+ - ui_st_mp.xml
+ - ui_st_mapdesc.xml
+ - ui_st_inventory.xml
+ - string_table_includes.xml
+ - string_table_gameplay_text.xml
+ - string_table_enc_vehicles.xml
+ - stable_storyline_info_garbage.xml
+ - stable_storyline_info_deadcity.xml
+ - stable_storyline_info_bar.xml
+ - stable_generate_fnames.xml
+ - stable_dialogs_amk.xml
+ - meceniy_st_dialogs.xml
+ - stable_generate_fnames.xml
+ - stable_dialogs_deadcity.xml
+ - arc_string_table.xml
+***********************************************************
