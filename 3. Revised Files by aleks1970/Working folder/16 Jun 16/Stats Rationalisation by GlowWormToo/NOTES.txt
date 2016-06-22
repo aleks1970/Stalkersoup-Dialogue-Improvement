@@ -1,0 +1,9 @@
+These seven files are the result of GlowWormToo searching every text file for stats through a program he devised, in order to make the artefact and weapons stats look identical in the Inventory and the Encyclopedia
+
+As far as I can see, he's done a great job, and has saved someone else a ton of work trying to do it manually :-)
+
+He also did the amk_strings file, which I was in the process of editing, but I've included it for completeness. I'll carry on editing this file later :-)
+
+There may be one more file, string_table_legacy, to come if his software can deal with it
+
+Sword2012

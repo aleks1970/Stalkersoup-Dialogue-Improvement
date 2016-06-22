@@ -1,0 +1,49 @@
+1. Smart alphabetized each heading in the ui_si script, including the infoportions. Did not touch any 'tested' headings
+
+Changed or correctly spelled the heading name of some anomalies, according to their names established in the Encyclopedia. Also corrected the titles of many other headings
+
+Added and subtracted ****'s to make the headings look vertically centred to each other. I hope this actually works in practice...
+
+Although I added a few extra spawn codes at the start, I removed them later. There should be exactly the same number of titles as previously, except better alphabetically organised
+
+I've only worked on the ui_si script, and have not touched any code, so have been unable to test this layout in-game. Hopefully, it should be much easier to search through than previously
+
+Finally, the Spawn Menu Directory has been adjusted to match the new Spawn Menu layout
+
+If you find any problems, please feel free to send either back to me for correction :-)
+
+
+Sword2012
+
+
+2. These two anomalies appear to do the same thing:
+
+"************ SNOW *******************",
+	"zone_teleport_1",
+And 
+	"************** ICE *************",
+	"zone_ice",
+
+Suggest just one heading labelled SNOW for either or both. Maybe text "zone_teleport_1" is an incorrect name...
+
+
+3. Suggest moving
+ 	"********* SMALLRAIN (Focal Smoke) ***",
+	"zone_smallrain_strong"
+	
+into the FOG heading above, to rationalise its layout with the FOG (AMK) layout
+
+
+4. There are two headings named TELEPORT. However, most of the anomalies under TELEPORT??? are not teleports at all, but I don’t know what all the correct names are
+"m_teleport" is a teleport
+"zone_teleport_2" is a ? anomaly
+"zone_teleport_3" is a ?  anomaly
+"zone_teleport_arhara" is a Bubble anomaly
+"zone_teleport_monolith" just makes you go cross-eyed, just like the other anomalies under the heading MONOLITH,  that blur your vision in some way. Should all these have a different name, like VISION, or IMPAIRED VISION?
+
+
+
+5. Aren’t the ASPIC and the KISSEL SYAKA anomalies simply variations of the Fruit Punch? They certainly have similar spawn names. If so, shouldn’t they all go under the same heading of FRUIT PUNCH? I have been unable to find any other name for them
+
+
+
