@@ -1,0 +1,16 @@
+ALREADY SUBMITTED, but not yet integrated in-game
+Alphabetised Spawn Menu
+Entire 'misc' folder
+'books' folder
+
+
+NEW FILES
+All seven of GlowWormToo's files
+
+
+REWORKED FILES, using files from 1.0005
+string_table_gameplay_tasks_titles
+
+******************************************
+
+All checked and submited to TB. - Aleks1970

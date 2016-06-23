@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.0 minor edits 700 - end of file, hand_radio, attachable_item, Astrologer, The Doctor, gold bars, fosfor_r,g,b,y, Bomb Casing, item_arhara_instruk, item_flyga_s, removed includes, Fang -->
+<!-- TB3D 1.1.0.0.0.5 minor edits 700 - end of file, hand_radio, attachable_item, Astrologer, The Doctor, gold bars, fosfor_r,g,b,y, Bomb Casing, item_arhara_instruk, item_flyga_s, removed includes, Fang -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for accuracy, clarity, brevity, and consistency. 07 Apr 16 -->
-<!-- All Simulators in Lines 1234-1267 were designated 'Simulator 1'. Changed to Simulators 1-4 according to string line, without understanding context - Sword2012. 07 Apr 16 -->
+<!-- All Simulators in Lines 1234-1267 were designated 'Simulator 1'. Changed to Simulators 1-4 according to string line, without understanding context - Sword2012. 07 Apr 16, armor -->
+<!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
 <string_table>
 
 <!-- excluded section-1 
@@ -42,7 +43,7 @@
 		<text>Bread</text>
 	</string>
 	<string id="item_mozg">
-		<text> 2nd Chernobyl NPP2 Controller's Brain</text>
+		<text>2nd Chernobyl NPP2 Controller's Brain</text>
 	</string>
 	<string id="item_mozg_s">
 		<text>Brain</text>
@@ -132,7 +133,7 @@
 		<text>Powerful flashlight. Recharge time improved by using the latest battery technology, and a more efficient transducer</text>
 	</string>
 	<string id="enc_equipment_energydrink">
-		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\n The warning label states that 'Consumption in excessive quantities has proven lethal'</text>
+		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\nThe warning label states that 'Consumption in excessive quantities has proven lethal'</text>
 	</string>
 	<string id="enc_equipment_energydrinka">
 		<text>Nondescript can of unknown origin.\nNo, that can't be - is that a beer?</text>
@@ -466,7 +467,7 @@
 		<text>Suit Instruction Manual</text>
 	</string>
 	<string id="enc_item_arhara_instruk_descr">
-		<text>System activation module and instructions for a new SMART suit, which added notes state was stashed on the roof of one of buildings in the vicinity of the Yantar factory.\nThe writer goes on to say that he needs to go into hiding, but will stash the upgrade blocks for the suit around the Zone for later retrieval. He does not plan to hide them all at once, but only when he feels strong and safe enough to do so, and this would have the added advantage of preventing the fully-equipped prototype from falling into the wrong hands.\nHis intended stash points are :\n1. On top of a disused railcar in the Wild Territory\n2. On the roof of a small building near one of the entrances to Radar, near the aerial structures\n3. In the Miner's hiding place, near a box, close to one of the fire barrels.\n\nTo upgrade, do the following in this order:\n1. Install the system activation module, and test the suit. Firmware ID should now be SKAT15-M\n2. Install the first upgrade block, and test the suit. Firmware ID should now be SKAT15-M1\n3. Install the second upgrade block, and test the suit. Firmware ID should now be SKAT15-M2\n4. Install the third upgrade block, and test the suit. Firmware ID should now be SKAT15-M3\nWith each upgrade, the suit acquires more advanced properties.\n\nAfter the second upgrade has been installed, the suit's LifeGuard system will need to draw its power from Black Energy artefacts, which are created by the Zone's emissions. These can be found in the wild after an emission, or obtained from Professor Sakharov.\nThe energy from this artefact will be fully depleted after two full hours (Zone Time) of use, after which ALL functions of the suit will deteriorate, including its ability to protect the wearer from external damage.\nThe LifeGuard system will reactivate once another Black Energy artefact is sourced on the wearer.\nIf the suit's protective properties have been reduced, it may be possible to mend the damage using a standard armour repair kit. However, if the suit is left without power for too long, its armour control system may fail to reboot, effectively rendering its basic functions useless.\nTo conserve energy, the LifeGuard system may be disabled and re-enabled in the suit's Advanced Options menu</text>
+		<text>System activation module and instructions for a new SMART suit, which added notes state was stashed on the roof of one of buildings in the vicinity of the Yantar factory.\nThe writer goes on to say that he needs to go into hiding, but will stash the upgrade blocks for the suit around the Zone for later retrieval. He does not plan to hide them all at once, but only when he feels strong and safe enough to do so, and this would have the added advantage of preventing the fully-equipped prototype from falling into the wrong hands.\nHis intended stash points are :\n1. On top of a disused railcar in the Wild Territory\n2. On the roof of a small building near one of the entrances to Radar, near the aerial structures\n3. In the Miner's hiding place, near a box, close to one of the fire barrels.\n\nTo upgrade, do the following in this order:\n1. Install the system activation module, and test the suit. Firmware ID should now be SKAT15-M\n2. Install the first upgrade block, and test the suit. Firmware ID should now be SKAT15-M1\n3. Install the second upgrade block, and test the suit. Firmware ID should now be SKAT15-M2\n4. Install the third upgrade block, and test the suit. Firmware ID should now be SKAT15-M3\nWith each upgrade, the suit acquires more advanced properties.\n\nAfter the second upgrade has been installed, the suit's LifeGuard system will need to draw its power from Black Energy artefacts, which are created by the Zone's emissions. These can be found in the wild after an emission, or obtained from Professor Sakharov.\nThe energy from this artefact will be fully depleted after two full hours (Zone Time) of use, after which ALL functions of the suit will deteriorate, including its ability to protect the wearer from external damage.\nThe LifeGuard system will reactivate once another Black Energy artefact is sourced on the wearer.\nIf the suit's protective properties have been reduced, it may be possible to mend the damage using a standard Armor repair kit. However, if the suit is left without power for too long, its Armor control system may fail to reboot, effectively rendering its basic functions useless.\nTo conserve energy, the LifeGuard system may be disabled and re-enabled in the suit's Advanced Options menu</text>
 	</string>
 	<string id="item_umn_tel">
 		<text>Manual teleporter with enhanced capabilities. Two similar examples were produced several years ago, based on the use of items found suspended in a 'Lift' anomaly. The main reason for its disappearance is because this anomaly is quite rare. The second is that it requires a fair amount of practice to use correctly, and usually results in the permanent disappearance of anyone using it for the first time...</text>
@@ -634,7 +635,7 @@
 		<text>Casket</text>
 	</string>
 	<string id="enc_item_shkatulka_descr">
-		<text>On the reverse side reads an inscription - 'Master Khabarych'. Inside are papers on which the numbers 434018 and 206018 are written, and a short message:\n 'Coded doors in Bunker #3. I have only found two, so that means there must be another - but where? I have heard of a place where there is a safe - still locked, but intact - and within it may lie the answer. The missing code?'\nOther than illegible scribble, there's nothing else inside...</text>
+		<text>On the reverse side reads an inscription - 'Master Khabarych'. Inside are papers on which the numbers 434018 and 206018 are written, and a short message:\n'Coded doors in Bunker #3. I have only found two, so that means there must be another - but where? I have heard of a place where there is a safe - still locked, but intact - and within it may lie the answer. The missing code?'\nOther than illegible scribble, there's nothing else inside...</text>
 	</string>
 	<string id="item_arhara_seif">
 		<text>Small safe</text>
@@ -772,7 +773,7 @@
 		<text>'Mica' flask</text>
 	</string>
 	<string id="enc_item_kolba_pustay_descr">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]An empty flask made from a unusual type of glass. Said to have been hand-blown using minerals from a powdered Mica artefact. Has a specially designed valve, and a protective metal casing. Less clear about it is what it was used for...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nAn empty flask made from a unusual type of glass. Said to have been hand-blown using minerals from a powdered Mica artefact. Has a specially designed valve, and a protective metal casing. Less clear about it is what it was used for...</text>
 	</string>
 	<string id="item_ekza_akkumul">
 		<text>Exoskeleton power unit</text>
@@ -781,7 +782,7 @@
 		<text>Exoskeleton unit</text>
 	</string>
 	<string id="enc_item_ekza_akkumul_descr">
-		<text>A power unit for the Freedom faction's Exoskeleton armour. Differs from other Exoskeletons in that it has been modified to support an increased socket capacity...</text>
+		<text>A power unit for the Freedom faction's Exoskeleton Armor. Differs from other Exoskeletons in that it has been modified to support an increased socket capacity...</text>
 	</string>
 	<string id="item_elek_plata">
 		<text>Payment details</text>
@@ -799,7 +800,7 @@
 		<text>Rejuvenating flask</text>
 	</string>
 	<string id="enc_item_kolba_siniy_poln_descr">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]A flask with air-tight valves, and filled with a dark blue liquid of unknown origin. When worn on the belt, it can restore both health and energy...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nA flask with air-tight valves, and filled with a dark blue liquid of unknown origin. When worn on the belt, it can restore both health and energy...</text>
 	</string>
 	<string id="item_kolba_orand_poln">
 		<text>Rejuvenating flask</text>
@@ -808,7 +809,7 @@
 		<text>Rejuvenating Flask</text>
 	</string>
 	<string id="enc_item_kolba_orand_poln_descr">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]A flask with air-tight valves, and filled with a bright orange liquid of unknown origin. When worn on the belt, it can accelerate the healing process by arresting blood loss...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nA flask with air-tight valves, and filled with a bright orange liquid of unknown origin. When worn on the belt, it can accelerate the healing process by arresting blood loss...</text>
 	</string>
 	<string id="item_trupak">
 		<text>Controller's corpse</text>
@@ -1022,7 +1023,7 @@
 		<text>Amanita</text>
 	</string>
 	<string id="enc_equipment_amanita_mushroom">
-		<text> Although slightly radioactive, the Amanita mushroom is edible after prolonged boiling - but be warned. A common ingredient in the manufacture of potent tranquilizers and pain medication, it's often used by local drug addicts for its variety of hallucinegenic effects. It grows mostly in marshland, and has a tendency to disintegrate if kept for too long once plucked from the ground</text>
+		<text>Although slightly radioactive, the Amanita mushroom is edible after prolonged boiling - but be warned. A common ingredient in the manufacture of potent tranquilizers and pain medication, it's often used by local drug addicts for its variety of hallucinegenic effects. It grows mostly in marshland, and has a tendency to disintegrate if kept for too long once plucked from the ground</text>
 	</string>
 	<!-- Duplicated section!!! - game will use text from "dmx_mod_items.xml" file instead - aleks1970 -->
 	<!-- Duplicated string id was moved in to the "dmx_mod_items.xml" file - aleks1970 -->
@@ -1061,7 +1062,7 @@
 		<text>Yantar Teleport</text>
 	</string>
 	<string id="enc_quest_kostya_gold_fish">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]Special Goldfish artefact in the Cordon. Kostya is looking for this particular one...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nSpecial Goldfish artefact in the Cordon. Kostya is looking for this particular one...</text>
 	</string>
 	<string id="kostya_pda">
 		<text>PDA #1</text>
@@ -1327,7 +1328,7 @@
 		<text>'Isomorphic' Globe</text>
 	</string>
 	<string id="enc_item_isomorfhic_globe_descr">
-		<text>'Isomorphic' Globe, of a strange and undetermined origin. Putting it inside a backpack will reduce the combined radiation level of all artefacts being carried...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,1,255,1]-20\n%c[default]\n'Isomorphic' Globe, of a strange and undetermined origin. Putting it inside a backpack will reduce the combined radiation level of all artefacts being carried...</text>
 	</string>
 	<string id="item_isomorfhic_camera">
 		<text>'Isomorphic' camera body</text>
@@ -1345,7 +1346,7 @@
 		<text>'Isomorphic' lens</text>
 	</string>
 	<string id="enc_item_isomorfhic_camera_lens_descr">
-		<text>'Isomorphic' camera lens. Wearing it on the belt has the negative side effect of increasing radiation dosage, due to the unique coating on the lens...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\n'Isomorphic' camera lens. Wearing it on the belt has the negative side effect of increasing radiation dosage, due to the unique coating on the lens...</text>
 	</string>
 	<string id="item_isomorfhic_shutter_camera">
 		<text>'Isomorphic' camera shutter</text>
@@ -1507,12 +1508,12 @@
 		<text>In order to view this photograph, insert it into the sidearm slot...</text>
 	</string>
 	<string id="item_btr_key">
-		<text>Armoured vehicle key</text>
+		<text>Armored vehicle key</text>
 	</string>
 	<string id="item_btr_key_s">
-		<text>Armoured vehicle key</text>
+		<text>Armored vehicle key</text>
 	</string>
 	<string id="enc_item_btr_key_descr">
-		<text>Appears to be a master key for a certain range of models of armoured vehicle</text>
+		<text>Appears to be a master key for a certain range of models of Armored vehicle</text>
 	</string>
 </string_table>

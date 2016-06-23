@@ -1,5 +1,4 @@
-<!--TB3D 1.0.9.9.9.8 added new autosaves and sms messages, barman, sid, more content, tb3d_sms_bars_found -->
-<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 24 Feb 16 -->
+<!--TB3D 1.1.0.0.0.4 added new autosaves and sms messages, barman, sid, more content, tb3d_sms_bars_found, tb3d_sms_chaes_start, dialog imp -->
 <string_table>
 	<!-- autosaves -->
 	<string id="start_storm">
@@ -29,6 +28,15 @@
 	</string>
 	<string id="tb3d_sms_bars_found">
 		<text>You've found all the bars. An important entry has been added to your diary!</text>
+	</string>
+	<string id="tb3d_sms_chaes_start">
+		<text>You think it is so easy, what is real and what is just in your mind marked One?</text>
+	</string>
+	<string id="tb3d_sms_chaes_start2">
+		<text>Run, run as fast as you can through the rooftop portals, maybe you will survive..</text>
+	</string>
+	<string id="tb3d_sms_doc_book">
+		<text>Don't forget Doc's book, might be around here somewhere..</text>
 	</string>
 	<!-- Karina in Dead Marshes -->
 	<string id="karina_dialog_food_0">
