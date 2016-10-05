@@ -1,0 +1,9 @@
+Lines 45-48: Personally, I'd either remove the word 'Land' after each of the four seasons, or replace it with 'environment', 'scenery', or 'terrain'
+
+Spelling changed to 'STALKERSOUP' throughout for consistency. 'STALKERSoup' or 'StalkerSoup' could be used, but this depends on what TB wants to use as the definitive version. Currently, on his website, he's using 'STALKERSOUP'...
+
+Ideally, I'd like to see these lines in their intended context, the Installer. Once the Installer is released, may I please take another look at this file?
+
+Thank you for letting me work on this file :-)
+
+Sword2012

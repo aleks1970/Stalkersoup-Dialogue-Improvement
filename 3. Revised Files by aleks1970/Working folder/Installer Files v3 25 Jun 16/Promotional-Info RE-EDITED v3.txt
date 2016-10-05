@@ -1,0 +1,117 @@
+My earliest memories are of death...
+
+Now, with a total loss of identity and past, it has taken what seems like another lifetime to progress from being unwelcome and destitute, lacking anything resembling a decent weapon with which to protect myself in this unforgiving and desolate place - to learning who I was, where I’d been, and where I needed to be. I acquired clues to help me get there, and weapons, armour, and medicine to survive the journey… 
+
+Level 0 of STALKERSOUP is simply massive, with quests ranging from basic to complex and far-reaching. I have been testing this level of the much larger game for over a year and, though I have taken on the same quests many, many times, I still have to think about what I’m doing to survive and prevail. It is that varied and 
+involved
+
+There are NPCs whom I hate, those who I consider as trusted friends, mutants I enjoy hunting, and some I get very nervous about hunting me. The quests and storylines have been written by many people, and it shows. There is great variety even in the smallest things. I have played countless games in real life, but can honestly say that STALKERSOUP will always be in my top five. I look forward to every upgrade, to the multitude of new experiences that I know will come and, each time, I feel the call… 
+
+I take a shot of vodka, put on my old leather coat, and break out my timeworn semi-accurate pistol. I check the action briefly, throw sixty rounds and a handful of medkits into my battered rucksack and, after a cursory glance behind me, head back once more into my adopted home, the Zone... 
+
+Psy Dog 
+
+……………………………………………………………………………………………......... 
+
+STALKERSOUP Features 
+
+Starting with the Narodnaya Solyanka mod, combining it with the DMX addon and the DKZ mods, adding new AMK, ABC, NLC patches, and then an extra storyline 
+(Author: Dan), this independent game by TecnoBacon is widely considered to be one of the best and most stable adaptations of the STALKER trilogy 
+
+The result of over five years’ relentless coding to merge these mods and add much more content, the game has a dedicated worldwide team of testers, ongoing translation from the original Russian, further translation to other languages, and regular (usually once a month) updates 
+
+The game has benefited from a major refit over the last year, providing a much more stable and robust gameplay experience than ever before 
+
+Containing over 230,000 objects, the 12Gb download unpacks a game weighing in at just over 19Gb (not including saves), and covers a huge number of quests over 
+every map from Shadow of Chernobyl, Clear Sky, and Call of Pripyat, plus many new areas, creating an absolute minimum of 200 hours freeform gameplay
+
+The game has its own dedicated Installer and Launcher, with selectable DX9, DX11, or SweetFX DX11, an automatic log cleaner, savegame manager, and a comprehensive choice of launch options (no more adding command lines to your shortcut!) 
+
+The game currently includes: 
+
+Over 250 weapons, from fists, knives, katana, and night-vision crossbow, to anti-tank weapons, heavy machine guns, grenade launchers, and a computerised sniper rifle 
+(Authors: Zenobian Mod, Arsenal Mod, Simbion Mod, TIREX, giAdolf, Aahz, jgar, Alwen, eNdimiOn, ZEN, Kolyny, Death, Sm0kE, Sin!, Zeka1996, Korneev, Kirag. 
+Authors’ models: Aahz, Gosuke, Bender, Purke62, Bak and others) 
+
+28 types of mutant, including wild cats, rats, cockroaches, and female zombies (Authors: Wawka, kalinin11) 
+53 different maps 
+45 types of artefact 
+20 types of anomaly 
+16 independent factions 
+5 models of detector - the top end models visually depicting the precise locations of artefacts and anomalies on the player’s minimap 
+Over 4,000 NPC's, including several unique female Stalkers 
+In-game Advanced Options menu 
+Large numbers of vehicles, including models imported specially into the Zone… 
+Extensive choice of body armour, with many upgradable, and 8 varieties of night vision 
+AMK artefact cooking (Recipes), but now using a new artefact transmutator (Basis: Refresh; Kordinalnaya modifications: Sapsan and others) 
+Looting of money from corpses (Author: Babuin 119) 
+GPS tagging for stashes (Author: idler) 
+Periodic ‘flying’ visits from mobile traders 
+Earnable ‘shortcut trails’, enabling fast transition between maps 
+Repair kits for armour and weapons (Author: DEXXX) 
+Purchasable Bioradar for the HUD, detecting and displaying all nearby lifeforms (Authors: xStream, BAC9-FLCL, tolusha, Z-Vertoz, Nekt, Rusya) 
+Mutant detector on the minimap, customisable to your favourite mutants… 
+Weapon upgrades available at the Bar (Author: Ray) 
+‘Hell Hour’ – the phenomenon of sustained zombie attacks (Author: Spot-shooter)
+
+Blowouts and ‘Hell Hour’ become weaker the further you are from the Chernobyl Nuclear Power Plant (NPP), the source of the emissions 
+Types of mutant, anomalies and artefacts encountered are also affected by where you are in the Zone, and your distance from the NPP 
+Improved trading across the Zone 
+Improved NPC faces, which appear accurately in storyline videos 
+Improved AI for NPC behaviour, and their use of weapons (Author: xStream) 
+Optional increasing difficulty with experience (Author: Sapsan) 
+A personalised Modders’ Script allows you to fine tune each aspect of the game to your own preference, and a simple text file allows easy changes to shader options 
+
+Additional incorporated mods include: 
+
+Arena Extension Mod - Practice against multiple human and mutant opponents (Authors: kstn, IG-2007. Adaptation: Wawka, Kto)
+Embryos that activate mutants, and capsules that create anomalies anywhere. Guaranteed to break the ice at parties! (Sources - Simbion Mod) 
+RagDoll Mod (Author: LexMalin) 
+‘Half Life’ style gravity gun (Authors: Malandrinus, Kirag) 
+New silencers and optics (Arsenal Mod) 
+Smoke grenades 
+New videos for the storyline 
+New sounds for all weapons (Author: MulleR) 
+Locks for stashes to prevent theft (Author: Ferrari314)
+Personal mp3 player, with music flash drives available from in-game traders 
+Linspiro Addon v1.1 mod lets you buy info on stashes from friendly NPC’s (Author: Linspiro)
+Nocturne Mod 1.0 adds new dreams (Authors: Khorn, malandrinus, nemnogonado) 
+New HUDs, with dynamic effects (Authors: ABC Mod, Redux Mod, Vergas, zayaz) 
+Doc Viewer makes documents readable on your HUD (Author: 7.9) 
+All fires now create smoke (OGSE Mod) 
+Water effects as debuted in Call of Pripyat 
+The Wish Granter is now a random portal to treasures unknown…
+
+Corpses become carrion, and disappear from maps eventually and effectively (Authors: Shadowman, Sapsan)
+Major improvements to functionality and icons in personal Inventory (Authors: Rusya, stalker69 and others) 
+Terrorizm Demo v0.2 adds explosives with detonators, land mines scattered across the Zone, and a necessary personal mine/portal detector (Author: 4ufak) 
+Intellectual Marauder Mod 1.5.1 allows the looting of armour from corpses (Author: DEXXX) 
+In-game Spawn Menu allows easy spawning of any item, anomaly or mutant… 
+and so much more… :-)
+
+
+The game is spread over several freeplayable levels: 
+
+Level 0 - The highly upgraded Narodnaya Solyanka mod, which now leads into… 
+
+Level 1 - ‘The Collector’ (Author: TecnoBacon), an original storyline with a new chain of quests, including 42 lost items stashed around the Zone, and a treasure 
+hunt (Author: dAVROs). This level also incorporates the Zone Expansion Project, and includes new maps, characters, 24 missing documents, and a strange alien 
+device which brings about… 
+
+Level 2 - ‘Desolation’ (Author: TecnoBacon) - the onset of the Storm, the continuation of the treasure hunt, and a search for gold bullion, until… 
+
+Level 3 - ‘Reclamation’ (Author: TecnoBacon) - the radiation storm recedes, mutants repopulate the Zone, and the race to the centre, for every faction, begins. You’ll be extremely grateful that other Stalkers have your back… 
+
+Levels 4-10 (Author: TecnoBacon) are ongoing works in progress, but will become available as DLC 
+
+Works in progress include: 
+
+64 bit X-Ray engine supporting 16Gb RAM (expected late 2016) 
+In-game networking using the game’s SMS messaging system 
+Improvements to the geometry of the new levels and the mini-maps 
+Weapon rebalancing and effectiveness
+Continuous repair and optimisation of the X-Ray engine, including rogue original code, and removal of memory hogs in the code (the source of most CTD’s), making the game more stable with every new patch 
+
+
+For more details, please visit http://www.tecnobacon.com/ 
+

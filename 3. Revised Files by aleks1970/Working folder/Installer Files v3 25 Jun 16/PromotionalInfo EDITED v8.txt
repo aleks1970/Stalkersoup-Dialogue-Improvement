@@ -1,0 +1,128 @@
+My earliest memories are of death... 
+
+Now, with a total loss of identity and past, it has taken another lifetime to progress from being unwelcome and destitute - lacking even a decent weapon to protect myself in this unforgiving and desolate place - to learning who I was, where I’d been, and where I needed to be. To get there I had to search for clues, in addition to weapons, medicine, and protection from literally everything in the Exclusion Zone - that natural hell born from arrogance, hubris and fear that will forever be remembered as 'Chernobyl'… 
+
+Level 0 of STALKERSOUP is simply massive, with quests ranging from basic to complex and far-reaching. I have been testing this initial level of the much larger game for over a year and, though I've taken on the same quests many, many times, I still have to think about what I’m doing to survive and prevail. It is that varied and involved. 
+
+There are NPCs whom I hate, some I consider trusted friends, mutants I enjoy hunting, and those I get very nervous about hunting me. The quests and storylines have been carefully adopted from a diverse number of writers, and it shows. There is great variety even in the smallest things. I have played countless games in real life, but can honestly say that STALKERSOUP will always be in my top five. I look forward to every regular upgrade, to the multitude of new experiences that I know will come and, each time, I feel the call… 
+
+I take a shot of vodka, put on my old leather coat, and break out my timeworn semi-accurate pistol. I check the action briefly, throw sixty rounds and a handful of medkits into my battered rucksack and, after a cursory glance behind me, head back once more into my adopted home, the Zone... 
+
+Psy Dog 
+
+……………………………………………………………………………………………......... 
+
+
+STALKERSOUP Features 
+
+"This independent game by TecnoBacon is widely considered to be one of the best and most stable adaptations of the STALKER trilogy..." (quote by Dan) 
+
+Used to adding total conversions to your current STALKER game? How do you feel about one total conversion naturally leading into another? And another? 
+
+Welcome to STALKERSOUP... 
+
+A custom 56-level all.spawn, incorporating the original conversion and storyline of Narodnaya Solyanka (People's Soup) with the Large Zone Mod, Arsenal Mod, and AMK/DMX enhancements, is the base for a unique level-up system that continues the storyline over many more levels 
+
+The result of over five years relentless coding to merge all these mods with additional content, the complete game has a dedicated worldwide team of testers, ongoing English translation from the original Russian (steve2000, Sword2012), further translation to other languages, and regular monthly updates (TecnoBacon, aleks1970) 
+
+The game has benefited from a major refit before going Alpha, providing a more substantial and robust gameplay experience than ever before. Level 0 (the base game) and Level-up 1 (The Collector) are fully working, while Level-ups 2 (Desolation) and 3 (Reclamation) are partially complete but working within the game, with new level-ups to be provided via downloadable content in the future 
+
+Containing over 230,000 objects, the 12Gb download unpacks a game weighing in at just over 19Gb, and covers a legion of quests over every map from Shadow of Chernobyl, Clear Sky, and Call of Pripyat, plus many new areas, creating several hundred hours of freeform gameplay 
+
+Now with a dedicated Installer/Auto-updater (Author: aleks1970), the new game content includes: 
+
+Over 250 weapons - from fists, knives, katana, and night-vision crossbow - to a computerized sniper rifle, grenade launchers, heavy machine guns, and anti-tank weapons... 
+(Authors: Zenobian Mod, Arsenal Mod, Simbion Mod, TIREX, giAdolf, Aahz, jgar, Alwen, eNdimiOn, ZEN, Kolyny, Death, Sm0kE, Sin!, Zeka1996, Korneev, Kirag) 
+(Authors’ models: Aahz, Gosuke, Bender, Purke62, Bak and others) 
+(Weapon and artefact stats rationalisation: GlowWormToo)
+
+28 types of mutant, including female zombies, wild cats, cockroaches, and rats (Authors: Wawka, kalinin11) 
+53 different maps (with 3 more being developed for future DLC) 
+Over 4,000 NPCs, including unique female Stalker models 
+16 independent Factions 
+20 types of Anomaly 
+45 types of Artefact 
+8 models of detector - the top end models accurately depicting the locations of artefacts and anomalies on the player’s maps 
+Numerous drivable vehicles, including models imported specially into the Zone… 
+Extensive faction-dependent choice of upgradable body armor. Upgrades include 8 types of night vision 
+AMK artefact cooking (Recipes) - now with an electronic Artefact Transmutator (Basis: Refresh. Kordinalnaya modifications: Sapsan and others) 
+Corpses now become carrion, effectively disappearing from maps over time (Authors: Shadowman, Sapsan) 
+Major improvements to functionality and icons in the Inventory (Authors: Rusya, stalker69, aleks1970, and others) 
+Improved trading across the entire Zone, with mobile traders making periodic ‘flying’ visits 
+Traders now sell smoke grenades, and some traders run a lottery... 
+Change your reputation to a faction, and literally buy your way out of trouble... 
+Earnable ‘shortcut trails’, enabling fast and safe passage between maps 
+‘Hell Hour’ – the night-time phenomenon of sustained massed Zombie attacks (Author: Spot-shooter) 
+Professional weapon upgrades from technicians in the backroom of the Bar (Author: Ray) 
+Purchasable Bioradar for the HUD, displaying every nearby lifeform (Authors: xStream, BAC9-FLCL, tolusha, Z-Vertoz, Nekt, Rusya) 
+Upgradable 'Predator detection' for the minimap, customizable to all your favourite mutants… 
+Personal mp3 player, with custom music flash drives from in-game traders 
+The Wish Granter is now a random portal to treasures unknown… 
+Blowouts and ‘Hell Hour’ become weaker the further you are from the Chernobyl Nuclear Power Plant (NPP), the source of the emissions 
+The types of mutant, artefact, and anomaly you encounter are affected by where you are in the Zone, and your distance from the NPP 
+Improved AI for NPC behaviour and their use of weapons (Author: xStream) 
+Improved NPC faces, which appear accurately in new storyline videos 
+
+
+
+Incorporated and adapted Mods include: 
+
+'Terrorizm Demo v0.2 Mod' adds explosives with detonators, unexploded land mines across the Zone, and a combined portal/mine detector (Author: 4ufak) 
+'Intellectual Marauder Mod 1.5.1' allows the looting of body armor from corpses (Author: DEXXX) 
+'Arena Extension Mod' enables playing and betting against multiple human and mutant opponents (Authors: kstn, IG-2007. Adaptation: Wawka, Kto) 
+'Embryos' to spawn mutants, and 'Capsules' to create anomalies anywhere. Guaranteed to break the ice at parties! (Sources - Simbion Mod) 
+'Repair Kit Mod' for body armor and weapons (Author: DEXXX), the masterly maintenance mod that paved the way for its recent replacement... 
+'Repair Kit Revamped Mod' to strip down other weapons and armor for spares to repair your own gear (Author: barak1001. Rewritten: aleks1970) 
+‘Half Life’ style gravity gun, and 'Doom 3' style Soul Cube... (Authors: Malandrinus, Kirag) 
+New sounds for all weapons (Author: MulleR) 
+New silencers and optics (Arsenal Mod) 
+All fires now create smoke (OGSE Mod) 
+'RagDoll Mod' (Author: LexMalin) 
+GPS tagging for stashes and locations (Author: idler) 
+Looting of money from corpses (Author: Babuin 119) 
+Locks for stashes to prevent theft - Yes, NPCs now nick your stuff... (Author: Ferrari314) 
+'Linspiro Addon v1.1 Mod' lets you buy info on stashes from friendly NPCs (Author: Linspiro) 
+'Nocturne Mod 1.0' adds new dreams (Authors: Khorn, malandrinus, nemnogonado) 
+New HUDs with dynamic effects (Authors: ABC Mod, Redux Mod, Vergas, zayaz) 
+'Doc Viewer' makes documents readable on your HUD (Author: 7.9) 
+
+
+
+Other features include: 
+
+The Game Launcher (Author:TecnoBacon) provides graphics options, FOV adjustment, automatic log cleaning, savegame management, 'cheats', and launch options. No more adding command lines to your shortcut! 
+A personalised Modders’ Script (text file) allows you to fine tune every aspect of the game to your preference 
+Optional increase in difficulty with experience (Author: Sapsan) 
+Selectable graphics options include DX9, DX11, and SweetFX DX11 
+Shader options made easy with a simple text file 
+New Advanced Options Menu available in-game 
+In-game Spawn Menu allows the instant creation of any item, weapon, mutant, or even anomaly… 
+In-game Teleportation Menu allows judicious instant travel between maps 
+In-game Infoportion Menu allows the automatic completion of a task or event - just in case you're really, really stuck... 
+Game support guides, walkthroughs, directories, and documentation (Authors: KoRn0509, Plesskyn, kd6dm, Sword2012) 
+
+
+The game is spread over several freeplayable levels: 
+
+Level 0 - The highly upgraded Narodnaya Solyanka mod, which now leads into… 
+
+Level 1 - ‘The Collector’ (Author: TecnoBacon), an original storyline with a new chain of quests (Author: dAVROs). This level also incorporates the ZEP (Zone Expansion Project), the Gold Bars quest, and the Treasure Hunt (created exclusively for STALKERSOUP by DKZ). It includes new maps, characters, and a strange alien device which brings about… 
+
+Level 2 - ‘Desolation’ (Author: TecnoBacon) - the onset of the Storm, the continuation of the treasure hunt, and a search for gold bullion, until… 
+
+Level 3 - ‘Reclamation’ (Author: TecnoBacon) - the radiation storm recedes, mutants repopulate the Zone, and the race to the centre, for every faction, begins. You’ll be extremely grateful that other Stalkers have your back… 
+
+Levels 4-10 (Author: TecnoBacon and possibly others) are ongoing works in progress, but will become available as DLC 
+
+
+Further works in progress include: 
+
+A 64 bit X-Ray engine supporting 16Gb RAM (expected late 2016) 
+In-game networking using the game’s SMS messaging system 
+Improvements to the geometry of new levels and mini-maps 
+Further weapon rebalancing and effectiveness 
+Continuous repair and optimization of the X-Ray engine, including the removal of rogue original code and memory hogs (the source of most CTD’s), making the game more stable with every new patch 
+
+
+For more details, please visit http://www.tecnobacon.com/ 
+
