@@ -1,4 +1,5 @@
-<!--TB3D 1.1.0.0.0.6 added notes, removed npp1_lc_opened, gps, pred_barman, gps tips, sak_cube, tb3d_cem_distress, storm, zep_note_np1, zep_note_rad1, zep_note_gen_grimwald, zep hints, npp2 hint, atp hint, grey's note, dead_marsh_recorder_hint, glavney -->
+<!--TB3D 1.1.0.0.0.7 added notes, removed npp1_lc_opened, gps, pred_barman, gps tips, sak_cube, tb3d_cem_distress, storm, zep_note_np1, zep_note_rad1,
+zep_note_gen_grimwald, zep hints, npp2 hint, atp hint, grey's note, dead_marsh_recorder_hint, glavney, removed warehouses from storm -->
 <string_table>
 <!--  TB3D  FREE PLAY  COLLECTOR -->
 <string id="new_line">
@@ -951,7 +952,7 @@
 </string>
 
 <string id="zep_note_wlab1">
-<text>I found a document deep in the lab yesterday. It outlines a series of steps for placing special gold ingots in specific spots in an old tunnel somewhere.\nThe ingots have codes that indicate which spot it is supposed to be droped at. It also indicates that they must be placed in a certain order which is continued on the next page. I cannot find this page so I don't know the order!\nI also found a note with this scribbled on it:\nDS-RB1-NE-RKS\nGR-BAR-HIGH-LDG\nWT-YAN-TNT\n.\nno clue what they mean\nSacola</text>
+<text>I found a document deep in the lab yesterday. It outlines a series of steps for placing special gold ingots in specific spots in an old tunnel somewhere.\nThe ingots have codes that indicate which spot it is supposed to be dropped at. It also indicates that they must be placed in a certain order which is continued on the next page. I cannot find this page so I don't know the order!\nI also found a note with this scribbled on it:\nDS-RB1-NE-RKS\nGR-BAR-HIGH-LDG\nWT-YAN-TNT\n.\nno clue what they mean\nSacola</text>
 </string>
 <string id="zep_note_wlb1">
 <text>Gorto</text>
@@ -965,14 +966,14 @@
 </string>
 
 <string id="zep_note_deadm2">
-<text>I am trapped here\ncontroller outside trying to get to me\n.\nleaving my stuff and will try to run for it\nif you find this then I did not make it\nthe gold bar    is important    take to veronin in rostok\nthere is another bar in the northern research   village tower\ndeath eagle</text>
+<text>I am trapped here\ncontroller outside trying to get to me\n.\nleaving my stuff and will try to run for it\nif you find this then I did not make it\nthe gold bar is important take to Veronin in Rostok\nthere is another bar in the northern research village tower\nDeath Eagle</text>
 </string>
 <string id="zep_note_dm2">
 <text>no choice</text>
 </string>
 
 <string id="zep_note_tunnels">
-<text>must be done to control the intensity.\nEach Ingot with a code on it must be placed in the proper slot and in the proper order.\nIt is beleived that the order should be West to center then East to center. It is uncertain if the center is done last but the fifteenth Ingot must be dropped in dead center as the last step.</text>
+<text>must be done to control the intensity.\nEach Ingot with a code on it must be placed in the proper slot and in the proper order.\nIt is beleived that the order should be West to center then East to center. It is certain that the center is done last, the ingot marked C-C must be dropped in dead center of the tunnel.</text>
 </string>
 <string id="zep_note_tnls">
 <text>LOCATOR Page 2</text>
@@ -2038,7 +2039,7 @@
 	</string>
 
 	<string id="tb3d_sms_storm_areas">
-		<text>ATTENTION!..   areas effected so far are: NPP, Radar, Dead City, East pripyat, RECON, Warehouses, Generators, Black Market and the old cemetery..    These areas are extremely hazardous and should be avoided at all cost!</text>
+		<text>ATTENTION!..   areas effected so far are: NPP, Radar, Dead City, East pripyat, RECON, Generators, Black Market and the old cemetery..    These areas are extremely hazardous and should be avoided at all cost!</text>
 	</string>
 
 	<string id="kostya_generic">

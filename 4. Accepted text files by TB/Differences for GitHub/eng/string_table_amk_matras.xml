@@ -19,8 +19,39 @@
 		<text>Rucksack</text>
 	</string>
 	<string id="enc_amk_ruksak">
-		<text>A strong expeditionary rucksack. It's vulcanised, so it's tough and waterproof. You could even put something valuable inside and hide it for months, making it an excellent stash</text>
+		<text>Weak expeditionary rucksack. It's vulcanised, so it's waterproof. You could even put something valuable inside and hide it for months, making it an excellent stash</text>
 	</string>
+	
+	<string id="amk_ruksak_big">
+		<text>Rucksack Mk-II</text>
+	</string>
+	<string id="amk_ruksak_big_s">
+		<text>Rucksack</text>
+	</string>
+	<string id="enc_amk_ruksak_big">
+		<text>A strong expeditionary rucksack. It's vulcanised and sutured with better and stronger thread, so it's tough with higher capacity and waterproof. You could even put something valuable inside and hide it for months, making it an excellent stash</text>
+	</string>
+	
+	<string id="amk_ruksak_zep">
+		<text>Zep Rucksack</text>
+	</string>
+	<string id="amk_ruksak_zep_s">
+		<text>Rucksack</text>
+	</string>
+	<string id="enc_amk_ruksak_zep">
+		<text>Zep treasure</text>
+	</string>
+	
+	<string id="amk_ruksak_lastday">
+		<text>Last Day treasure</text>
+	</string>
+	<string id="amk_ruksak_lastday_s">
+		<text>Last Day treasure</text>
+	</string>
+	<string id="enc_amk_ruksak_lastday">
+		<text>Unknown treasure from the 'Last Day' member Master. It can be dangerous to open or to look inside - according to the sign of the death head on him...</text>
+	</string>
+	
 
-<!-- 23:52 23.06.2007 -->
+<!-- 18:05 05.08.2016 -->
 

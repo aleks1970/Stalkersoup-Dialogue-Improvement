@@ -128,6 +128,16 @@
 <string id="enc_weapons_wpn_addon_hensoldt_scope">
 <text>4-x the multiple optical sight Hensoldt Fero-Z24 on HK STANAG bracket, designed for installation to a G3 assault rifles and G41, as well as the MP5 submachine gun.</text>
 </string>
+
+<string id="equip_device_nightvision_goggles_m1">
+<text>Night Vision goggles</text>
+</string>
+<string id="equip_device_nightvision_goggles_m1_s">
+<text>Night Vision goggles</text>
+</string>
+<string id="enc_equipment_devic_nightvision_goggles_m1">
+<text>Powerful Night Vision goggles.\nRecharge time improved by using the latest LiOn battery technology, and a more efficient transducer</text>
+</string>
 	<!-- AMMUNITION -->
 	<!-- GLOWING GRENADES -->
 <string id="fosfor_grenade_g">
