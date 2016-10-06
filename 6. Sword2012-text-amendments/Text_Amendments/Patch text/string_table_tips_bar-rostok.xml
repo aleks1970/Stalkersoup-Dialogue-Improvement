@@ -1,146 +1,145 @@
-<!-- TB3D 1.0.9.9.9.9 -->
-<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 08 Feb 16 -->
+<!-- TB3D 1.1.0.0.0.4 -->
 	<string id="bar_arena_actor_afraid">
-		<text>The fight has been cancelled. Our challenger was too scared to enter the ring...</text>
+		<text>Fight is cancelled. The challenger was frightened and did not come out to the ring.</text>
 	</string>
 	<string id="bar_arena_fight_10">
-		<text>10 seconds so far!</text>
+		<text>Has passed 10 seconds!</text>
 	</string>
 	<string id="bar_arena_fight_20">
-		<text>20 seconds so far!</text>
+		<text>Has passed 20 seconds!</text>
 	</string>
 	<string id="bar_arena_fight_30">
-		<text>30 seconds!</text>
+		<text>Has passed 30 seconds!</text>
 	</string>
 	<string id="bar_arena_fight_40">
-		<text>40 seconds!</text>
+		<text>Has passed 40 seconds!</text>
 	</string>
 	<string id="bar_arena_fight_50">
-		<text>50 seconds!</text>
+		<text>Has passed 50 seconds!</text>
 	</string>
 	<string id="bar_arena_fight_60">
-		<text>One minute!</text>
+		<text>there Has passed one minute!</text>
 	</string>
 	<string id="bar_arena_fight_70">
-		<text>One minute and ten seconds!</text>
+		<text>there Has passed a minute and ten seconds!</text>
 	</string>
 	<string id="bar_arena_fight_80">
-		<text>One minute, twenty seconds!</text>
+		<text>there Has passed a minute and twenty seconds!</text>
 	</string>
 	<string id="bar_arena_fight_90">
-		<text>One and a half minutes!</text>
+		<text>Has passed one and a half minutes!</text>
 	</string>
 	<string id="bar_arena_fight_begin">
-		<text>The fight has begun!</text>
+		<text>Fight has begun!</text>
 	</string>
 	<string id="bar_arena_fight_bloodsucker">
-		<text>Attention! Attention! A new fight will soon start! At the left end of the arena - an invisible, ravenous bloodsucker! And at the right end of the Arena... I don't believe this! Is it a man? Yes, it's the Stalker known as Marked One!</text>
+		<text>Attention! Attention! Soon in arena new fight will be started! In the left corner of arena blood-thirsty and eternally hungry bloodsucker! In the right corner of arena... The person? Yes, the person! All name its Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_burer">
-		<text>Attention! Attention! A new fight will soon start! At the left end of the arena - he can bend the elements! He can overpower your mind! It's - a burer! And at the right end of the Arena - the local hero whose search may end here tonight - Marked One!</text>
+		<text>Attention! Attention! Soon in arena new fight will be started! In the left corner of arena, he knows a kung fu, he is able to bend spoons, it is a burer! In the right corner of arena the hero, whose search never will end! All name its Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_dead">
-		<text>So! Our challenger has lost to his opponent within the time limit!</text>
+		<text>So! The opponent has killed the challenger. Here so number!</text>
 	</string>
 	<string id="bar_arena_fight_lose">
-		<text>So! Our challenger has killed his opponent, but exceeded the allotted time, and so forfeits the match!</text>
+		<text>So! The challenger has killed the opponent, but was not in time during time and has lost!</text>
 	</string>
 	<string id="bar_arena_fight_pseudodog">
-		<text>Attention! Attention! A new fight will soon start! At the left end of the arena - a white, furry, but extremely vicious pseudodog! And at the right end of the Arena - he comes from nowhere - he could end up anywhere. It's Marked One!</text>
+		<text>Attention! Attention! Soon in arena new fight will be started! In the left corner of arena white, fluffy, but improbably malicious pseudo-dog! In the right corner of arena come from anywhere, going anywhere. All name its Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_savage">
-		<text>Attention! Attention! A new fight will soon start! At the left end of the arena - you know you love to hate it! And it hates you! It's the Animal! And at the right end of the Arena - still alive! Marked One!</text>
+		<text>Attention! Attention! Soon in arena new fight will be started! In the left corner of arena, you know it, you love it. And he hates you. It is the Animal! In the right corner of arena still live Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_snork">
-		<text>Attention! Attention! A new fight will soon start! At the left end of the arena - an expert in unarmed combat, martial arts, and eutrophy - a snork! And at the right end of the Arena - the man without a past. Without even a name - The fighter known as - Marked One!</text>
+		<text>Attention! Attention! Soon in arena new fight will be started! In the left corner of arena the expert on oriental combat sports and eutrophy a snork! In the right corner of arena the person without the past. All name its Marked One!</text>
 	</string>
 	<string id="bar_arena_fight_timeout">
-		<text>Time's up! Our challenger has lost the match to his opponent, but still fights for his life!</text>
+		<text>Time left! The challenger has lost, but still struggles for life!</text>
 	</string>
 	<string id="bar_arena_fight_victory">
-		<text>So! Our challenger has bested his opponent within the time limit. He's won!</text>
+		<text>So! The challenger has had time to kill the opponent and has won!</text>
 	</string>
 	<string id="bar_ecolog_attack">
-		<text>As you wish...</text>
+		<text>As you wish.</text>
 	</string>
 	<string id="bar_ecolog_crush_attract_actor">
-		<text>Stalker! Friend! I beg you, please don't leave. Help us! Anarchists have brought down our protection detail, and are trying to kill us. We have so few armed, but many wounded. Please help us!</text>
+		<text>Stalker, friend! I beg, do not leave, help us! Anarchists have brought down our helicopter and now will finish us. We have wounded men, your help is necessary to us!</text>
 	</string>
 	<string id="bar_ecolog_crush_heli_down">
-		<text>Ha! There goes your chopper! You're next, you amoral government robotniks!</text>
+		<text>He-he, there goes your chopper.. you're next you political scumbags!</text>
 	</string>
 	<string id="bar_ecolog_crush_start_heli">
-		<text>Well, Wolfhound, you really have got yourself into a mess. That's a military helicopter up there. And they've spotted you...</text>
+		<text>Well everything, the Wolfhound, you have got into a mess. The military helicopter here flies. Now they you, as puppies!</text>
 	</string>
 	<string id="bar_ecolog_escape">
-		<text>The professor's run away! Everyone, after Kruglov! He can't have got far!</text>
+		<text>Professor has run away! Urgently all in a pursuit of Kruglov! He could not go far.</text>
 	</string>
 	<string id="bar_ecolog_hit">
-		<text>Marked One! Help me! I'm hit!</text>
+		<text>Marked One, help me!!! I'm hit!!!</text>
 	</string>
 	<string id="bar_ecolog_spam_1">
-		<text>You've always been a scumbag, Wolfhound. Even at school, everyone knew you as a bastard!</text>
+		<text>You will manage, a jackal. At first school finish, and you will put ultimatums then.</text>
 	</string>
 	<string id="bar_ecolog_spam_2">
-		<text>I'd rather destroy this data before I give it to you. At least my work will die with me...</text>
+		<text>If you will attack, I will destroy the information. Figs to you, instead of my works.</text>
 	</string>
 	<string id="bar_ecolog_spam_3">
-		<text>Unless you want to be the one responsible for destroying years of research - stay clear!</text>
+		<text>If you do not want me to destroy the results of research - steer clear.</text>
 	</string>
 	<string id="bar_ecolog_spam_4">
-		<text>Wolfhound! Withdraw your dogs while you still have a chance!</text>
+		<text>Wolfhound, withdraw the dogs while tails have not peeled!</text>
 	</string>
 	<string id="bar_freedom_attack">
-		<text>No more talk. It's time for action...</text>
+		<text>Everything, conversations are ended. Shooting begins.</text>
 	</string>
 	<string id="bar_freedom_attack_attract_actor">
-		<text>This is our job. Ridding the world of governmental lab rats...</text>
+		<text>This is business. Together we will finish these governmental rats.</text>
 	</string>
 	<string id="bar_freedom_attack_spy">
-		<text>Marked One. You'll pay for this...</text>
+		<text>Marked One. You will pay for this.</text>
 	</string>
 	<string id="bar_freedom_chase">
-		<text>They're still following us! Marked One, stop them!</text>
+		<text>They follow us?! Marked One, stop them!</text>
 	</string>
 	<string id="bar_freedom_spam_1">
-		<text>To me, you're nothing more than a scientific prick. Give me those results. Now. Or you'll leave here in one of your test sample bags...</text>
+		<text>You are in short, a scientific blockhead. Give me results, or you will leave from here in a plastic bag.</text>
 	</string>
 	<string id="bar_freedom_spam_2">
-		<text>Kruglov, I don't know biochemistry, like you, but I do know 'batshit crazy'. Do you want to find out, or are you gonna give me that data?</text>
+		<text>Kruglov, I might not know Karate, but I do know crazy. Want to quiz me on it? Or will you give the information?</text>
 	</string>
 	<string id="bar_freedom_spam_3">
-		<text>Kruglov, you're supposed to be a smart guy. It's very simple. You give me the drive, and I'll leave you and your friends undamaged</text>
+		<text>Professor, you're a clever person. Give the information and be ready to go on all fours.</text>
 	</string>
 	<string id="bar_freedom_spam_4">
-		<text>Kruglov, don't you understand? We've brought down your fucking helicopter. There's nobody left to protect you. All we want is that flash drive in your pocket. Nothing else. Just hand it over, and you can all leave. You're of no other interest to us. Otherwise, we kill you and take the drive anyway. I trust it's impervious to water, and other fluids...</text>
+		<text>Kruglov, you yet have not understood?! We have brought down your fucking helicopter and that information which you carry is necessary to us. After you will give it to us, can bring down with the children. It is your last chance to get out from here, give the flash card and run.</text>
 	</string>
 	<string id="bar_psih_come">
-		<text>Come here, quickly! My men have caught the mad stalker near Radar. We're about to interrogate him...</text>
+		<text>Urgently come here! Near the Radar my children have caught the mad stalker, now we try to interrogate him.</text>
 	</string>
 	<string id="bar_territory_dolg_1_hit">
-		<text>Marked One, are you crazy? Stop shooting, now! This is an order!</text>
+		<text>Marked One, are you crazy? Immediately stop shooting! This is an order!</text>
 	</string>
 	<string id="bar_territory_dolg_2_hit">
-		<text>Marked One, stop shooting immediately! Fire one more shot, and you're dead!</text>
+		<text>Marked One, immediately stop shooting! If you disobey the order, you're a corpse!</text>
 	</string>
 	<string id="bar_territory_dolg_3_hit">
-		<text>Marked One. For infringement of the code of Duty, you are now outside of our protection. You are now our enemy...</text>
+		<text>Marked One. For infringement of the code of "Duty" you are expelled from the grouping. Henceforth you're our enemy.</text>
 	</string>
 	<string id="bar_territory_dolg_kill">
-		<text>Marked One, you have disobeyed our direct order! You're a dead man! Duty does not tolerate defiance!</text>
+		<text>Marked One, you have disobeyed the order! Now you're a corpse! "Duty" does not forgive!</text>
 	</string>
 	<string id="bar_territory_nodolg_1_hit">
-		<text>Stop shooting! You're in Duty-protected territory! Violation of any kind will be punished!</text>
+		<text>Stop shooting! In territory of "Duty" shooting is forbidden! Disobeyed will be punished!</text>
 	</string>
 	<string id="bar_territory_nodolg_2_hit">
-		<text>Attention, everyone! For infringement of the law, the wilful use of weapons within Duty territory, this Marked One is hereby declared a criminal outlaw...</text>
+		<text>Attention! For infringement of the law, a use of weapons in territory of "Duty", the Marked One is declared to be a criminal.</text>
 	</string>
 	<string id="bar_territory_nodolg_kill">
-		<text>Attention! The murderer has been spotted inside Duty territory! Prevent him from escaping! Kill him!</text>
+		<text>Attention! The murderer is found out! The order all being in "Duty" territory! Urgently destroy the murderer!</text>
 	</string>
 	<string id="rostok_kruglov_spam_1">
-		<text>Stalker, help! We were attacked by mercenaries, and we've lost half our men. Please help us. We'll find a way of helping you in return...</text>
+		<text>Stalker, help! We were attacked by mercenaries, half of ours was lost. Help us, we will return the favour.</text>
 	</string>
 	<string id="rostok_kruglov_spam_2">
-		<text>Please help us make our way through an ambush, near the factory, I've sent you our co-ordinates. Be careful, friend. Wolfhound is here with his mercs, near the helicopter...</text>
+		<text>Help us to make the way through an ambush near factory, I to you have sent co-ordinates. Be careful, Wolfhound is with bandits near the helicopter.</text>
 	</string>

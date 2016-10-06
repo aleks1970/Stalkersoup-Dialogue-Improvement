@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.0 Names and hints for map positions aleks1970, final bios, volk, lehavre, canine to Fang, exp_stalker_known_bio, the raven, lukash line 26, Miser -->
-<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 04 Mar 16 -->
+<!-- TB3D 1.1.0.0.0.4 Names and hints for map positions aleks1970, final bios, volk, lehavre, canine to Fang, exp_stalker_known_bio, the raven, lukash line 26, Miser -->
 <string_table>
 	<string id="Akim_name_gameplay">
 		<text>Akim</text>
@@ -66,7 +65,7 @@
 		<text>Hermit</text>
 	</string>
 	<string id="Gynecologist_name_gameplay">
-		<text>Gynaecologist</text><!-- Was 'Gynecologist' -->
+		<text>Gynecologist</text>
 	</string>
 	<string id="Jora_Anomaly_name_gameplay">
 		<text>Jora-Anomaly</text>
@@ -78,10 +77,10 @@
 		<text>Pilgrim</text>
 	</string>
 	<string id="Victor_Hologram_name_gameplay">
-		<text>Victor Hologram</text>
+		<text>Victor-Hologram</text>
 	</string>
 	<string id="Schur_Gynecologist_name_gameplay">
-		<text>Shura Gynaecologist</text><!-- Was 'Schukra Gynecologist' -->
+		<text>Schur Gynecologist</text>
 	</string>
 	<string id="Chimera_name_gameplay">
 		<text>Chimera</text>
@@ -153,7 +152,7 @@
 		<text>Bartender</text>
 	</string>
 	<string id="Artifact_Container_name_gameplay">
-		<text>Artefact Container</text>
+		<text>Artifact Container</text>
 	</string>
 	<string id="Missing_Scientist_name_gameplay">
 		<text>Missing Scientist</text>
@@ -171,7 +170,7 @@
 		<text>Max</text>
 	</string>
 	<string id="Fan_name_gameplay">
-		<text>Fanatic</text>
+		<text>Fan</text>
 	</string>
 	<string id="Swamp_Doctor_name_gameplay">
 		<text>Swamp Doctor</text>
@@ -222,10 +221,10 @@
 		<text>Ivantsov</text>
 	</string>
 	<string id="Estimated_location_of_documents_name_gameplay">
-		<text>Approximate location of documents</text><!-- Was 'Estimated' -->
+		<text>Estimated location of documents</text>
 	</string>
 	<string id="Dynamite_was_in_newbies_camp_name_gameplay">
-		<text>Dynamite was in Rookie camp</text><!-- Was 'Newbies' -->
+		<text>Dynamite was in newbies camp</text>
 	</string>
 	<string id="Kostya_name_gameplay">
 		<text>Kostya</text>
@@ -240,13 +239,13 @@
 		<text>Bolt</text>
 	</string>
 	<string id="LeHavre_name_gameplay">
-		<text>Le Havre</text>
+		<text>LeHavre</text>
 	</string>
 	<string id="Freeman_name_gameplay">
 		<text>Freeman</text>
 	</string>
 	<string id="James_name_gameplay">
-		<text>James</text><!-- Was 'DeJames' -->
+		<text>DeJames</text>
 	</string>
 	<string id="Monolith_name_gameplay">
 		<text>Monolith</text>
@@ -288,7 +287,7 @@
 		<text>Robbers</text>
 	</string>
 	<string id="Owls_Cache_name_gameplay">
-		<text>Owl's cache</text>
+		<text>Owl's Cache</text>
 	</string>
 	<string id="The_leader_of_the_hunters_name_gameplay">
 		<text>The leader of the Hunters</text>
@@ -297,7 +296,7 @@
 		<text>Zahar</text>
 	</string>
 	<string id="Merc_Camp_name_gameplay">
-		<text>Mercenary Camp</text>
+		<text>Merc Camp</text>
 	</string>
 	<string id="Bandit_name_gameplay">
 		<text>Bandit</text>
@@ -354,10 +353,10 @@
 		<text>Shurup</text>
 	</string>
 	<string id="Fanat_name_gameplay">
-		<text>Fanatic</text>
+		<text>Fanat</text>
 	</string>
 	<string id="Serly_name_gameplay">
-		<text>Seriy</text>
+		<text>Serly</text>
 	</string>
 	<string id="Lukash_name_gameplay">
 		<text>Lukash</text>
@@ -387,10 +386,10 @@
 		<text>Captain Hrenovodelov</text>
 	</string>
 	<string id="Artem_the_Cook_name_gameplay">
-		<text>Artem the cook</text>
+		<text>Artem the Cook</text>
 	</string>
 	<string id="Vitek_Voron_name_gameplay">
-		<text>Vitek Voron (Raven)</text>
+		<text>Vitek Voron 'The Raven'</text>
 	</string>
 	<string id="Victor_Astronomer_name_gameplay">
 		<text>Victor Astronomer</text>
@@ -426,7 +425,7 @@
 		<text>Shnyrov</text>
 	</string>
 	<string id="Stargazer_name_gameplay">
-		<text>Stargazer</text>
+		<text>Astrologer</text>
 	</string>
 	<string id="Proschaysolyankin_name_gameplay">
 		<text>Proschaysolyankin</text>
@@ -477,7 +476,7 @@
 		<text>Sergeant Marauder</text>
 	</string>
 	<string id="Lt_Beard_name_gameplay">
-		<text>Lieutenant Beard</text>
+		<text>Lt. Beard</text>
 	</string>
 	<string id="Captain_Mosquito_name_gameplay">
 		<text>Captain Mosquito</text>
@@ -561,7 +560,7 @@
 		<text>Sapsan</text>
 	</string>
 	<string id="Stalker_Nest_name_gameplay">
-		<text>Stalker Nest</text><!-- Was 'Stalker-Nest' -->
+		<text>STALKER-Nest</text>
 	</string>
 	<string id="Corn_name_gameplay">
 		<text>Corn</text>
@@ -588,7 +587,7 @@
 		<text>Forester</text>
 	</string>
 	<string id="Autofocus_Camera_ready_name_gameplay">
-		<text>Autofocus is configured. Camera ready. Remove the weapon from the FSM slot</text>
+		<text>Autofocus is configured. Camera ready. Remove the weapon from the FSM slot.</text>
 	</string>
 	<string id="Black_Sea_name_gameplay">
 		<text>Black Sea</text>
@@ -630,7 +629,7 @@
 		<text>Duda</text>
 	</string>
 	<string id="Insane_Freedom_name_gameplay">
-		<text>Insane Freedom Stalker</text>
+		<text>Insane Freedom STALKER</text>
 	</string>
 	<string id="Meccep_name_gameplay">
 		<text>Meccep</text>
@@ -642,7 +641,7 @@
 		<text>Fly</text>
 	</string>
 	<string id="Division_Captain_name_gameplay">
-		<text>Agroprom Division Captain</text>
+		<text>'Agroprom' Division Captain</text>
 	</string>
 	<string id="Barkeep_name_gameplay">
 		<text>Barkeep</text>
@@ -666,7 +665,7 @@
 		<text>Jack</text>
 	</string>
 	<string id="Duty_Member_name_gameplay">
-		<text>Duty member</text>
+		<text>Duty Member</text>
 	</string>
 	<string id="Duty_Sniper_name_gameplay">
 		<text>Duty Sniper</text>
@@ -684,7 +683,7 @@
 		<text>Pavlik</text>
 	</string>
 	<string id="Scientific_Guard_name_gameplay">
-		<text>Scientific uard</text>
+		<text>Scientific Guard</text>
 	</string>
 	<string id="Mercenary_Leader_name_gameplay">
 		<text>Mercenary Leader</text>
@@ -732,13 +731,13 @@
 		<text>Elite Soldier</text>
 	</string>
 	<string id="S_Thug_name_gameplay">
-		<text>Stalker thug</text>
+		<text>STALKER Thug</text>
 	</string>
 	<string id="Veteran_s_name_gameplay">
-		<text>Veteran Stalker</text>
+		<text>Veteran STALKER</text>
 	</string>
 	<string id="Master_s_name_gameplay">
-		<text>Master Stalker</text>
+		<text>Master STALKER</text>
 	</string>
 	<string id="Freedom_Member_name_gameplay">
 		<text>Freedom Member</text>
@@ -768,7 +767,7 @@
 		<text>Kep</text>
 	</string>
 	<string id="Zombified_s_name_gameplay">
-		<text>Zombified Stalker</text>
+		<text>Zombified STALKER</text>
 	</string>
 	<string id="The_undead_name_gameplay">
 		<text>The undead</text>
@@ -982,7 +981,7 @@
 		<text>Eureka moderator N6260</text>
 	</string>
 	<string id="Unknown_Sniper_name_gameplay">
-		<text>Unknown sniper</text>
+		<text>Unknown Sniper</text>
 	</string>
 	<string id="Unknown_Rookie_name_gameplay">
 		<text>Unknown Rookie</text>
@@ -1000,58 +999,58 @@
 		<text>Unknown Scientist</text>
 	</string>
 	<string id="Unknown_Corpse_name_gameplay">
-		<text>Unknown corpse</text>
+		<text>Unknown Corpse</text>
 	</string>
 	<string id="Unknown_Bandit_name_gameplay">
 		<text>Unknown Bandit</text>
 	</string>
 	<!-- Encyclopedia infos aleks1970 -->
 	<string id="Groza_TTX_encyclopedia_gameplay">
-		<text>Groza\n \nTTX:\nRange - 600m\nMagazine capacity: 20 rounds</text>
+		<text>Groza\n \nTTX:\nRange - 600M\nMagazine capacity: 20 bullets</text>
 	</string>
 	<string id="SVU_Sniper_rifle_encyclopedia_gameplay">
-		<text>SVU: Sniper rifle\n \nTTX:\nRange - 2,000m\nMagazine capacity: 10 rounds</text>
+		<text>SVU: Sniper rifle\n \nTTX:\nRange - 2000M\nMagazine capacity: 10 bullets</text>
 	</string>
 	<string id="PM_Pistolet_Makarova_encyclopedia_gameplay">
-		<text>PM: Pistolet Makarova\n \nTTX:\nRange - 100m\nMagazine capacity: 7 rounds</text>
+		<text>PM: Pistolet Makarova\n \nTTX:\nRange - 100M\nMagazine capacity: 7 bullets</text>
 	</string>
 	<string id="Zombies_are_very_angry_encyclopedia_gameplay">
-		<text>Zombies are very aggressive, hungry\ncreatures. They move slowly but\ntheir arms and jaws are powerful</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\ntheir Arms and Jaws are very powerful.</text>
 	</string>
 	<string id="Pseudo_dogs_is_evil_encyclopedia_gameplay">
-		<text>Pseudo-dogs are extremely nasty\nsemi-dead dogs with large\nmouths :)</text>
+		<text>Pseudo-dogs are very evil\nsemi-dead dogs with huge\nmouths :)</text>
 	</string>
 	<string id="manually_define_map_spots_encyclopedia_gameplay">
-		<text>You can manually define map spots on your map to mark key places</text>
+		<text>You can manually define map spots on your map to mark key places.</text>
 	</string>
 	<string id="Zombies_are_very_angry_2_encyclopedia_gameplay">
-		<text>Zombies are very aggressive, hungry\ncreatures. They move slowly but\nthey have a mean strike</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\nthey have a mean strike.</text>
 	</string>
 	<string id="Zombies_are_very_angry_3_encyclopedia_gameplay">
-		<text>Zombies are very aggressive, hungry\ncreatures. They move slowly but\nthey have a mean strike</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\nthey have a mean strike.</text>
 	</string>
 	<string id="Zombies_are_very_angry_4_encyclopedia_gameplay">
-		<text>Zombies are very aggressive, hungry\ncreatures. They move slowly but\nthey have a mean strike</text>
+		<text>Zombies are very angry and hungry\ncreatures. They move slowly but\nthey have a mean strike.</text>
 	</string>
 	<string id="bartender_bio">
-		<text>A very successful trader, and the proprietor of the '100 Rads' bar in Rostok, Barkeep has earned respect and influence in the Zone. He cooperates with Sidorovich in a mutual bid to open the roads to the center of the Zone. According to him, he used to own a restaurant back in Ukraine, where he was constantly being harassed by the Mob for protection back in 1994. He now has a personal vendetta against the same mob who previously extorted him, and is on a mission to wipe them out. They have an operation at the Agroprom Research Institute, selling artefacts from the Zone to the outside world</text>
+		<text>A very successful trader and the proprietor of the 100*Rads bar in Rostok, the Barkeep enjoys respect and influence in the Zone. He cooperates with Sidorovich in a mutual bid to open the roads to the center of the Zone. According to him, he used to own a restaurant back in the Ukraine where he was constantly harassed by the mob for protection rackets back in 1994. He has a personal vendetta against the same mob who previously extorted him, since they now have an operation in the Zone selling Artefacts to the outside world, and is on a mission to wipe them out - they are residing at the Agroprom Research Institute.</text>
 	</string>
 	<string id="sakharov_bio">
-		<text>Sakharov has been studying the Zone ever since the first research laboratories were set up on its perimeter in 2007. Although a professor of genetics, he dabbles in pretty much every scientific field his research of the Zone encompasses</text>
+		<text>Sakharov has been studying the Zone ever since the first Research Laboratories were set up on it's perimeter in 2007. He is a professor of genetics, but dabbles in pretty much every Scientific field his Zone research encompasses.</text>
 	</string>
 	<string id="final_shaxter_bio">
-		<text>A reclusive Stalker from the Freedom faction, now living in exile inside the Caves. Nobody knows why he has remained in the dark for so long, and he refuses to discuss it. An eccentric, helpful fellow who keeps himself to himself, and offers good advice when requested</text>
+		<text>A reclusive STALKER from the Freedom Faction living in exile inside the Caves. Nobody knows why he has remained here in the dark so long, and he refuses to talk about it. A strange, helpful fellow that keeps to himself, and offers good advice when needed.</text>
 	</string>
 	<string id="final_akim_bio">
-		<text>Originally, a typical Stalker combing the Zone for loot. According to him, he counted his days in the number of magazines he'd read, and the amount of loot he'd collected. One day, he got rid all his magazines in exchange for a single bottle of vodka. Apparently, he'd had some sort of 'revelation' that led him to rid himself of all worldly possesions, thereafter becoming a hermit</text>
+		<text>Originally, a typical STALKER combing the Zone for loot. According to him, he counted his days with the number of magazines he read, and the amount of loot he collected. One day, he sold all his magazines in exchange for a bottle of Vodka. He apparently had some sort of 'revelation' that led him to rid himself of all worldly possesions, and soon after became a Hermit.</text>
 	</string>
 	<string id="final_hermit_bio">
-		<text>A former member of Duty, he now spends his days at the border station between the Cordon and the Garbage working as an elite Trader. He sells unique and powerful weapons, as well as containers for various artefacts. A good man to know in the Zone...</text>
+		<text>A former member of Duty, he now spends his days at the border-station between the Cordon, and the Dump working as an elitist Trader. He sells unique, and powerful weapons, as well as containers for various Artefacts. A good man to know here in the Zone...</text>
 	</string>
 	<string id="final_unknown_bio">
-		<text>Skilled Stalker. No further information available</text>
+		<text>Skilled STALKER.. No further information available.</text>
 	</string>
 	<string id="exp_stalker_known_bio">
-		<text>Experienced Stalker. Detailed information available elsewhere</text>
+		<text>Experienced stalker. Detailed information is available somewhere.</text>
 	</string>
 </string_table>

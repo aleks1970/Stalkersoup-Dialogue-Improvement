@@ -1,7 +1,6 @@
-<!-- TB3D 1.0.9.9.9.8 targets, lastday -->
-<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 15 Feb 16 -->
+<!-- TB3D 1.1.0.0.0.4 targets, lastday -->
 	<string id="speed_kmh">
-                <text>Km/H</text>
+                <text>KM/H</text>
 	</string>
 	<string id="fire_emerg">
                 <text>!!! FIRE ONBOARD - EVACUATE AT ONCE !!!</text>
@@ -13,7 +12,7 @@
                 <text>LOCK</text>
 	</string>
 	<string id="current_target">
-                <text>- CURRENT TARGET: </text>
+                <text>- CURRENT TARGET:</text>
 	</string>
 	<string id="unknown_target">
                 <text>- TARGET NOT RECOGNIZED -</text>
@@ -31,7 +30,7 @@
                 <text>- SYSTEM MALFUNCTION -</text>
 	</string>
 	<string id="armor_cond">
-                <text>ARMOUR DURABILITY: </text>
+                <text>ARMOUR DURABILITY:</text>
 	</string>
 	<string id="heli_target">
                 <text>HELICOPTER</text>
@@ -184,13 +183,13 @@
                 <text>Merc, veteran</text>
 	</string>
 	<string id="lastday_experienced">
-                <text>Last Day, experienced</text>
+                <text>Lastday, experienced</text>
 	</string>
 	<string id="lastday_master">
-                <text>Last Day, master</text>
+                <text>Lastday, master</text>
 	</string>
 	<string id="lastday_veteran">
-                <text>Last Day, veteran</text>
+                <text>Lastday, veteran</text>
 	</string>
 	<string id="mil_target">
                 <text>SOLDIER</text>
@@ -226,16 +225,16 @@
                 <text>STALKER - LONER</text>
 	</string>
 	<string id="neutral_experienced">
-                <text>Stalker, experienced</text>
+                <text>STALKER, experienced</text>
 	</string>
 	<string id="neutral_master">
-                <text>Stalker, master</text>
+                <text>STALKER, master</text>
 	</string>
 	<string id="neutral_novice">
-                <text>Stalker, rookie</text>
+                <text>STALKER, rookie</text>
 	</string>
 	<string id="neutral_veteran">
-                <text>Stalker, veteran</text>
+                <text>STALKER, veteran</text>
 	</string>
 	<string id="poltergeist_target">
                 <text>POLTERGEIST</text>
@@ -253,7 +252,7 @@
                 <text>mature pseudodog</text>
 	</string>
 	<string id="pseudodog_strong">
-                <text>grey pseudodog</text>
+                <text>gray pseudodog</text>
 	</string>
 	<string id="pseudodog_weak">
                 <text>pseudodog</text>
@@ -292,16 +291,16 @@
                 <text>ZOMBIFIED STALKER</text>
 	</string>
 	<string id="zombied_experienced">
-                <text>zombified Stalker, experienced</text>
+                <text>zombified STALKER, experienced</text>
 	</string>
 	<string id="zombied_master">
-                <text>zombified Stalker, master</text>
+                <text>zombified STALKER, master</text>
 	</string>
 	<string id="zombied_novice">
-                <text>zombified Stalker, rookie</text>
+                <text>zombified STALKER, rookie</text>
 	</string>
 	<string id="zombied_veteran">
-                <text>zombified Stalker, veteran</text>
+                <text>zombified STALKER, veteran</text>
 	</string>
 	<string id="stranger_target">
                 <text>STRANGER</text>

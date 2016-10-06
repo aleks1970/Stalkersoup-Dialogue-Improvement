@@ -325,7 +325,7 @@
 		<text>BM-16 «Predator»</text>
 	</string>
 	<string id="enc_weapons_wpn_bm16_full">
-		<text>• Ammunition: 16x70 buckshot, 16x70 slug/dart(metal sleeves)\n• Weight: 3.2 kg\n• Capacity: 2 rounds\nTOZ-BM-16 - a modified 1957 model TOZ-B, but with enhanced barrel strength. Barrels are standard chokes (poluchok and PSCs), for a 16-caliber usually 0,25 and 0,5 mm, at least 0,5 and 1,0 mm. Locks bed-stopper with a triple locking: top with Greener bolt, bottom frame for both Purdue and rifle hook. After firing triggers automatically placed on half-cock. Forend with detachable metal clip. Lodge beech, birch, the piece - walnut semi-pistol, pistol and direct forms. Barrel length 700-725. Reliable gun, but this model is not chromed, and easily suffers from corrosion.</text>
+		<text>• Ammunition: 16x70 birdshot, 16x70 Case-Shot/Zhekan(metal sleeves)\n• Weight: 3.2 kg\n• Capacity: 2 rounds\nTOZ-BM-16 - a modified 1957 model TOZ-B, but with enhanced barrel strength. Barrels are standard chokes (poluchok and PSCs), for a 16-caliber usually 0,25 and 0,5 mm, at least 0,5 and 1,0 mm. Locks bed-stopper with a triple locking: top with Greener bolt, bottom frame for both Purdue and rifle hook. After firing triggers automatically placed on half-cock. Forend with detachable metal clip. Lodge beech, birch, the piece - walnut semi-pistol, pistol and direct forms. Barrel length 700-725. Reliable gun, but this model is not chromed, and easily suffers from corrosion.</text>
 	</string>
 	<string id="wpn_bm16_m2">
 		<text>BM-16</text>
@@ -337,7 +337,7 @@
 		<text>Winchester 1200</text>
 	</string>
 	<string id="enc_weapons_wpn_w1200">
-		<text>• Ammunition: 16x70 buckshot, 16x70 slug/dart\n• Weight: 3.26 kg\n• Capacity: 7 rounds\nThe Winchester Model 1200 was introduced in 1964 as a low-cost replacement for the venerable Model 12. A small number of these weapons were acquired by the United States Army in 1968 and 1969 along with Model 15th century.Even though the Model 1200's service in the military was brief, the Army Commanders had orders regarding what to do with the shotgun in case the weapon were in danger of falling into the enemy's hands. The shotgun was to be scavenged for spare parts and then destroyed in such a manner that it would be rendered useless in combat. The major parts of the shotgun which must be destroyed are the receiver and magazine group, the barrel assembly and bayonet assembly, the breech bolt group, and the trigger guard group. The military style Model 1200 was essentially the same weapon as the civilian version, except it had a ventilated handguard, sling swivels, and a bayonet lug</text>
+		<text>• Ammunition: 16x70 birdshot, 16x70 Case-Shot/Zhekan\n• Weight: 3.26 kg\n• Capacity: 7 rounds\nThe Winchester Model 1200 was introduced in 1964 as a low-cost replacement for the venerable Model 12. A small number of these weapons were acquired by the United States Army in 1968 and 1969 along with Model 15th century.Even though the Model 1200's service in the military was brief, the Army Commanders had orders regarding what to do with the shotgun in case the weapon were in danger of falling into the enemy's hands. The shotgun was to be scavenged for spare parts and then destroyed in such a manner that it would be rendered useless in combat. The major parts of the shotgun which must be destroyed are the receiver and magazine group, the barrel assembly and bayonet assembly, the breech bolt group, and the trigger guard group. The military style Model 1200 was essentially the same weapon as the civilian version, except it had a ventilated handguard, sling swivels, and a bayonet lug</text>
 	</string>
 	<string id="wpn_toz194">
 		<text>TOZ-194</text>
@@ -905,6 +905,15 @@
 	<string id="wpn-igla_desc">
 		<text>• Ammunition: 9M39 missile\n• Weight: 4.9 kg\n• Capacity: 1 missle\nThe full-capability 9K38 Igla with its 9M39 missile was finally accepted into service in the Soviet Army in 1983. The main improvements over the Igla-1 included much improved resistance against flares and jamming, a more sensitive seeker, expanding forward-hemisphere engagement capability to include straight-approaching fighters (all-aspect capability) under favourable circumstances, a slightly longer range, a higher-impulse, shorter-burning rocket with higher peak velocity (but approximately same time of flight to maximum range), and a propellant that performs as high explosive when detonated by the warhead's secondary charge on impact.</text>
 	</string>
+	<string id="ammo_rocket_igla">
+		<text>Guided missile "Needle".</text>
+	</string>
+	<string id="ammo_rocket_igla_s">
+		<text>Of SD "Needle"</text>
+	</string>
+	<string id="ammo_rocket_igla_desc">
+		<text>Guided missile "Needle". The rocket used two-channel infrared seeker, which provides high noise immunity missiles against the background of natural and artificial thermal noise. Blaster provides undermining warhead like a direct hit, and when flying in close proximity to the target. To improve the efficiency with warhead and undermined the remnants of rocket fuel.</text>
+	</string>
 	<string id="ammo-igla">
 		<text>Igla-S "Needle"</text>
 	</string>
@@ -1117,7 +1126,7 @@
 		<text>Remington 870 Scattergun</text>
 	</string>
 	<string id="enc_weapons_wpn_rem870short">
-		<text>• Ammunition: 12x70 buckshot, 12x76 slug/dart\n• Weight: 2.8 kg\n • Capacity: 7 Rounds\nThe Remington 870 shotgun debuted in 1950 and has been used by police and military ever since as well as hunters, sportsmen and gun enthusiasts. The Remington 870 is arguably the world's most widely owned and used shotgun, with over 9 million in civilian hands...</text>
+		<text>• Ammunition: 16x70 birdshot, 16x70 Case-Shot/Zhekan\n• Weight: 2.8 kg\n • Capacity: 7 Rounds\nThe Remington 870 shotgun debuted in 1950 and has been used by police and military ever since as well as hunters, sportsmen and gun enthusiasts. The Remington 870 is arguably the world's most widely owned and used shotgun, with over 9 million in civilian hands...</text>
 	</string>
 <!--	<string id="wpn_rem870short"> - Duplicated - aleks1970
 		<text>Edge Remington 870</text>

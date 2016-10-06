@@ -2,7 +2,7 @@
 <!-- TB3D 1.1.0.0.0.4  dmx135 controller vice comptroller, doc message in pripyat removed dose_asses...,
  dip: gen/Astrol questline, The Doctor, \\n, cop_prip_msg1, line 981 - removed russian char. aleks1970,
  tex_lukash_pechatka, tex_lysyi_klad and many minor edits, tex_otkrut_seif_sadik, boatswain, amber, lukash,
- doc_alive -->
+ doc_alive, map_mil_trader, map_mil_tehnician - aleks1970 -->
 <string_table>
 	<string id="blow_phrase1">
 		<text>Attention! Approaching Release! All seek safe haven!</text>
@@ -1086,5 +1086,11 @@
 	</string>
 	<string id="local_energy_zone">		<!-- 110000 -->
 		<text>Unknown Anomolous Zone</text>
+	</string>
+	<string id="map_mil_technician">	<!-- 110007 - aleks1970 -->
+		<text>Military technician</text>
+	</string>
+	<string id="map_mil_trader">
+		<text>Military trader</text>
 	</string>
 </string_table>

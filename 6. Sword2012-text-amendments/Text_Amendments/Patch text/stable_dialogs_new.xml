@@ -1,5 +1,5 @@
-<!-- TB3D 1.1.0.0.0.4 the doctor, line 451, 454, 484, rem. russian char. aleks1970, price_dan_prinesi_text, freeman_braad_one_2, Sidorovich,
- DeJames, something, 6 boar hooves, text outside block removed, ghost diary -->
+<!-- TB3D 1.1.0.0.0.7 the doctor, line 451, 454, 484, rem. russian char. aleks1970, price_dan_prinesi_text, freeman_braad_one_2, Sidorovich,
+ DeJames, something, 6 boar hooves, text outside block removed, ghost diary, land to miser -->
 <string_table>
 	<string id="prinesi_hvost_0">
 		<text>Hello!, I have some mutant parts for you..</text>
@@ -1984,7 +1984,7 @@
 		<text>Well, I know the Miser, perhaps I will split.</text>
 	</string>
 	<string id="freetrader_poisk_trader_need_0">
-		<text>Hello, Land, how life daring?</text>
+		<text>Hello, Miser, how life daring?</text>
 	</string>
 	<string id="freetrader_poisk_trader_need_1">
 		<text>While the barrier is held all by a way, will be both vodka, and a herring and which that else...</text>

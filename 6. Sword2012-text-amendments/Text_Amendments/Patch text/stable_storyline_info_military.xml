@@ -1,225 +1,223 @@
-<!-- TB3D 1.0.9.9.9.8 minor edits, kostya hints, tex_saharov_pda -->
-<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 15 Feb 16 -->
+<!-- TB3D 1.1.0.0.0.4 minor edits, kostya hints, tex_saharov_pda -->
 	<string id="mil_actor_main_quest_descr">
-		<text>According to General Voronin, this blockbuster of a weapon can only be found near Freedom's base, making it big problem for Duty. How I get it is up to me, but one way is to gain the trust of the Freedom member named Cook. According to the general, he's a heavy drinker, so I'll take along some vodka - it's always useful for getting information from new aquaintances...</text>
+		<text>According to General Voronin, this gun is only at grouping "Freedom" as I will get it - my business. But as I have understood, one of ways is to be rubbed in trust to the stalker of "Freedom" to the Cook. According to the general, he's a big fan of drink. So it is necessary just in case bring vodka, it can be useful for getting information from loose lips eh...</text>
 	</string>
 	<string id="mil_blockpost_job_descr">
-		<text>Help protect the Barrier against an armed attack from the 'Brain Scorcher' squad</text>
+		<text>It is necessary to help to protect the Barrier from attack from party from "Brain Scorcher".</text>
 	</string>
 	<string id="mil_blockpost_job2_descr">
-		<text>Lukash: "If you're feeling strong, you can go to the Barrier, on the border of Radar. There are signs of an imminent attack from mutants or the Monolith faction. The guys there will really appreciate your help...</text>
+		<text>Lukash: "If you feel in yourself forces you can go to the outpost at the exit to the Radar. To some signs the next attempt of break of mutants or "the Monolith" there is expected. It is necessary to help children".</text>
 	</string>
 	<string id="mil_courier_doc_descr">
-		<text>Freedom had 2 RG-6's. One kept in their armoury, the other stashed in the bloodsucker village in case of emergency</text>
+		<text>"Freedom" had grenade cup discharges of type RG-6. Two pieces. One in an arsenal, the second somewhere in the village.\n \n</text>
 	</string>
 	<string id="mil_courier_job_descr">
-		<text>Lukash: "We need you to find an informer, Pavlik. He's on his way to meet up with his contact at the farm. We need to stop this traitor once and for all, so your mission is to follow him there and find out who he's giving his information to. He's just left, so you'll need to hurry. Don't be seen, but remember - only kill him when you have the information! Not before! Once you know the other guy's name, you can kill them both...</text>
+		<text>Lukash: "Regrettably to recognise, however at us the informer was got... Pavlik call. The information transfers to the party, and this business should be stopped. Your problem - to follow him to the farm and to learn, to whom he hands over the information. He has left recently, so it is necessary to catch up. Remember: kill him when it is possible and it is necessary, but not earlier, then it will come to light to whom he gives the information. The second party should be killed too".</text>
 	</string>
 	<string id="mil_crazy_flash_info">
-		<text>Today we went on to the next hunt, at the village as usual \n\nA creature is stalking the place! It must have got over here from Radar. It just looked at them, and they were dead. Everyone's dead. I'm all alone. The creature's still out there. I'll try to leave at night time \n\nI don't remember how I got out, but it was hell! My head feels terrible - full of gruesome sounds and images. I can't get rid of them. I don't know where they came from. It must be the devil's radiation, but my detector's broken. I need to find somewhere to hide. I desperately need to sleep...</text>
+		<text>... Today we have gone to the village on the next hunting. All as always.\n \n... This creature whence undertook? Not otherwise, as from the Radar has climbed through. All dead, I'm alone... I will try to leave at night...\n \n... I do not remember, how I have got out is there was a present hell... My head hurts - images, sounds, I do not know whence they undertake, devil's radiation. And the gauge, a bough, has broken. I should have a rest, and to me it becomes easier.</text>
 	</string>
 	<string id="mil_dolg_kill_lukash_descr">
-		<text>Accompany the Dutyers to the base\nTake out the three snipers\nKill Lukash</text>
+		<text>Come with Dutiers to the base\nDestroy three snipers\nKill Lukash</text>
 	</string>
 	<string id="mil_dolg_kill_sniper_descr">
-		<text>Kill the sniper in the tower. You'll need a single clean headshot to avoid any retaliation...</text>
+		<text>Kill the sniper on a tower. It is necessary to operate accurately not to obtain a bullet in the head.</text>
 	</string>
 	<string id="mil_flash_bandit_descr">
-		<text>Crap! Those stupid goats from Duty have driven us from our base. We're dug in at the farm, and didn't even have time to collect our stuff. The Freedom base is close by. Get to them quickly...</text>
+		<text>Pancake, goats from "Duty" have driven us from a base. Were dug round on our farm. We didn't even have time to get our stuff. Anything, base of "Freedom" nearby so them quickly therefrom will smoke.</text>
 	</string>
 	<string id="mil_flash_max_descr">
-		<text>Some military guys from Radar had a couple of RG-6's. It's a classy piece - especially for clearing out an area fast. They must have done a deal. Lukash has one, and Gloomy stashed the other in the bloodsucker village - probably in a basement. It should certainly be safe there...</text>
+		<text>Today military men who went to the Radar, had a pair of RG-6. A class piece. One took Lukash, and the second Gloomy has hidden in the village, in a house cellar.</text>
 	</string>
 	<string id="mil_flash_ugrumy_descr">
-		<text>#1. I've been told to carry on to Radar. If I'd stayed here any longer, I'd have died of fucking boredom...\n\n#2. Avoided an ambush by four Bandits, rookies all of them. They didn't want me dead, they just wanted my suit, so I took it off and left it on the floor for them - right in my firing line. Their last mistake - I had a spare - and they fell into my ambush. I'm getting too old for this shit...\n\n#3. Strelok was waiting for me. Yes, with three bloodsuckers around - oh, now there's a fourth! - so it was a pretty safe meeting place. Blood trails everywhere! Smart guy, that Strelok... \n\n#4. Found a code to a door - 19840519 - but no indication of which door \n\n#5. Engaged the Mercs who went into Radar. No documents on them, but at least they had ammunition. I'll stash the RG-6 in the cellar, then move on</text>
+		<text>1. Lines me has pulled to go on the Radar, has hardly slipped - a little more, and there would be one more exhibit with dissolved brains.\n \n2. Four bandits have surrounded me as small, and I am good - have missed an ambush. I was rescued by their garrulity and greed, instead of that that me to honeycomb, they have jumped out and have wanted me to undress preliminary - have coveted a suit. It was their last error, but one all the same me a reserve. Oh, I grow old...\n \n3. The envoy Strelok to my arrival did not breathe any more. Yes, with three bloodsuckers not everyone will consult, and this has laid a four, and some more trails of blood leave every which way. The unique information which was at it, is a code of a door (19840519) but from what, possibility to learn yet is not represented.\n \n4. Have intercepted fighters who went to the Radar. Documents and orders at them was not, but at least, ammunition. I will put the RG-6 in this cellar, then I will take away.</text>
 	</string>
 	<string id="mil_freedom_rg6_task_descr">
-		<text>Voronin: Freedom has some new RG-6 grenade launchers. If you were to visit their base, and steal at least one of them, I would remunerate you generously. Since you're not in our faction, you should easily gain their trust. I will send you information on the base. You should look for a man named Cook. He's a member of Freedom, and knows where the RG-6's are. He appreciates good vodka, so you might want to take plenty with you</text>
+		<text>Voronin: Freedom "has some excellent grenade discharges RG-6 if at you it has turned out to get on territory of "Freedom" and steal at least one such grenade discharger I generously would remunerate you. As you not in our grouping, you can easily be rubbed in trust to "Freedom" and at a successful deal to filch RG-6. I will send to you the information on the base site of "Freedom". There you should find a certain Cook, a member of "Freedom", he knows, where exactly is stored RG-6. He is weak on binge, therefore try it. Take for this purpose more vodka".</text>
 	</string>
 	<string id="mil_go_to_miser_descr">
-		<text>I should collect my reward from Miser at the Freedom base</text>
+		<text>Hm. The award will be given out by the Miser on the base of "Freedom"... The Good name. Can though on delayed conserve will show a bit of generosity.</text>
 	</string>
 	<string id="mil_hunters_task_descr">
-		<text>Destroy all the bloodsuckers in the village. They're strong, fast, and can drain a man's blood in seconds</text>
+		<text>Destroy bloodsuckers in village. They can operate accurately, and can leave me without blood.</text>
 	</string>
 	<string id="mil_hunters_task_descr2">
-		<text>Destroy all bloodsuckers in the village. They're almost invisible when they attack, which will often be in groups. Your only warning will be the sound of their heavy breathing getting closer</text>
+		<text>Destroy bloodsuckers in village. They can operate accurately, and can leave me without blood.</text>
 	</string>
 	<string id="mil_lukash_job_descr">
-		<text>Lukash intends to lauch a counterstrike on Duty at the farm. The operation will be headed by Max, one of the veterans of Freedom. My job is to help them</text>
+		<text>Lukash has decided to put counterstrike on Group "Duty" on farm. Operation will be headed by Max - one of the veterans of "Freedom". My task - to help them.</text>
 	</string>
 	<string id="mil_mad_flash_job_descr">
-		<text>That's interesting. How can this crazy guy at the swamp know so much? We'll need to find out. The main thing to watch out for is old tripmines - they'll be so corroded that they'll blow at the slightest touch. Maybe even a bolt...</text>
+		<text>That, interesting, this madman on a swamp can know such? We will understand. The main thing not to run into old mines, but they should be in so rusty a condition that they will blow up from a bolt.</text>
 	</string>
 	<string id="esc_kostya_taynik1">
-		<text>Hiding place in Cordon. You'll need to search in the wood, near to the abandoned factory</text>
+		<text>Hiding place in Cordon. It is necessary to search in the wood near to the abandoned factory.</text>
 	</string>
 	
 	<string id="esc_kostya_taynik2">
-		<text>Hiding place in Cordon. At the crossing south of the tracks, under a fir tree</text>
+		<text>Hiding place in Cordon. At the cross south of tracks under a fir-tree.</text>
 	</string>
 	
 	<string id="esc_kostya_taynik3">
-		<text>Hiding place in Cordon. To the east of the rookie village, under a pile of stones</text>
+		<text>Hiding place in Cordon. To the east of the rookie village under stones.</text>
 	</string>
 	
 	<string id="kostya_kordon_art">
-		<text>Bring Kostya the Goldfish artefact from the abandoned factory in Cordon</text>
+		<text>Bring Kostya an artefact "goldfish" from the abandoned factory in Cordon.</text>
 	</string>
 	
 	<string id="kostya_svalka_taynik1">
-		<text>Hiding place in Garbage. Look beside the wood, near a bog, under some dangling legs</text>
+		<text>Hiding place in Garbage. Look behind wood under dangling legs behind a bog.</text>
 	</string>
 	
 	<string id="kostya_svalka_taynik2">
-		<text>Hiding place in Garbage. Look in the west woods, behind the parking area beyond the machine graveyard</text>
+		<text>Hiding place in Garbage. Look in west woods behind parking that is behind the machinery graveyard.</text>
 	</string>
 	
 	<string id="kostya_svalka_taynik3">
-		<text>Hiding place in Garbage. Look in a crane box, on a radioactive heap closest to the vehicle scrap yard</text>
+		<text>Hiding place in Garbage. Look in a crain box on a radioactive heap which is closest to the cemetery of vehicles.</text>
 	</string>
 	
 	<string id="kostya_svalka_taynik4">
-		<text>Hiding place in Garbage. Look on a radioactive heap, closest to a wood behind the swamp. Don't just look on the ground...</text>
+		<text>Hiding place in Garbage. Look on a radioactive heap which is the closest to a wood behind the swamp. Is not on the ground.</text>
 	</string>
 	
 	<string id="kostya_svalka_taynik5">
-		<text>Hiding place in Garbage. Look on a radioactive heap, located near the Duty post</text>
+		<text>Hiding place in Garbage. Look on a radioactive heap which is located near to the Duty post.</text>
 	</string>
 	
 	<string id="kostya_x18_taynik1">
-		<text>Hiding place in laboratory X-18. Indoors, inside an old safe</text>
+		<text>Hiding place in laboratory X-18. Look in the laboratory, according to all available information it should be somewhere there. It is said that it is hidden indoors with an old safe.</text>
 	</string>
 	
 	<string id="kostya_x18_taynik2">
-		<text>Hiding place in laboratory X-18. Indoors, near some old cages</text>
+		<text>Hiding place in laboratory X-18. Look in the laboratory, according to all available information it should be somewhere there. It is said that it is hidden indoors with old cages.</text>
 	</string>
 	
 	<string id="kostya_x18_taynik3">
-		<text>Hiding place in laboratory X-18. High up, inside the pseudo-giant's den</text>
+		<text>Hiding place in laboratory X-18. Look in the laboratory, according to all available information it should be somewhere there. It is said that it is hidden indoors where the pseudo-giant lives. It is necessary to look above.</text>
 	</string>
 	
 	<string id="kostya_agroprom_taynik1">
-		<text>Hiding place in Agroprom. In a bog</text>
+		<text>Hiding place in Agroprom. It is necessary to search in a bog.</text>
 	</string>
 	
 	<string id="kostya_agroprom_taynik2">
-		<text>Hiding place in Agroprom. To the south of the complex, where Stalkers usually make camp in an irradiated area</text>
+		<text>Hiding place in Agroprom. Look to the south from the complex where fighters have sat down at radiation center.</text>
 	</string>
 	
 	<string id="kostya_agroprom_taynik3">
-		<text>Hiding place in Agroprom. Near the electrical substation</text>
+		<text>Hiding place in Agroprom. It is hidden near to support LEP.</text>
 	</string>
 	
 	<string id="kostya_agroprom_taynik4">
-		<text>Hiding place in Agroprom. In a bush near a nest of tushkanos, to the north of the central complex</text>
+		<text>Hiding place in Agroprom. To the north from the central complex at a den of tushkanos in a bush.</text>
 	</string>
 	
 	<string id="kostya_agroprom_taynik5">
-		<text>Hiding place in Agroprom. In a bush near a cat lair</text>
+		<text>Hiding place in Agroprom. Around dwelling of cats in a bush.</text>
 	</string>
 	
 	<string id="kostya_agroprom_taynik6">
-		<text>Hiding place in Agroprom. In the ravine between the two complexes</text>
+		<text>Hiding place in Agroprom. In a ravine between complexes.</text>
 	</string>
 	
 	<string id="kostya_yantar_taynik1">
-		<text>Hiding place in Yantar. 'PROSIR butane' is hidden under a tank within the factory area</text>
+		<text>Hiding place in Yantar. "Prosir-butane" in factory territory is hidden under a butt.</text>
 	</string>
 	
 	<string id="kostya_yantar_taynik2">
-		<text>Hiding place in Yantar. In a container hidden underneath rubbish within the factory area</text>
+		<text>Hiding place in Yantar. It is hidden in factory territory in the container from under garbage.</text>
 	</string>
 	
 	<string id="kostya_yantar_taynik3">
-		<text>Hiding place in Yantar. In a pipe within the factory area</text>
+		<text>Hiding place in Yantar. It is hidden in factory territory in a pipe.</text>
 	</string>
 	
 	<string id="kostya_yantar_taynik4">
-		<text>Hiding place in Yantar. On a tree within the factory area</text>
+		<text>Hiding place in Yantar. It is hidden in factory territory on a tree.</text>
 	</string>
 	
 	<string id="kostya_yantar_taynik5">
-		<text>Hiding place in Yantar. On top of a tank within the factory area</text>
+		<text>Hiding place in Yantar. It is hidden in factory territory on one of capacities.</text>
 	</string>
 	
 	<string id="kostya_yantar_taynik6">
-		<text>Hiding place in Yantar. On an elevated pipe within the factory area</text>
+		<text>Hiding place in Yantar. It is hidden in factory territory on a high pipe.</text>
 	</string>
 	
 	<string id="kostya_as_taynik1">
-		<text>Hiding place in Army Warehouses. Under one of the fir trees near the helicopter</text>
+		<text>Hiding place in Army Warehouses. Look around the helicopter, under one of the fir-trees.</text>
 	</string>
 	
 	<string id="kostya_as_taynik2">
-		<text>Hiding place in Army Warehouses. Inside an oven in one of the bloodsucker village houses</text>
+		<text>Hiding place in Army Warehouses. Look in village of bloodsuckers in one of the houses in an oven.</text>
 	</string>
 	
 	<string id="kostya_as_taynik3">
-		<text>Hiding place in Army Warehouses. In a chimney in the bloodsucker village</text>
+		<text>Hiding place in Army Warehouses. Look in village of bloodsuckers in a chimney.</text>
 	</string>
 	
 	<string id="kostya_as_taynik4">
-		<text>Hiding place in Army Warehouses. On a tree in the bloodsucker village</text>
+		<text>Hiding place in Army Warehouses. Look in village of bloodsuckers on a tree.</text>
 	</string>
 	
 	<string id="kostya_as_taynik5">
-		<text>Hiding place in Army Warehouses. On the ridge of a roof in the bloodsucker village</text>
+		<text>Hiding place in Army Warehouses. Look in village of bloodsuckers on a roof ridge.</text>
 	</string>
 	
 	<string id="kostya_as_taynik6">
-		<text>Hiding place in Army Warehouses. In the minefield</text>
+		<text>Hiding place in Army Warehouses. Look in the minefield.</text>
 	</string>
 	
 	<string id="kostya_radar_taynik1">
-		<text>Hiding place in Radar. Near the helicopter</text>
+		<text>Hiding place in the Radar. Do not pass by the helicopter. Should be somewhere there.</text>
 	</string>
 	
 	<string id="kostya_radar_taynik2">
-		<text>Hiding place in Radar. In a wood on a tree, near the hole in the wire fence</text>
+		<text>Hiding place in the Radar. In wood on a tree near to the hole in the mesh protection.</text>
 	</string>
 	
 	<string id="kostya_radar_taynik3">
-		<text>Hiding place in Radar. In a wood, on stones near a carriage</text>
+		<text>Hiding place in the Radar. In wood on stones near to a carriage.</text>
 	</string>
 	
 	<string id="kostya_radar_taynik4">
-		<text>Hiding place in Radar. In a wood on a tree. You'll need to go from a carriage and along rocks to find it</text>
+		<text>Hiding place in the Radar. In wood on a tree. It is necessary to go from a carriage along rocks, and you will see.</text>
 	</string>
 	
 	<string id="kostya_x10_taynik">
-		<text>Hiding place in laboratory X-10. Security doors will require a code. Guidance notes on codes are always locked away safely inside the laboratory. One door has a seven digit code made up of the numbers 2, 7, 9, 54, 61. You'll just need to figure out in which order they've been applied</text>
+		<text>Hiding place in laboratory X-10. To open a door in X-10, it is necessary to learn the code. The help on code drawing up is in a hiding place in this laboratory. Under the help it will be necessary to make a code of available numbers. Numbers 9, 7, 2, 54, 61.</text>
 	</string>
 	
 	<string id="kostya_pripyat_taynik1">
-		<text>Hiding place in Pripyat. There should be three - in a kindergarten, in an hotel, and inside one of the apartment buildings</text>
+		<text>Hiding place in Pripyat. There should be three hiding places in Pripyat. One - in a kindergarten. The second - in hotel. The third - in one of apartment houses.</text>
 	</string>
 	
 	<string id="kostya_pripyat_taynik2">
-		<text>Hiding place in Pripyat. There should be three - on a crane, in an hotel, and inside one of the apartment buildings</text>
+		<text>Hiding place in Pripyat. There should be three hiding places in Pripyat. One - on the crane. The second - in hotel. The third - in one of apartment houses.</text>
 	</string>
 	
 	<string id="kostya_pripyat_taynik3">
-		<text>Hiding place in Pripyat. There should be three - on a tree near a service station, in an hotel, and inside one of the apartment buildings</text>
+		<text>Hiding place in Pripyat. There should be three hiding places in Pripyat. One - on a tree near road service station. The second - in hotel. The third - in one of apartment houses.</text>
 	</string>
 	
 	<string id="kostya_sacharov">
-		<text>Talk to Sakharov about adjusting a teleport</text>
+		<text>Talk to Sakharov about teleport adjustment</text>
 	</string>
 	
 	<string id="kostya_meet">
-		<text>Meet up with Bones</text>
+		<text>Meet Bones</text>
 	</string>
 	
 	<string id="sacharov_pda">
-		<text>Sakharov has asked me to find Vasilev's PDA. It should be in laboratory X-16</text>
+		<text>Sakharov has asked to find PDA Vasilev. From its data it should be in laboratory X-16. It is necessary to search there.</text>
 	</string>
 	
 	<string id="tex_saharov_pda">
-		<text>Sakharov has asked me to find Vasilev's PDA. It should be in laboratory X-16</text>
+		<text>Sakharov has asked to find PDA Vasilev. From its data it should be in laboratory X-16. It is necessary to search there.</text>
 	</string>
 	
 	<string id="sacharov_teleport">
-		<text>Sakharov will need a Battery artefact to adjust your teleport</text>
-
+		<text>For teleport adjustment the artefact Battery is required. Bring it to Sakharov.</text>
 	</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.4, corrected duplicate "id="enc_zone_mushy_bigA" to "id="mushy_bigA" aleks1970, mushy_bigH, af_dummy_mushroom, minor spelling,
+<!-- TB3D 1.1.0.0.0.6, corrected duplicate "id="enc_zone_mushy_bigA" to "id="mushy_bigA" aleks1970, mushy_bigH, af_dummy_mushroom, minor spelling,
  corrected "<string id=" section with "Artefact" back to the "artifact" - aleks1970, removed '-', removed "string_table" - aleks1970 --> 
  <!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
 
@@ -19,7 +19,7 @@
 		<text>Aquamarine</text>
 	</string>
 	<string id="enc_zone_artifact_kristal_blue">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+250\n%c[default]\nThis is an extremely rare mutation of the Artefact Crystal and is very radioactive. Its core is thought to be pure platinum of the highest purity. How this structure functions is still not clear, but who cares when you have two kilograms of expensive platinum!\n Nicknamed "The Fighter" as it protects and gives great defence in combat situations however burn and electric shock immunity are greatly reduced.  If you use this Artefact make sue you have the required Artefacts to counter the radioactive effects. If not - your going to die a horrible death.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+250\n%c[default]\nThis is an extremely rare mutation of the Artefact Crystal and is very radioactive. Its core is thought to be pure platinum of the highest purity. How this structure functions is still not clear, but who cares when you have two kilograms of expensive platinum!\nNicknamed "The Fighter" as it protects and gives great defence in combat situations however burn and electric shock immunity are greatly reduced.  If you use this Artefact make sue you have the required Artefacts to counter the radioactive effects. If not - your going to die a horrible death.</text>
 	</string>
 	<string id="af_repei">
 		<text>Burr</text>
@@ -55,7 +55,7 @@
 		<text>Star Monolith</text>
 	</string>
 	<string id="enc_zone_artifact_af_dummy_star_monolith">
-		<text>A mysterious Artefact. There are two recorded instances of its occurrence in the Zone.......\n* It appeared, according to rumors, when the stalkers of the clan of 'Monolith' entered the center zone. At the altar they preyed, asking the Monolith to gave them a sign of its existence. One night the Artefact fell from heaven to earth. The fanatics took this as a sign from the monolith.\n* According to scientists it was formed by the merger of several high altitude air anomalies.\n A very rare item formed only in the area surrounding the Chernobyl nuclear power plant.</text>
+		<text>A mysterious Artefact. There are two recorded instances of its occurrence in the Zone.......\n* It appeared, according to rumors, when the stalkers of the clan of 'Monolith' entered the center zone. At the altar they preyed, asking the Monolith to gave them a sign of its existence. One night the Artefact fell from heaven to earth. The fanatics took this as a sign from the monolith.\n* According to scientists it was formed by the merger of several high altitude air anomalies.\nA very rare item formed only in the area surrounding the Chernobyl nuclear power plant.</text>
 	</string>
 	<string id="af_dummy_seashell">
 		<text>Baby Dummy</text>
@@ -73,7 +73,7 @@
 		<text>Joker</text>
 	</string>
 	<string id="enc_zone_artifact_af_dummy_djoker">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+150\n%c[default]\n The origin of the Artefact is not known and has only been found in the Zone a few times. Artefact gives good protection from impact, but reduces endurance. Radioactive.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+150\n%c[default]\nThe origin of the Artefact is not known and has only been found in the Zone a few times. Artefact gives good protection from impact, but reduces endurance. Radioactive.</text>
 	</string>
 	<string id="af_dummy_dumbbell">	<!-- dAVROs -->
 		<text>Kettlebell</text>
@@ -109,7 +109,7 @@
 		<text>Igla</text>
 	</string>
 	<string id="enc_zone_artifact_af_dummy_quill">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\n Artefact generated from the radiogenic nuclide of the Artefact "xZs2x4". It protects the skin from burns and media impact. Slightly radioactive.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nArtefact generated from the radiogenic nuclide of the Artefact "xZs2x4". It protects the skin from burns and media impact. Slightly radioactive.</text>
 	</string>
 	<string id="af_dummy_wool">
 		<text>Fire Wool</text>
@@ -136,7 +136,7 @@
 		<text>Mercury Ball</text>
 	</string>
 	<string id="enc_zone_artifact_af_dummy_mercury_ball">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+20\n%c[default]\n Artefact often can be found in Radioactive areas. Increases stamina but has negative radiation attributes.  The main central core is surrounded by spinning smaller mercury balls. Special gloves are recommended for handling due to its radiation and high thermal energy. Scientists have discovered that some of the Artefact actually consists of of the mercury isotope Hg-194, and can be used to manufacture medicinal drugs and vaccines for a wide variety of dangerous Zone diseases.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+20\n%c[default]\nArtefact often can be found in Radioactive areas. Increases stamina but has negative radiation attributes.  The main central core is surrounded by spinning smaller mercury balls. Special gloves are recommended for handling due to its radiation and high thermal energy. Scientists have discovered that some of the Artefact actually consists of of the mercury isotope Hg-194, and can be used to manufacture medicinal drugs and vaccines for a wide variety of dangerous Zone diseases.</text>
 	</string>
 	<string id="af_dummy_bezi">
 		<text>Burning Leaves</text>
@@ -316,7 +316,7 @@
 		<text>Mushroom</text>
 	</string>
 	<string id="enc_zone_mushy_bigH">
-		<text>Caesier was well travelled and got to know the Collector quite well. Some say that the Collector passed on his Zone secrets before he disappeared and Caesier could be the carrier of the secrets. The mere existence of this unique Mushroom supports this theory as the Collector was an expert in this area. Knowing how the Collector left cryptic clues all over the Zone, perhaps Caesier did the same?.......\n  The Caesier Mushroom has a very hard stem which only the sharpest knives could possibly carve. Make sure you don't loose this item - it may come in handy later on.</text>
+		<text>Caesier was well travelled and got to know the Collector quite well. Some say that the Collector passed on his Zone secrets before he disappeared and Caesier could be the carrier of the secrets. The mere existence of this unique Mushroom supports this theory as the Collector was an expert in this area. Knowing how the Collector left cryptic clues all over the Zone, perhaps Caesier did the same?.......\nThe Caesier Mushroom has a very hard stem which only the sharpest knives could possibly carve. Make sure you don't loose this item - it may come in handy later on.</text>
 	</string>
 	<string id="mushy_small">
 		<text>Dark Knight</text>

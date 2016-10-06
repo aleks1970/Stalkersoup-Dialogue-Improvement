@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.4 added af_izomorf -->
+<!-- TB3D 1.1.0.0.0.6 added af_izomorf -->
 <!-- Added missing "enc_zone_izomorf_kompas" from russian with google translate aleks1970 -->
 <!-- removed new lines in two diaogs, fixed izomorph crystal and compass, removed '-' -->
 <!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
@@ -291,13 +291,13 @@
 		<text>Spiral</text>
 	</string>
 	<string id="enc_zone_af_spiral">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+7\n%c[default]\n The product of an experiment gone wrong by a Dr. Klenow... became the first known synthesized Artefact. Shaped like a spiral, it has some very useful properties. However, there are also negative. Far removed in appearance and properties from the original, from which a copy is made, but given the positive qualities and having the presence of artefacts, offsetting the negative side - can be very useful.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+7\n%c[default]\nThe product of an experiment gone wrong by a Dr. Klenow... became the first known synthesized Artefact. Shaped like a spiral, it has some very useful properties. However, there are also negative. Far removed in appearance and properties from the original, from which a copy is made, but given the positive qualities and having the presence of artefacts, offsetting the negative side - can be very useful.</text>
 	</string>
 	<string id="af_eye_voron">
 		<text>Raven's Eye</text>
 	</string>
 	<string id="enc_zone_af_eye_voron">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\n Unusual and rare artefact that looks like a luminous sphere, which is located on a branch. Very Rare. According to unconfirmed reports, it is believed to have been produced by the EMI anomaly when reacting with a certain type of wood, at least, this artefact is sometimes found in the area of this anomaly. Emits radiation, and reduces protection from bullet wounds, However, it also possesses a number of very positive qualities. Both beautiful, as well as expensive...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nUnusual and rare artefact that looks like a luminous sphere, which is located on a branch. Very Rare. According to unconfirmed reports, it is believed to have been produced by the EMI anomaly when reacting with a certain type of wood, at least, this artefact is sometimes found in the area of this anomaly. Emits radiation, and reduces protection from bullet wounds, However, it also possesses a number of very positive qualities. Both beautiful, as well as expensive...</text>
 	</string>
 	<string id="af_ameba_mica">
 		<text>Mica</text>
@@ -456,19 +456,19 @@
 		<text>Heart of the Poltergeist</text>
 	</string>
 	<string id="artifact_af_part_monolit">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+85\n%c[default]\n Heart of the poltergeist the Extremely rare artefact reminding pulsing heart. Actually represents a splinter of a monolith. Whom and when he broke off from the basic part of a crystal it was not known, but the artefact possesses a greater{big} set of positive qualities. Lack only one - the highest doze of radiated radiation. To carry away such artefact it is impossible even at presence of special containers and suits. It becomes possible{probable} only at presence on a belt{zone} of the several artefacts reducing radiation.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+85\n%c[default]\nHeart of the poltergeist the Extremely rare artefact reminding pulsing heart. Actually represents a splinter of a monolith. Whom and when he broke off from the basic part of a crystal it was not known, but the artefact possesses a greater{big} set of positive qualities. Lack only one - the highest doze of radiated radiation. To carry away such artefact it is impossible even at presence of special containers and suits. It becomes possible{probable} only at presence on a belt{zone} of the several artefacts reducing radiation.</text>
 	</string>
 	<string id="af_part_monolit1">
 		<text>Modified Heart of the Poltergeist</text>
 	</string>
 	<string id="artifact_af_part_monolit1">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+15\n%c[default]\n the Modified Heart of the poltergeist . It is received by practical consideration by the professor Maple, tried to make an identical copy of the given artefact. Attempt by success has not crowned. At an artefact properties, but fortunately have changed, the internal structure has not suffered.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+15\n%c[default]\nthe Modified Heart of the poltergeist . It is received by practical consideration by the professor Maple, tried to make an identical copy of the given artefact. Attempt by success has not crowned. At an artefact properties, but fortunately have changed, the internal structure has not suffered.</text>
 	</string>
 	<string id="af_part_monolit2">
 		<text>Modified Heart of the Poltergeist II</text>
 	</string>
 	<string id="artifact_af_part_monolit2">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+15\n%c[default]\n the Modified Heart of the poltergeist II . At interaction with an artefact the Water Flower, Heart of the Poltergeist accumulated a part of its{his} energy that else has more strengthened its{his} positive qualities.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+15\n%c[default]\nthe Modified Heart of the poltergeist II . At interaction with an artefact the Water Flower, Heart of the Poltergeist accumulated a part of its{his} energy that else has more strengthened its{his} positive qualities.</text>
 	</string>
 	<string id="item_zharka">
 		<text>Black Energy</text>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.0.9.9.9.8   StalkerSoup new pda_name section aleks1970, line: 456, 459 -->
+<!-- TB3D 1.1.0.0.0.4   StalkerSoup new pda_name section aleks1970, line: 456, 459, amber to yantar, lukash -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 25 Jan 16. Re-edited 25 Feb 16 -->
+<!-- Changed one instance of 'Clerk' to Clerik' - Sword2012. 07 Apr 16 -->
 <string_table>
 	<!-- ********** new pda game descriptions ********** -->
 	<string id="Bring_parcel_to_Fox_pda_name">
@@ -19,7 +20,7 @@
 		<text>Get three cans of ointment for Basil</text>
 	</string>
 	<string id="Soul_artefact_for_clerk_pda_name">
-		<text>Get a Soul artefact for clerk</text>
+		<text>Get a Soul artefact for Clerik</text>
 	</string>
 	<string id="Bring_Controller_brain_pda_name">
 		<text>Bring the Controller's brain</text>
@@ -693,20 +694,12 @@
 	<string id="Bengal_fire_from_jumping_pda_name">
 		<text>Creating a Bengal Fire from a Springboard</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Bengal_fire_from_jumping_pda_name">
-		<text>Bengal fire from jumping</text>
-	</string> -->
 	<string id="Slither_from_jumping_pda_name">
 		<text>Creating a Slither from a Springboard</text>
 	</string>
 	<string id="Crystal_from_jumping_pda_name">
 		<text>Creating a Crystal from a Springboard</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Crystal_from_jumping_pda_name">
-		<text>Crystal from jumping</text>
-	</string> -->
 	<string id="Sea_Urchin_from_jumping_pda_name">
 		<text>Creating an Urchin from a Springboard</text>
 	</string>
@@ -737,20 +730,12 @@
 	<string id="Drop_from_carousel_pda_name">
 		<text>Creating a Droplet from a Whirligig</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Drop_from_carousel_pda_name">
-		<text>Drop from the carousel</text>
-	</string> -->
 	<string id="Crystal_from_Carousel_pda_name">
 		<text>Creating a Crystal from a Whirligig</text>
 	</string>
 	<string id="Moonlight_from_carousel_pda_name">
 		<text>Creating a Moonlight from a Whirligig</text>
 	</string>
-<!--	Duplicated - aleks1970	
-	<string id="Moonlight_from_carousel_pda_name">
-		<text>Moonlight from the carousel</text>
-	</string> -->
 	<string id="Grind_from_Carousel_pda_name">
 		<text>Creating a Grind from a Whirligig</text>
 	</string>
@@ -784,20 +769,12 @@
 	<string id="Gravel_from_frying_pda_name">
 		<text>Creating a Gravi from a Burner</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Gravel_from_frying_pda_name">
-		<text>Gravel from the frying</text>
-	</string> -->
 	<string id="Night_Star_from_Frying_pda_name">
 		<text>Creating a Night Star from a Burner</text>
 	</string>
 	<string id="Moonlight_from_frying_pda_name">
 		<text>Creating a Moonlight from a Burner</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="Moonlight_from_frying_pda_name">
-		<text>Moonlight from frying</text>
-	</string> -->
 	<string id="Battery_from_Frying_pda_name">
 		<text>Creating a Battery from a Burner</text>
 	</string>
@@ -963,10 +940,6 @@
 	<string id="With_agricultural_industry_Amber_pda_name">
 		<text>From Agroprom to Yantar</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_agricultural_industry_Amber_pda_name">
-		<text>With the agricultural industry in Amber</text>
-	</string> -->
 	<string id="With_Wild_Territory_Warehouses_pda_name">
 		<text>From Wild Territory to Army Warehouses</text>
 	</string>
@@ -1126,27 +1099,15 @@
 	<string id="With_ATP_Cordon_pda_name">
 		<text>From ATP to Cordon</text>
 	</string>
-<!--	Duplicated - aleks1970	
-	<string id="With_ATP_Cordon_pda_name">
-		<text>With ATP at Cordon</text>
-	</string> -->
 	<string id="With_ATP_Army_Warehouses_pda_name">
 		<text>From ATP to Army Warehouses</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_ATP_Army_Warehouses_pda_name">
-		<text>With ATP in the Army Warehouses</text>
-	</string> -->
 	<string id="Locate_bag_south_Chernobyl_pda_name">
 		<text>Locate the bag in the south of Chernobyl</text>
 	</string>
 	<string id="With_ATP_Pripyat_pda_name">
 		<text>From ATP to Pripyat</text>
 	</string>
-<!--	Duplicated - aleks1970
-	<string id="With_ATP_Pripyat_pda_name">
-		<text>With ATP in the Pripyat</text>
-	</string> -->
 	<string id="Find_the_Bolotny_Locket_pda_name">
 		<text>Find the lost locket for Bolotny</text>
 	</string>
@@ -1379,7 +1340,7 @@
 		<text>Find the safe</text>
 	</string>
 	<string id="Bring_Sidorychev_remyaschika_return_amulet_pda_name">
-		<text>Bring Sidorychev two remyaschika, and return the amulet</text>
+		<text>Bring Sidorychev two repair kit's, and return the amulet</text>
 	</string>
 	<string id="Find_bring_Hermit_Box_pda_name">
 		<text>Find the Box for the Hermit</text>

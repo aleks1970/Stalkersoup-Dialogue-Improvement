@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.6 Redirected strings from the Misc folder - aleks1970 -->
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- TB3D 1.1.0.0.0.7 Redirected strings from the Misc folder - aleks1970 -->
 	<!-- from misc-tb3d_uniq_news.ltx file - aleks1970 -->
-	<!-- section "news_uniq" - aleks1970 -->
+	<!-- section "news_uniq" - aleks1970 , added two 'b' forms of message-->
 	<string id="news_uniq_1">
 		<text>A couple of helicopters have just passed me. Coordinates enclosed. Stay safe. I don't know what their orders are.</text>
 	</string>
@@ -21,13 +21,16 @@
 		<text>Mayday... A pack of dogs is coming straight for us. Exact coordinates given. Please help!</text>
 	</string>
 	<string id="news_uniq_7">
-		<text>If it's not mutants, it's bandits...\nPotap\nYes, we can guess...</text>
+		<text>If it's not mutants, it's bandits...\nPotap:\nYes, we can guess...</text>
 	</string>
 	<string id="news_uniq_8">
-		<text>Just been rushed by a Pseudodog. Barely shot it in time!\nPotap\nWell done...</text>
+		<text>Just been rushed by a Pseudodog. Barely shot it in time!\nPotap:\nWell done...</text>
 	</string>
 	<string id="news_uniq_9">
-		<text>Mayday... A battle has broken out at the Agricultural Industry in the central complex!\n \nDuty\nAnyone doing the same as in here, be warned - you WILL be raided...</text>
+		<text>Mayday... A battle has broken out at the Agricultural Industry in the central complex!</text>
+	</string>
+	<string id="news_uniq_9b">
+		<text>Duty:\n Anyone doing the same as in here, be warned - you WILL be raided...</text>
 	</string>
 	<string id="news_uniq_10">
 		<text>Lukash, the Merc's been shot. On my way back.\nFreedom\nSwitch to the private channel, assholes!</text>
@@ -39,19 +42,19 @@
 		<text>Marauders! We're being attacked! Help!\nNo one can help unless you attach your coordinates, idiot...</text>
 	</string>
 	<string id="news_uniq_13">
-		<text>We need access to the Internet. Should we make our way to the bar, where it's crowded, or go further to Sidorovich where it's more private?\nPotap\nYes, the Bar will always be busy, but you can try the signallers at Duty. They also have access</text>
+		<text>We need access to the Internet. Should we make our way to the bar, where it's crowded, or go further to Sidorovich where it's more private?\nPotap:\nYes, the Bar will always be busy, but you can try the signallers at Duty. They also have access</text>
 	</string>
 	<string id="news_uniq_14">
 		<text>Has anyone figured out where those ALD weapons are?\nIt's probably a trap anyway...</text>
 	</string>
 	<string id="news_uniq_15">
-		<text>Crap...\nJust stepped in the biggest pile of boar shit ever!</text>
+		<text>Crap...\n Just stepped in the biggest pile of boar shit ever!</text>
 	</string>
 	<string id="news_uniq_16">
 		<text>Where the hell am I?\nWhy is it so foggy out here?...</text>
 	</string>
 	<string id="news_uniq_17">
-		<text>I'm lost! I need help...\nIs anybody receiving this?\nAnybody...?</text>
+		<text>I'm lost! I need help...\n Is anybody receiving this?\n Anybody...?</text>
 	</string>
 	<string id="news_uniq_18">
 		<text>So that explains it, but I don't know where the signal is coming from...</text>
@@ -60,7 +63,7 @@
 		<text>In the Swamps, a Stalker named Kalmyak sells medical ointment. It really helps! Almost all my symptoms have gone. Much better than vodka!</text>
 	</string>
 	<string id="news_uniq_20">
-		<text>I'm going to try using emoticons more often :) ;) 8)... Communication scrambled...\nPotap\nIdiot blocked </text>
+		<text>I'm going to try using emoticons more often :) ;) 8)... Communication scrambled...\nPotap:\n Idiot blocked </text>
 	</string>
 	<string id="news_uniq_21">
 		<text>A huge beast has turned up in the swamps. It's strong, and almost two metres tall. The Bandits near the church are covered in blood, and it's still alive... I gave them a bandage to share</text>
@@ -72,7 +75,10 @@
 		<text>Attention, all fighters! Bandits are trying to take over the ATP! This is our territory! Help us defend it!</text>
 	</string>
 	<string id="news_uniq_24">
-		<text>A group of five people are moving towards the Barrier. Looks like the Monolith. Take immediate action.\n \nBarrier\nUnderstood. Those fucking lunatics!</text>
+		<text>\n A group of five people are moving towards the Barrier. Looks like the Monolith. Take immediate action.</text>
+	</string>
+	<string id="news_uniq_24b">
+		<text>Barrier:\n Understood. Those fucking lunatics!</text>
 	</string>
 	<string id="news_uniq_25">
 		<text>Warning: In a small village in the Dark Valley, if you're offered a Gauss rifle for 800 roubles - don't believe it. It's a scam!</text>
@@ -138,7 +144,7 @@
 		<text>The Duty warehouse has just received a batch of brand new FN-2000's. You need to get there quickly if you want to ste..., sorry, buy one</text>
 	</string>
 	<string id="news_uniq_46">
-		<text>Damn! The area around Yantar is full of zombies again! Neat job you did there, people!\nPotap\Carry on with the mission. We still need that information...</text>
+		<text>Damn! The area around Yantar is full of zombies again! Neat job you did there, people!\nPotap:\nCarry on with the mission. We still need that information...</text>
 	</string>
 	<string id="news_uniq_47">
 		<text>Speak with the Bandits. They should know how to get through that area quietly...</text>
