@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.4 added several from bind_det_arts for localization, removed "string_table" - aleks1970 -->
+<!-- TB3D 1.1.0.0.0.6 added several from bind_det_arts for localization, removed "string_table" - aleks1970 -->
+ <!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
 
 	<!-- 10991.1 -->
 	<string id="nm_545x39_izomorf">
@@ -127,7 +128,7 @@
 		<text>Glassbeads</text>
 	</string>
 	<string id="enc_zone_artifact_babka_1">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]This mesomodificate artifact greatly increases the endurance of its owner and generates a gravitational field that bends high velocity objects around it, generally making its owner a more difficult target to hit with weapons fire. However, it is slightly radioactive and increases the voltage of any electrical activity around it, making electrical anomalies even more dangerous.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nThis mesomodificate artifact greatly increases the endurance of its owner and generates a gravitational field that bends high velocity objects around it, generally making its owner a more difficult target to hit with weapons fire. However, it is slightly radioactive and increases the voltage of any electrical activity around it, making electrical anomalies even more dangerous.</text>
 	</string>
 	<string id="af_babka_2">
 		<text>Ancient Glassbeads</text>
@@ -136,7 +137,7 @@
 		<text>Glassbeads</text>
 	</string>
 	<string id="enc_zone_artifact_babka_2">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+7\n%c[default]This mesomodificate artifact is slightly more radioactive than Old Glassbeads, loses all of its previous ability to enhance endurance, and its gravitational effect is lessened, weakening its significance in affecting weapons fire. However, it does increase general human health, and decreases bleeding.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+7\n%c[default]\nThis mesomodificate artifact is slightly more radioactive than Old Glassbeads, loses all of its previous ability to enhance endurance, and its gravitational effect is lessened, weakening its significance in affecting weapons fire. However, it does increase general human health, and decreases bleeding.</text>
 	</string>
 	<string id="af_babka_3">
 		<text>Elder Glassbeads</text>
@@ -154,7 +155,7 @@
 		<text>Dummy</text>
 	</string>
 	<string id="enc_zone_artifact_pudd_1">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+2\n%c[default]This mesomodificate artifact, like its predecessor Baby Dummy, protects from burns, but also increases endurance. On the other hand, it also increases electrical shock damage to its owner.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+2\n%c[default]\nThis mesomodificate artifact, like its predecessor Baby Dummy, protects from burns, but also increases endurance. On the other hand, it also increases electrical shock damage to its owner.</text>
 	</string>
 	<string id="af_pudd_2">
 		<text>Shining Dummy</text>
@@ -163,7 +164,7 @@
 		<text>Dummy</text>
 	</string>
 	<string id="enc_zone_artifact_pudd_2">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+3\n%c[default]This mesomodificate artifact has the same burn protection as Fire Dummy, but has a greater positive impact on endurance. On the other hand, it also increases electrical shock damage to its owner.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+3\n%c[default]\nThis mesomodificate artifact has the same burn protection as Fire Dummy, but has a greater positive impact on endurance. On the other hand, it also increases electrical shock damage to its owner.</text>
 	</string>
 	<string id="af_pudd_3">
 		<text>Moonshine Dummy</text>
@@ -172,7 +173,7 @@
 		<text>Dummy</text>
 	</string>
 	<string id="enc_zone_artifact_pudd_3">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]This mesomodificate artifact continues to provide burn protection, just like Shining Dummy, but has an even greater positive effect on endurance. This is balanced by a greater vulnerability to electrical shock damage for its owner.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nThis mesomodificate artifact continues to provide burn protection, just like Shining Dummy, but has an even greater positive effect on endurance. This is balanced by a greater vulnerability to electrical shock damage for its owner.</text>
 	</string>
 	<string id="af_pudd_4">
 		<text>Pudding</text>
@@ -181,7 +182,7 @@
 		<text>Pudding</text>
 	</string>
 	<string id="enc_zone_artifact_pudd_4">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+7\n%c[default]This hypermodificate artifact offers an increase in its burn protection from its predecessor, Moon Dummy, but also instead of creating a vulnerability to electrical shock damage, provides significant protection for it! It still provides some increase in endurance as well, but not nearly as much as before unfortunately.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+7\n%c[default]\nThis hypermodificate artifact offers an increase in its burn protection from its predecessor, Moon Dummy, but also instead of creating a vulnerability to electrical shock damage, provides significant protection for it! It still provides some increase in endurance as well, but not nearly as much as before unfortunately.</text>
 	</string>
 	<string id="af_dik_1">
 		<text>Porcupine</text>
@@ -226,7 +227,7 @@
 		<text>Kolobok</text>
 	</string>
 	<string id="enc_zone_artifact_kol_1">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]This modificate artifact generates a gravitational field, somewhat retarding bullet velocities that enter this field, increasing protection from weapons fire. Also, it improves the human bodys skin, making it tougher and more difficult to tear. Unfortunately - it's radioactive.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nThis modificate artifact generates a gravitational field, somewhat retarding bullet velocities that enter this field, increasing protection from weapons fire. Also, it improves the human bodys skin, making it tougher and more difficult to tear. Unfortunately - it's radioactive.</text>
 	</string>
 	<string id="af_kol_2">
 		<text>Titan Kolobok</text>
@@ -235,7 +236,7 @@
 		<text>Kolobok</text>
 	</string>
 	<string id="enc_zone_artifact_kol_2">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+6\n%c[default]This mesomodificate artifact generates a more powerful gravitational field than its predecessor, Steel Kolobok, which has an even more positive impact on weapons fire directed at its owner. It also helps prevent skin from tearing, and protects from burns. Unfortunately - it's more radioactive.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+6\n%c[default]\nThis mesomodificate artifact generates a more powerful gravitational field than its predecessor, Steel Kolobok, which has an even more positive impact on weapons fire directed at its owner. It also helps prevent skin from tearing, and protects from burns. Unfortunately - it's more radioactive.</text>
 	</string>
 	<string id="af_kol_3">
 		<text>Diamond Kolobok</text>
@@ -244,7 +245,7 @@
 		<text>Kolobok</text>
 	</string>
 	<string id="enc_zone_artifact_kol_3">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+4\n%c[default]This mesomodificate artifact has slightly less of a gravitational field than Titan Kolobok, but still provides some protection from projectiles. Adding to its positive properties of protecting skin tears and adding resistance to burns, it also protects from chemical burns. Unfortunately - it's still radioactive, but not as much as Titan Kolobok was.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+4\n%c[default]\nThis mesomodificate artifact has slightly less of a gravitational field than Titan Kolobok, but still provides some protection from projectiles. Adding to its positive properties of protecting skin tears and adding resistance to burns, it also protects from chemical burns. Unfortunately - it's still radioactive, but not as much as Titan Kolobok was.</text>
 	</string>
 	<string id="af_kol_4">
 		<text>Sphere</text>
@@ -253,7 +254,7 @@
 		<text>Sphere</text>
 	</string>
 	<string id="enc_zone_artifact_kol_4">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+9\n%c[default]This hypermodificate artifact inherits most of its positive properties from its predecessors in the Kolobok family. It prevents skin tearing, provides very good bullet protection via a gravitational field as powerful as the Titan Kolobok, and protects from burns. Some say it also reduces actual hunger.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+9\n%c[default]\nThis hypermodificate artifact inherits most of its positive properties from its predecessors in the Kolobok family. It prevents skin tearing, provides very good bullet protection via a gravitational field as powerful as the Titan Kolobok, and protects from burns. Some say it also reduces actual hunger.</text>
 	</string>
 	<string id="af_armor_1">
 		<text>Skin</text>
@@ -262,7 +263,7 @@
 		<text>Skin</text>
 	</string>
 	<string id="enc_zone_artifact_armor_1">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+2\n%c[default]This modificate artifact reacts with human skin, reducing susceptibility to high velocity projectiles, such as bullets. It also protects from many forms of chemical burns. It is mildy radioactive.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+2\n%c[default]\nThis modificate artifact reacts with human skin, reducing susceptibility to high velocity projectiles, such as bullets. It also protects from many forms of chemical burns. It is mildy radioactive.</text>
 	</string>
 	<string id="af_armor_2">
 		<text>Scale</text>
@@ -271,7 +272,7 @@
 		<text>Scale</text>
 	</string>
 	<string id="enc_zone_artifact_armor_2">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+4\n%c[default]This mesomodificate artifact, like its predecessor Skin, forms a barrier on human skin protecting from bullet injury and chemical burns. Scale also contributes to general human health, although as a side effect seems to increase bleeding. It is somewhat radioactive.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+4\n%c[default]\nThis mesomodificate artifact, like its predecessor Skin, forms a barrier on human skin protecting from bullet injury and chemical burns. Scale also contributes to general human health, although as a side effect seems to increase bleeding. It is somewhat radioactive.</text>
 	</string>
 	<string id="af_armor_3">
 		<text>Steel Scale</text>
@@ -280,7 +281,7 @@
 		<text>Scale</text>
 	</string>
 	<string id="enc_zone_artifact_armor_3">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+3\n%c[default]This mesomodificate artifact inherited the properties of its predecessor's, Scale and Skin, and for the most part has an even more positive effect. Even better, instead of increasing blood loss when injured, it actually decreases bleeding. It is still radioactive however, but slightly less.</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+3\n%c[default]\nThis mesomodificate artifact inherited the properties of its predecessor's, Scale and Skin, and for the most part has an even more positive effect. Even better, instead of increasing blood loss when injured, it actually decreases bleeding. It is still radioactive however, but slightly less.</text>
 	</string>
 	<string id="af_armor_4">
 		<text>Controller Scalp</text>

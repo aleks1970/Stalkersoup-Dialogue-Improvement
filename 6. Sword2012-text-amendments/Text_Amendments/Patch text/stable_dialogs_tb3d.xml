@@ -1,4 +1,4 @@
-<!--TB3D 1.1.0.0.0.5 added notes, removed npp1_lc_opened, gps, pred_barman, gps tips, sak_cube, tb3d_cem_distress, storm, zep_note_np1, zep_note_rad1, zep_note_gen_grimwald, zep hints, npp2 hint, atp hint, grey's note, dead_marsh_recorder_hint -->
+<!--TB3D 1.1.0.0.0.6 added notes, removed npp1_lc_opened, gps, pred_barman, gps tips, sak_cube, tb3d_cem_distress, storm, zep_note_np1, zep_note_rad1, zep_note_gen_grimwald, zep hints, npp2 hint, atp hint, grey's note, dead_marsh_recorder_hint, glavney -->
 <string_table>
 <!--  TB3D  FREE PLAY  COLLECTOR -->
 <string id="new_line">
@@ -559,7 +559,7 @@
 <text>Negative energy, like a Black Energy Anomaly.  We need to find one and drop it into the sphere of energy.</text>
 </string>
 <string id="glavny_dialog2_1">
-<text>Glavny</text>
+<text>Hey Glavny</text>
 </string>
 <string id="glavny_dialog2_2">
 <text>What's wrong, go find a Black Energy and hurry!</text>
@@ -572,6 +572,15 @@
 </string>
 <string id="glavny_dialog2_5">
 <text>OK, OK..     don't get so worked up..</text>
+</string>
+<string id="glavny_dialog3_1">
+<text>Hey Glavny</text>
+</string>
+<string id="glavny_dialog3_2">
+<text>If you have it then drop it on the generator, quick!</text>
+</string>
+<string id="glavny_dialog3_3">
+<text>ALRIGHT, ALRIGHT get a grip!</text>
 </string>
 
 <!-- sak trader info on soul cube -->

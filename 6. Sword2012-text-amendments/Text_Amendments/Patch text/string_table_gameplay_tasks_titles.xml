@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.5  StalkerSoup game tasks - titles aleks1970, boatswain, minor spelling,
+<!-- TB3D 1.1.0.0.0.6  StalkerSoup game tasks - titles aleks1970, boatswain, minor spelling,
  corrected "<string id=" section with "Artefact" back to the "artifact" - aleks1970, Get_Night, seal, lukash -->
  <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 24 Feb 16 -->
  <!-- Changed one instance of 'Clerk' to Clerik' - Sword2012. 07 Apr 16, removed commas -->
+ <!-- Changed 'Old Stalker' to 'Old Man', 'watches' to 'watch, 'batteries' to 'electrical accumulators',  'accumulators for Zhoric' to 'accumulators for Gynecologist, 'and 'Medimamentah' to 'medical kit'- Sword2012. 16 Jun 16 -->
 <string_table>
 	<string id="Find_Cache_gameplay_titles">
 		<text>Find the cache</text>
@@ -323,7 +324,7 @@
 		<text>Locate the bag in the south of Chernobyl</text>
 	</string>
 	<string id="Find_lost_Bolotny_locket_gameplay_titles">
-		<text>Find Bolotny's lost locket</text>
+		<text>Find the lost locket</text>
 	</string>
 	<string id="Find_crow_eggs_cook_gameplay_titles">
 		<text>Find the crow eggs for Cook</text>
@@ -335,7 +336,7 @@
 		<text>Find two flashlights for Miner</text>
 	</string>
 	<string id="Get_the_Rubik_cube_gameplay_titles">
-		<text>Get the Rubiks cube</text>
+		<text>Get the Rubik cube</text>
 	</string>
 	<string id="Find_book_for_Miner_gameplay_titles">
 		<text>Find the book for Miner</text>
@@ -404,13 +405,13 @@
 		<text>Find out about the box that fell from the helicopter</text>
 	</string>
 	<string id="Learn_about_Medikam_gameplay_titles">
-		<text>Find out about Medimamentah</text>
+		<text>Find out about the medical kit</text><!-- Sword2012. 29 May 16 -->
 	</string>
 	<string id="Find_Zhorik_batteries_gameplay_titles">
-		<text>Find the batteries for Zhorik</text>
+		<text>Find the electrical accumulators for Gynecologist</text><!-- Sword2012. 29 May 16 -->
 	</string>
 	<string id="The_old_man_took_watch_gameplay_titles">
-		<text>Find the old Stalker's watches</text>
+		<text>Find the Old Man's gold watch</text><!-- Sword2012. 29 May 16 -->
 	</string>
 	<string id="Find_cache_for_Pilgrim_gameplay_titles">
 		<text>Find the cache for Pilgrim</text>
@@ -695,7 +696,7 @@
 		<text>Find a PKM machine gun for Sviblov</text>
 	</string>
 	<string id="Bring_Sviblov_brain_of_controller_gameplay_titles">
-		<text>Find a Controller's brain for Sviblov </text>
+		<text>Find a Controller's brain for Sviblov</text>
 	</string>
 	<string id="Get_Clerk_Soul_gameplay_titles">
 		<text>Find a Soul artefact for Clerik</text>

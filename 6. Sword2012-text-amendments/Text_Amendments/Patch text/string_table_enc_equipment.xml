@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.5 minor edits 700 - end of file, hand_radio, attachable_item, Astrologer, The Doctor, gold bars, fosfor_r,g,b,y, Bomb Casing, item_arhara_instruk, item_flyga_s, removed includes, Fang -->
+<!-- TB3D 1.1.0.0.0.6 minor edits 700 - end of file, hand_radio, attachable_item, Astrologer, The Doctor, gold bars, fosfor_r,g,b,y, Bomb Casing, item_arhara_instruk, item_flyga_s, removed includes, Fang -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for accuracy, clarity, brevity, and consistency. 07 Apr 16 -->
 <!-- All Simulators in Lines 1234-1267 were designated 'Simulator 1'. Changed to Simulators 1-4 according to string line, without understanding context - Sword2012. 07 Apr 16, armor -->
+<!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
 <string_table>
 
 <!-- excluded section-1 
@@ -42,7 +43,7 @@
 		<text>Bread</text>
 	</string>
 	<string id="item_mozg">
-		<text> 2nd Chernobyl NPP2 Controller's Brain</text>
+		<text>2nd Chernobyl NPP2 Controller's Brain</text>
 	</string>
 	<string id="item_mozg_s">
 		<text>Brain</text>
@@ -132,7 +133,7 @@
 		<text>Powerful flashlight. Recharge time improved by using the latest battery technology, and a more efficient transducer</text>
 	</string>
 	<string id="enc_equipment_energydrink">
-		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\n The warning label states that 'Consumption in excessive quantities has proven lethal'</text>
+		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\nThe warning label states that 'Consumption in excessive quantities has proven lethal'</text>
 	</string>
 	<string id="enc_equipment_energydrinka">
 		<text>Nondescript can of unknown origin.\nNo, that can't be - is that a beer?</text>
@@ -634,7 +635,7 @@
 		<text>Casket</text>
 	</string>
 	<string id="enc_item_shkatulka_descr">
-		<text>On the reverse side reads an inscription - 'Master Khabarych'. Inside are papers on which the numbers 434018 and 206018 are written, and a short message:\n 'Coded doors in Bunker #3. I have only found two, so that means there must be another - but where? I have heard of a place where there is a safe - still locked, but intact - and within it may lie the answer. The missing code?'\nOther than illegible scribble, there's nothing else inside...</text>
+		<text>On the reverse side reads an inscription - 'Master Khabarych'. Inside are papers on which the numbers 434018 and 206018 are written, and a short message:\n'Coded doors in Bunker #3. I have only found two, so that means there must be another - but where? I have heard of a place where there is a safe - still locked, but intact - and within it may lie the answer. The missing code?'\nOther than illegible scribble, there's nothing else inside...</text>
 	</string>
 	<string id="item_arhara_seif">
 		<text>Small safe</text>
@@ -772,7 +773,7 @@
 		<text>'Mica' flask</text>
 	</string>
 	<string id="enc_item_kolba_pustay_descr">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]An empty flask made from a unusual type of glass. Said to have been hand-blown using minerals from a powdered Mica artefact. Has a specially designed valve, and a protective metal casing. Less clear about it is what it was used for...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nAn empty flask made from a unusual type of glass. Said to have been hand-blown using minerals from a powdered Mica artefact. Has a specially designed valve, and a protective metal casing. Less clear about it is what it was used for...</text>
 	</string>
 	<string id="item_ekza_akkumul">
 		<text>Exoskeleton power unit</text>
@@ -799,7 +800,7 @@
 		<text>Rejuvenating flask</text>
 	</string>
 	<string id="enc_item_kolba_siniy_poln_descr">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]A flask with air-tight valves, and filled with a dark blue liquid of unknown origin. When worn on the belt, it can restore both health and energy...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nA flask with air-tight valves, and filled with a dark blue liquid of unknown origin. When worn on the belt, it can restore both health and energy...</text>
 	</string>
 	<string id="item_kolba_orand_poln">
 		<text>Rejuvenating flask</text>
@@ -808,7 +809,7 @@
 		<text>Rejuvenating Flask</text>
 	</string>
 	<string id="enc_item_kolba_orand_poln_descr">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]A flask with air-tight valves, and filled with a bright orange liquid of unknown origin. When worn on the belt, it can accelerate the healing process by arresting blood loss...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nA flask with air-tight valves, and filled with a bright orange liquid of unknown origin. When worn on the belt, it can accelerate the healing process by arresting blood loss...</text>
 	</string>
 	<string id="item_trupak">
 		<text>Controller's corpse</text>
@@ -1022,7 +1023,7 @@
 		<text>Amanita</text>
 	</string>
 	<string id="enc_equipment_amanita_mushroom">
-		<text> Although slightly radioactive, the Amanita mushroom is edible after prolonged boiling - but be warned. A common ingredient in the manufacture of potent tranquilizers and pain medication, it's often used by local drug addicts for its variety of hallucinegenic effects. It grows mostly in marshland, and has a tendency to disintegrate if kept for too long once plucked from the ground</text>
+		<text>Although slightly radioactive, the Amanita mushroom is edible after prolonged boiling - but be warned. A common ingredient in the manufacture of potent tranquilizers and pain medication, it's often used by local drug addicts for its variety of hallucinegenic effects. It grows mostly in marshland, and has a tendency to disintegrate if kept for too long once plucked from the ground</text>
 	</string>
 	<!-- Duplicated section!!! - game will use text from "dmx_mod_items.xml" file instead - aleks1970 -->
 	<!-- Duplicated string id was moved in to the "dmx_mod_items.xml" file - aleks1970 -->
@@ -1061,7 +1062,7 @@
 		<text>Yantar Teleport</text>
 	</string>
 	<string id="enc_quest_kostya_gold_fish">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]Special Goldfish artefact in the Cordon. Kostya is looking for this particular one...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nSpecial Goldfish artefact in the Cordon. Kostya is looking for this particular one...</text>
 	</string>
 	<string id="kostya_pda">
 		<text>PDA #1</text>
@@ -1327,7 +1328,7 @@
 		<text>'Isomorphic' Globe</text>
 	</string>
 	<string id="enc_item_isomorfhic_globe_descr">
-		<text>'Isomorphic' Globe, of a strange and undetermined origin. Putting it inside a backpack will reduce the combined radiation level of all artefacts being carried...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,1,255,1]-20\n%c[default]\n'Isomorphic' Globe, of a strange and undetermined origin. Putting it inside a backpack will reduce the combined radiation level of all artefacts being carried...</text>
 	</string>
 	<string id="item_isomorfhic_camera">
 		<text>'Isomorphic' camera body</text>
@@ -1345,7 +1346,7 @@
 		<text>'Isomorphic' lens</text>
 	</string>
 	<string id="enc_item_isomorfhic_camera_lens_descr">
-		<text>'Isomorphic' camera lens. Wearing it on the belt has the negative side effect of increasing radiation dosage, due to the unique coating on the lens...</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\n'Isomorphic' camera lens. Wearing it on the belt has the negative side effect of increasing radiation dosage, due to the unique coating on the lens...</text>
 	</string>
 	<string id="item_isomorfhic_shutter_camera">
 		<text>'Isomorphic' camera shutter</text>
