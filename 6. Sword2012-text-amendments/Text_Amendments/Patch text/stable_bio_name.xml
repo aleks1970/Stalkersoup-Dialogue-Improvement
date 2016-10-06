@@ -1,4 +1,4 @@
-<!-- TB3D 1.1.0.0.0.4 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes, vet_research_bio, added bios, skinflint to miser -->
+<!-- TB3D 1.1.0.0.0.0 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes, vet_research_bio, added bios, skinflint to miser -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Mar 16 -->
 
 	<string id="bio_classified">
@@ -671,7 +671,7 @@
 		<text>Came to the Zone looking for adventure, and imitates characters from popular comics of the 60's. Uses various aliases: Badman, Macho, the Black Coat, Banderos. Even though he's survived in the Zone for a full two years, nobody really takes him seriously, which constantly drives him mad...</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_bio">
-		<text>Fierce, wicked, crude, selfish, cruel and cold-hearted, nobody knows when and how he got to the Zone. Feared by everyone, he has no friends or allies. With no past, and no future, he simply lives in the Zone. After one of his numerous forays into the Zone, he lost his memory, forgetting almost everything. He doesn't remember his real name, nor where he comes from. Suffering from frequent lapses of short term memory, he's been known to completely forget a new acquaintance within an hour. Most Stalkers will advise you to treat him as an enemy, and kill him before he tries to do the same to you</text>
+		<text>Fierce, wicked, crude, selfish, cruel and cold-hearted, nobody knows when and how he got to the Zone. Feared by everyone, he has no friends or allies. With no past, and no future, he simply lives in the Zone. After one of his numerous forays into the Zone, he lost his memory, forgetting almost everything. He doesn’t remember his real name, nor where he comes from. Suffering from frequent lapses of short term memory, he's been known to completely forget a new acquaintance within an hour. Most Stalkers will advise you to treat him as an enemy, and kill him before he tries to do the same to you</text>
 	</string>
 	<string id="sim_bandit_novice_bio">
 		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
@@ -689,7 +689,7 @@
 		<text>Militant from the Duty faction. Usually well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_bio">
-		<text>A sad bootlicker, hypocrite and coward, Barin's motto could well be 'After us, the deluge'. Takes advantage of any situation for himself. Extremely ambitious and touchy. He came to the Zone, unsurprisingly, for money. Two years later he's been procurring material assets by all possible means</text>
+		<text>A sad bootlicker, hypocrite and coward, Barin’s motto could well be 'After us, the deluge'. Takes advantage of any situation for himself. Extremely ambitious and touchy. He came to the Zone, unsurprisingly, for money. Two years later he's been procurring material assets by all possible means</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
 		<text>Militant from the Duty faction. Usually well-equipped. Further details unavailable at present</text>
@@ -698,7 +698,7 @@
 		<text>Official recruiter for the Ukrainian Security Service, and a frequent visitor to the Bar. Everyone knows him, and that he's a good man to turn to when you fall on hard times. In his eyes, however, once you cross the line there is no way back to the ranks of honest Stalkers</text>
 	</string>
 	<string id="sim_ecolog_zob_bio">
-		<text>In everyday life a phlegmatic who keeps his emotions to himself and always stays cool. However, when under stress he gets peppery and aggressive. A highly intellectual materialist who regrets coming to the Zone in the first place. After graduating from medical university, he was sent into the Zone as a neurosurgical assistant at the scientists' camp. Now dissects mutant brains and researches their psychokinetic properties. He's looking forward to his retirement, when he can move back to the capital, as far away as possible from this disgusting place</text>
+		<text>In everyday life a phlegmatic who keeps his emotions to himself and always stays cool. However, when under stress he gets peppery and aggressive. A highly intellectual materialist who regrets coming to the Zone in the first place. After graduating from medical university, he was sent into the Zone as a neurosurgical assistant at the scientists’ camp. Now dissects mutant brains and researches their psychokinetic properties. He's looking forward to his retirement, when he can move back to the capital, as far away as possible from this disgusting place</text>
 	</string>
 	<string id="sim_fresh_Zombied_bio">
 		<text>A Stalker whose luck finally ran out...</text>
@@ -761,7 +761,7 @@
 		<text>Formerly a mechanic at the 'Kholod Mac' plant, he decided to take his own life after his wife left him. However, being deeply religious, he chose the Zone as an unconventional means of suicide, and threw himself at 'God's mercy'. Contrary to his expectations, he survived, and has since gained invaluable experience and the respect of other Stalkers due to his professional skills and attitude. Master is probably the most qualified mechanic in the Zone in terms of equipment and vehicles, although installing security systems in bunkers is what he does best. A simple, stern man, though a bit rough at times, he is welcome everywhere he goes, since he leaves every place better than he found it...</text>
 	</string>
 	<string id="sim_stalker_master_polkan_bio">
-		<text>Lieutenant Colonel in the Ministry of Interior troops, and a former military Stalker. The only soldier to return from a disastrous operation deep in the Zone, to discover that the mission was pointless and suicidal from the start. That's when he decided not to leave the Zone, staged his own death, and joined the Stalkers in a place he'd grown to love. Quiet, cynical, and filled with purpose</text>
+		<text>Lieutenant Colonel in the Ministry of Interior troops, and a former military Stalker. The only soldier to return from a disastrous operation deep in the Zone, to discover that the mission was pointless and suicidal from the start. That’s when he decided not to leave the Zone, staged his own death, and joined the Stalkers in a place he'd grown to love. Quiet, cynical, and filled with purpose</text>
 	</string>
 	<string id="sim_stalker_novice_bio">
 		<text>Rookie. New to the Zone. Further details unavailable at present</text>

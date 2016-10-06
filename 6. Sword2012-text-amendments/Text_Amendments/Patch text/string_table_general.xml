@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="windows-1252" standalone="yes"?>
-<!-- TB3D 1.1.0.0.0.4 bar chgd to rostok, new levels, f1, added/included files in this <string_table> - aleks1970, npp north and npp south -->
+<!-- TB3D 1.0.9.9.9.8 bar chgd to rostok, new levels, f1, added/included files in this <string_table> - aleks1970 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 24 Feb 16 -->
 <string_table>
 #include "text\eng\string_table_ui.xml"
 #include "text\eng\string_table_items.xml"
@@ -12,37 +13,37 @@
 #include "text\eng\string_table_enc_ald_weapons.xml"
 
 	<string id="informer_recipt1">
-		<text>Holy shit!  Did you add some zeroes to that price by mistake?! ... It had better be worth it... here, take your money ...</text>
+		<text>Holy shit! Did your calculator add some extra zeroes to that price? It had better be worth it. Here, take your money...</text>
 	</string>
 	<string id="informer_recipt2">
-		<text>Consider it you're lucky day ... hand it over, then ...</text>
+		<text>Consider it your lucky day... Hand it over...</text>
 	</string>
 	<string id="alenka_info">
-		<text>Please, don't kill me! I have a wife, and children at home waiting for me ... please!!, wait .. just wait .. I have something for you. You see, back there at the base, I was just a simple pencil pusher - a desk jockey - sitting behind an old computer messing around with reports and documents, and stuff. I came across this file one day ... well, I had to mess around with the code for a while before I managed to crack it ... couldn't bring myself to make a copy, but I've memorized it well - it was a report from those Scientific Eggheads about artefacts and anomalies!! It was saying that if you take some mesa... er .. um ... meso-something or other... called 'Ancient Grandma's Beads', or some ridiculous name like that, don't ask what it means, I don't have the slightest clue - and throw it into something they called a 'Whirligig', then in ten minutes time, you'll get a different artefact altogether. Well, it's essentially the same one, but with different properties. It emits some kind of energy-field that somehow manages to slow down time. Also, it can supposedly stop bleeding, and can repair one's health. Unfortunately, it contains radiation, which can cause significant damage over time. I hope this information is of more use to you than it is to me... and that it's worth sparing my life for ... please!! .... I'm begging you ...</text>
+		<text>Please, don't kill me! I have a wife and children at home waiting for me. Please! Wait. Just wait... I have something for you. \nYou see, back there at the base, I was a simple pencil pusher - a desk jockey - sitting behind an old computer screen messing around with reports and documents and stuff. I came across a file one day... well, no one had bothered to decode it, so I thought I'd amuse myself with it. It took me a while before I cracked it. I wouldn't have been allowed to make a copy, but I have a good memory. \nIt was a report from those scientific eggheads about artefacts and anomalies! It said that if you take some mesa... meso-something or other... called 'Ancient Glassbeads', or something like that - don't ask me what it means - and throw it into something called a 'Whirligig', then after ten minutes you'll get a totally different artefact. Well, essentially it's the same one, but with different properties. They called it 'Elder Glassbeads' instead, and said it gives off an energy field that somehow warps gravity or space. Also, it can supposedly stop bleeding, and make you heal faster. Unfortunately, it's radioactive, so you need to be careful wearing it for too long. \nI hope this information is of more use to you than to me... and that it's worth sparing my life for... Please! I'm begging you...</text>
 	</string>
 	<string id="new_prizrak_document1_name">
-		<text>Book from the Sarcophagus No1.</text>
+		<text>Book from the Sarcophagus No. 1</text>
 	</string>
 	<string id="new_prizrak_document1_desc">
-		<text>Book from the Sarcophagus No1. Notes of the Monolithian - Volume I</text>
+		<text>Notes of the Monolithian - Vol I</text>
 	</string>
 	<string id="new_prizrak_document2_name">
-		<text>Book from the Sarcophagus No2.</text>
+		<text>Book from the Sarcophagus No. 2</text>
 	</string>
 	<string id="new_prizrak_document2_desc">
-		<text>Book from the Sarcophagus No2. Notes of the Monolithian - volume II</text>
+		<text>Notes of the Monolithian - Vol II</text>
 	</string>
 	<string id="new_prizrak_document3_name">
-		<text>Book from the Sarcophagus No3.</text>
+		<text>Book from the Sarcophagus No. 3</text>
 	</string>
 	<string id="new_prizrak_document3_desc">
-		<text>Book from the Sarcophagus No3. Notes of the Monolithian - volume III</text>
+		<text>Notes of the Monolithian - Vol III</text>
 	</string>
 	<string id="plan_document_name">
-		<text>Detailed plan of the Radar Bunker</text>
+		<text>Detailed plan of the Radar bunker</text>
 	</string>
 	<string id="plan_document_desc">
-		<text>Detailed plan of the Radar Bunker. On it is marked an old passage into the Sarcophagus ...</text>
+		<text>Detailed plan of the Radar bunker. On it is marked an old passage into the Sarcophagus</text>
 	</string>
 	<string id="gold_art_name">
 		<text>Gold Chunk</text>
@@ -51,13 +52,13 @@
 		<text>Gold Chunk</text>
 	</string>
 	<string id="gold_art_desc">
-		<text>Special version of "the Meat Chunk" artefact. It is only possible to find this rare treasure in the vicinity of the Chernobyl NPP. It possesses a number of positive properties in addition to those already found within  the 'Meat Chunk' artefact. It also provides protection from chemical burns, and offers protection against psi-emissions ...</text>
+		<text>Unique version of the 'Meat Chunk' artefact. This rare treasure is only found in the vicinity of the Chernobyl NPP. It possesses additional positive properties to those already in the 'Meat Chunk' artefact, including some protection from chemical burns and psi-emissions</text>
 	</string>
 	<string id="voen_pda_name">
-		<text>Andrey's PDA [Spetsnaz]</text>
+		<text>Andrei's PDA [Spetsnaz]</text>
 	</string>
 	<string id="voen_pda_desc">
-		<text>Andrey's PDA [Spetsnaz] - badly damaged, and in serious need of repair ...</text>
+		<text>Andrei's PDA [Spetsnaz] - badly damaged, and in serious need of repair</text>
 	</string>
 	<string id="siv_pda_name">
 		<text>Gray's PDA [Mercenary]</text>
@@ -66,135 +67,135 @@
 		<text>Gray's PDA (contains his personal notes)</text>
 	</string>
 	<string id="ara_flash_name">
-		<text>Ary's USB-Stick [Mercenary]</text>
+		<text>Ary's flash drive [Mercenary]</text>
 	</string>
 	<string id="ara_flash_desc">
 		<text>Ary's PDA (contains his personal notes)</text>
 	</string>
 	<string id="fraer_pda_name">
-		<text>Fraera's PDA</text>
+		<text>Friar's PDA</text>
 	</string>
 	<string id="fraer_pda_desc">
-		<text>Fraera's PDA (contains his personal notes)</text>
+		<text>Friar's PDA (contains his personal notes)</text>
 	</string>
 	<string id="bandranen_pda_name">
 		<text>Wounded Bandit's PDA</text>
 	</string>
 	<string id="bandranen_pda_desc">
-		<text>PDA belonging to the wounded Bandit from the Dump</text>
+		<text>PDA belonging to the wounded Bandit from the Garbage</text>
 	</string>
 	<string id="voen_document_name">
-		<text>Soldier's Note</text>
+		<text>Soldier's note</text>
 	</string>
 	<string id="voen_document_desc">
-		<text>Soldier's Note ... covered in blood, in some places, the ink has begun to run ...</text>
+		<text>Soldier's note - covered in blood. The pages are sticking together, and the ink has begun to run...</text>
 	</string>
 	<string id="sysh_document_name">
-		<text>Owl's Note</text>
+		<text>Owl's note</text>
 	</string>
 	<string id="sysh_document_desc">
 		<text>Note from Owl addressed to Ghost</text>
 	</string>
 	<string id="sysh_flash_name">
-		<text>Owl's USB-Stick</text>
+		<text>Owl's flash drive</text>
 	</string>
 	<string id="sysh_flash_desc">
-		<text>Owl's USB-Stick (contains info about a cache in Lab X-10</text>
+		<text>Owl's flash drive (contains info about a cache in Lab X-10)</text>
 	</string>
 	<string id="inventory_new_box_name">
-		<text>Metal Box (locked)</text>
+		<text>Metal box (locked)</text>
 	</string>
 	<string id="inventory_new_box_desc">
-		<text>Metal Box with a coded lock</text>
+		<text>Metal box with a coded lock</text>
 	</string>
 	<string id="item_sniper_flash_name">
-		<text>Animal's USB-Stick</text>
+		<text>Beast's flash drive</text>
 	</string>
 	<string id="item_sniper_flash_desc">
-		<text>Animals USB-Stick. Contains a list of people chosen for assassination. The first name on the list: Strelok</text>
+		<text>Beast's flash drive. Contains a list of people chosen for assassination. The first name on the list: Strelok</text>
 	</string>
 	<string id="new_document_sniper_name">
-		<text>Animal's Documents</text>
+		<text>Beast's documents</text>
 	</string>
 	<string id="new_document_sniper_desc">
-		<text>Contains a list of the people with whom Animal communicated. However, it has been is ciphered. It is necessary to bring them to Ghost. With a little luck, he can decode the cipher ...</text>
+		<text>It's an encrypted list of people with whom Beast communicated. I should take it to Ghost. With a little luck, he'll be able to crack it...</text>
 	</string>
 	<string id="item_computer_new_name">
 		<text>Computer from Lab X-18</text>
 	</string>
 	<string id="item_computer_new_desc">
-		<text>Computer from Lab X-18 ... a bit damaged, but surprisingly it still boots up fine ... it may possibly even work.</text>
+		<text>Computer from Lab X-18. It's slightly damaged, but still boots to the BIOS. It might still work...</text>
 	</string>
 	<string id="item_nauch_flash_name">
-		<text>Scientist's USB-Stick</text>
+		<text>Scientist's flash drive</text>
 	</string>
 	<string id="item_nauch_flash_desc">
-		<text>Scientist's USB-Stick .. contains schedules, figures, and complex diagrams. None of which I understand the least of ...</text>
+		<text>Scientist's flash drive. Contains schedules, figures, and complex diagrams - none of which I understand...</text>
 	</string>
 	<string id="item_notebook_new_name">
-		<text>Arhara's Notebook</text>
+		<text>Arhara's notebook</text>
 	</string>
 	<string id="item_notebook_new_desc">
-		<text>Arhara's Notebook. In relatively good condition. In plain text, it marks an entrance ...</text>
+		<text>Arhara's notebook. In relatively good condition. It's in plain text, and marks an entrance...</text>
 	</string>
 	<string id="pda_priz_name">
 		<text>Ghost's PDA</text>
 	</string>
 	<string id="pda_priz_desc">
-		<text>Contains various data concerning Artefacts, and the places that they occur. The annihilation of the Last Day Clan and the subsequent murder of it's leader is also mentioned. there is also some information concerning Fang, and Strelok, but the data has been cleverly ciphered ...</text>
+		<text>Contains data concerning artefacts and the locations at which they occur. Also mentioned is the annihilation of the Last Day clan, and the subsequent murder of its leader. There's also some information on Fang and Strelok, but the data's been encoded...</text>
 	</string>
 	<string id="new_book_prizrak_name">
-		<text>Ghost's Diary</text>
+		<text>Ghost's diary</text>
 	</string>
 	<string id="new_book_prizrak_desc">
-		<text>Ghost's Diary. Written in a very heavy hand. The ink has started to smear from having gotten wet in the Zone.</text>
+		<text>Ghost's diary. Written in a very heavy hand. The ink's started to smear from having gotten wet in the Zone</text>
 	</string>
 	<string id="new_book_name">
-		<text>Arhara's Notebook</text>
+		<text>Arhara's notebook</text>
 	</string>
 	<string id="new_book_desc">
-		<text>Arhara's Notebook. Full of complex math, and indecipherable formulas ... none of which I can understand.</text>
+		<text>Arhara's notebook. Full of complex maths and formulae - none of which I understand...</text>
 	</string>
 	<string id="item_pda_tiran_name">
 		<text>Tirana's PDA</text>
 	</string>
 	<string id="item_pda_tiran_desc">
-		<text>Tirana's PDA. Contains various sums, accounts, and records. There is also mention of some names ... nicknames.</text>
+		<text>Tirana's PDA. Contains financial records, sums, and accounts. There are also names and nicknames</text>
 	</string>
 <!--	Duplicated string id from the "string_table_items.xml" file - aleks1970	
 	<string id="item_PDA_tiran_desc">
 		<text>>Personal Digital Assistant : Indispensable in the Zone.</text>
 	</string>
 	<string id="item_PDA_tiran_name">
-		<text>Tyran's PDA</text>
+		<text>Tyrana's PDA</text>
 	</string> -->
 	<string id="item_pda_lucky_name">
 		<text>Lucky's PDA</text>
 	</string>
 	<string id="item_pda_lucky_desc">
-		<text>Contains Lucky's correspondence with some of his accomplices ...</text>
+		<text>Contains Lucky's correspondence with some of his accomplices...</text>
 	</string>
 <!--	Duplicated string id from the "string_table_items.xml" file("item_pda_..." is correct string) - aleks1970
 	<string id="item_PDA_lucky_desc">
-		<text>Personal Digital Assistant belonging to 'Lucky'... full of valuable information.. could prove itself useful...</text>
+		<text>Personal Digital Assistant belonging to 'Lucky'... Full of valuable information... Could prove itself useful...</text>
 	</string>
 	<string id="item_PDA_lucky_name">
 		<text>Lucky's PDA</text>
 	</string> -->
 	<string id="item_case_freeman_name">
-		<text>Freeman's Case</text>
+		<text>Freeman's case</text>
 	</string>
 	<string id="item_case_freeman_desc">
-		<text>Documents belonging to Gordon Freeman. Contains some photos, and other personal effects.</text>
+		<text>Documents belonging to Gordon Freeman. Contains photos and other personal effects</text>
 	</string>
 	<string id="item_lab_x10_documents_name">
-		<text>Documents from Laboratory X-10</text>
+		<text>Documents from Lab X-10</text>
 	</string>
 	<string id="item_lab_x10_documents_desc">
-		<text>Documents from Laboratory X-10. Various data concerning the Monolith faction, and more importantly a map showing how to get to the Monolith itself. Other important information concerning the radiation level inside of the Sarcophagus, it's possible obstacles, and when the Monolith patrols change shift, etc ... some very useful information.</text>
+		<text>Documents from Laboratory X-10. Mainly on the Monolith faction. More importantly - a map showing how to get to the Monolith itself. Other important data concerns the radiation levels inside the Sarcophagus, possible obstacles to getting there, and Monolith patrol patterns. Some very useful information indeed...</text>
 	</string>
 	<string id="item_bland_flash_name">
-		<text>Bland's USB-Stick</text>
+		<text>Bland's flash drive</text>
 	</string>
 	<string id="item_bland_flash_desc">
 		<text>Contains a carefully prepared plan to take over Chernobyl and the Monolith</text>
@@ -221,7 +222,7 @@
 		<text>Last Day</text>
 	</string>
 	<string id="fotoman">
-		<text>the Matrix has been activated</text>
+		<text>The Matrix has been activated</text>
 	</string>
 	<string id="bad">
 		<text>Bad</text>
@@ -255,7 +256,7 @@
 		<text>Skilled</text>
 	</string>
 	<string id="Found_PDA">
-		<text>Found PDA</text>
+		<text>Recovered PDA</text>
 	</string>
 	<string id="freedom">
 		<text>Freedom</text>
@@ -306,10 +307,10 @@
 		<text>East Pripyat</text>
 	</string>
 	<string id="l12_stancia">
-		<text>Chernobyl NPP SOUTH</text>
+		<text>Chernobyl NPP1</text>
 	</string>
 	<string id="l12_stancia_2">
-		<text>Chernobyl NPP NORTH</text>
+		<text>Chernobyl NPP2</text>
 	</string>
 <!--	Duplicated string id with the 72 line in "string_table_arhara.xml" file - aleks1970
 	<string id="labx8">
@@ -350,7 +351,7 @@
 		<text>Secret Lab</text>
 	</string>
 	<string id="l01_krasivay">
-		<text>Distribution Center</text>
+		<text>Distribution Centre</text>
 	</string>
 	<string id="l02_dd">
 		<text>Courtyards</text>
@@ -377,10 +378,10 @@
 		<text>Rookie</text>
 	</string>
 	<string id="st_no_active_task">
-		<text>no active task</text>
+		<text>No active task</text>
 	</string>
 	<string id="st_time_till_surge">
-		<text>something's happening ... something ...</text>
+		<text>Something's happening...</text>
 	</string>
 	<string id="st_time_kvest_proval">
 		<text>Time until task failure</text>
@@ -389,7 +390,7 @@
 		<text>Time until destruction</text>
 	</string>
 	<string id="st_time_kvest_done">
-		<text>Timer is stopped. The portable radio set has been found.</text>
+		<text>Timer stopped. The portable radio set has been found</text>
 	</string>
 	<string id="stalker">
 		<text>Loner</text>
@@ -416,10 +417,10 @@
 		<text>Reputation</text>
 	</string>
 	<string id="very_bad">
-		<text>Very Bad</text>
+		<text>Very bad</text>
 	</string>
 	<string id="very_good">
-		<text>Very Good</text>
+		<text>Very good</text>
 	</string>
 	<string id="veteran">
 		<text>Veteran</text>
@@ -431,16 +432,16 @@
 		<text>Cancel</text>
 	</string>
 	<string id="Btn_No">
-		<text>NO</text>
+		<text>No</text>
 	</string>
 	<string id="Btn_OK">
-		<text>OK</text>
+		<text>Okay</text>
 	</string>
 	<string id="Btn_Yes">
 		<text>Yes</text>
 	</string>
 	<string id="global_map">
-		<text>Map of the ZONE</text>
+		<text>Map of the Zone</text>
 	</string>
 	<string id="st_autosave">
 		<text>Autosave...</text>
@@ -452,10 +453,10 @@
 		<text>Used</text>
 	</string>
 	<string id="st_not_enough_money">
-		<text>Not enough $$$</text>
+		<text>Not enough cash available</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>Not enough $$$</text>
+		<text>Not enough cash available</text>
 	</string>
 	<string id="ui_st_opponent_items">
 		<text>Backpack</text>
@@ -464,10 +465,10 @@
 		<text>Search cache ($$ACTION_USE$$)</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Raise the subject of ($$ACTION_USE$$)</text>
+		<text>Pick up($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_mm_check_updates">
-		<text>Game Updates</text>
+		<text>Game updates</text>
 	</string>
 	<string id="ui_mm_alternative">
 		<text>Alternative</text>
@@ -479,7 +480,7 @@
 		<text>Radiation</text>
 	</string>
 	<string id="ui_inv_satiety">
-		<text>Satiety</text>
+		<text>Nourishment</text>
 	</string>
 	<string id="ui_inv_power">
 		<text>Endurance</text>
@@ -498,7 +499,7 @@
 		<text>Knife</text>
 	</string> -->
 	<string id="st_mp_disabled_voting">
-		<text>Voting is inaccessible on this Server</text>
+		<text>Voting is inaccessible on this server</text>
 	</string>
 	<string id="st_mp_no_current_voting">
 		<text>Now there are no active votings</text>
@@ -510,7 +511,7 @@
 		<text>Voting has passed successfully!</text>
 	</string>
 	<string id="st_mp_voting_failed">
-		<text>Voting is ruined!</text>
+		<text>Voting has been ruined!</text>
 	</string>
 	<string id="l03u_agr_underground">
 		<text>Agroprom Catacombs</text>
@@ -531,31 +532,31 @@
 		<text>Monolith Control</text>
 	</string>
 	<string id="enc_saharov_about_klik_text">
-		<text>Sakharov knows about the death of Fang and advises me to talk to Voronin</text>
+		<text>Sakharov knows about the death of Fang, and advises me to talk to Voronin</text>
 	</string>
 	<string id="saharov_begin">
-		<text>Sakharov. The investigation begins ...</text>
+		<text>Sakharov: The investigation has started...</text>
 	</string>
 	<string id="poisk">
 		<text>Investigation</text>
 	</string>
 	<string id="enc_voronin_about_klik_text">
-		<text>According to Voronin, Fang was somehow crossed by Mercenaries. Advises me to go to the Informant. He should have connections with the Mercenaries. I can most likely learn more from him ...</text>
+		<text>According to Voronin, Fang was somehow double-crossed by Mercenaries. He advises me to visit the informant. He'll likely have connections with the Mercenaries...</text>
 	</string>
 <!--	Duplicated - aleks1970
 	<string id="voronin_begin">
-		<text>Voronin. The investigation continues ...</text>
+		<text>Voronin. The investigation continues...</text>
 	</string> -->
 	<string id="sms_new_dan2">
-		<text>Text Messages</text>
+		<text>Text messages</text>
 	</string>
 	<string id="enc_sms1">
-		<text>Text Messages</text>
+		<text>Text messages</text>
 	</string>
 	<string id="anomaly_zone">
 		<text>Anomalous zone</text>
 	</string>
 	<string id="no hint">
-		<text>New Way</text>
+		<text>New way</text>
 	</string>
 </string_table>

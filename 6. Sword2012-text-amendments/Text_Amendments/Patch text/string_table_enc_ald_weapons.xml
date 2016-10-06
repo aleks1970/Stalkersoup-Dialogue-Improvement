@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.4 added ALD-Weapons pack description, glow grenades, aleks1970 edits, removed "string_table" - aleks1970 -->
+<!--?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.0.9.9.9.8 added ALD-Weapons pack description, glow grenades, aleks1970 edits, removed "string_table" - aleks1970 -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Mar 16 -->
 
 	<!-- WEAPON ADDITIONS -->
@@ -28,7 +28,7 @@
 <text>FN2000</text>
 </string>
 <string id="enc_weapons1_wpn_fn2000_paratrooper">
-<text>• Ammunition:\n • 9x39mm PAB9\n • 9x39mm SP-5\n • 9x39mm SP-6\n • 9x39mm Isomorphic\n • Magazine capacity: 30 rounds\n • Effective range 800 m\n • Rate of fire 890/min\n• Rifle grenade M209\n• Scope (x8.0)\n• Integrated silencer\nThe gun was modelled on the standard Belgian Fabrique Nationale Herstal F2000 Automatic grenade launcher, at the request of SPN Naval officers.\nVarious artefacts are used in its manufacture, which significantly increases its performance characteristics.\nEvidence of their supply into the Zone was found at the crash site of a military helicopter.\nFinding one, however, is another matter...</text>
+<text>• Ammunition:\n • 9x39mm PAB9\n • 9x39mm SP-5\n • 9x39mm SP-6\n • 9x39mm Isomorphic\n • Magazine capacity: 30 rounds\n • Effective range 800 m\n • Rate of fire 890/min\n• Rifle grenade M209\n• Scope (x8.0)\n• Integrated silencer\nThe gun was modelled on the standard Belgian Fabrique Nationale Herstal F2000 Automatic grenade launcher, at the request of SPN Naval officers.\nVarious artefacts are used in its manufacture, which significantly increases its performance characteristics.\nEvidence of their supply into the Zone was found at the crash site of a military helicopter. \nFinding one, however, is another matter...</text>
 </string>
 	<!-- UNIQUE WEAPON ADDITIONS -->
 <string id="enc_weapons1_VSS_Taktikal">
@@ -53,34 +53,6 @@
 <text>• Ammunition:\n • 2mm Gauss capsules\n • Magazine capacity: 20 rounds\n • Effective Range: 1000m\nThe VGI Ghost Stealth Gauss Rifle has, for a long time, been the primary choice for stealth operations, and was successfully tested in conjunction with the Ghost stealth outfit. This weapon has all the good qualities of its predecessor, the M72 Gauss Ghost, plus some additional ones achieved by immersing it in various anomalies. In addition to possessing a higher rate of fire in comparison with normal Gauss Rifles, it is almost invisible in daylight</text>
 </string>
 	<!-- ATTACHMENTS -->
-<string id="wpn_sil_g3">
-<text>Silencer G3</text>
-</string>
-<string id="enc_wpn_addon_wpn_sil_g3">
-<text>Silencer for the Heckler-Koch G3 rifle.</text>
-</string>
-
-<string id="wpn_sil_upg_556_silencer">
-<text>Silencer 'SCAR'</text>
-</string>
-<string id="enc_wpn_addon_sil_upg_556_silencer">
-<text>Silencer for the unique gun in the Zone, SCAR-Crysis.</text>
-</string>
-
-<string id="wpn_sil_usp">
-<text>Silencer 'USP'</text>
-</string>
-<string id="enc_wpn_addon_sil_usp">
-<text>Muffler that is specially used for the USP pistol versions.</text>
-</string>
-
-<string id="wpn_addon_launcher_hk79">
-<text>Heckler-Koch 79</text>
-</string>
-<string id="enc_wpn_addon_launcher_hk79">
-<text>Grenade Launcher HK79 designed by the German company Heckler and Koch for installation on the rifle of the same company, such as 7.62mm and 5.56mm G3 HK33 and G41. In addition to the German armed forces the grenade used in the Norwegian Armed Forces and several other countries had on of HK G3 rifle arms .The under-barrel grenade launcher HK79 single-shot with a rifled barrel. The barrel in front of the pivotally attached to the frame of the grenade launcher and his breech for recharging leans down. Trunk latch is located in the rear of the grenade, there is located a lever manual cocking the hammer and lock. The shutter release button is on the left side of the frame grenade launcher, on its barrel. On rifle NK79 is attached instead of the standard forearm.</text>
-</string>
-
 	<!-- BLADES -->
 	<!-- SCOPES -->
 <string id="wpn-scope_elcan">
@@ -109,24 +81,6 @@
 </string>
 <string id="enc_arsenal_scope_m1_descr">
 <text>POSP 3-9x42V relates to an optical sight, which can be used in the dark with a built-in backlight\nAdjustment knobs provide for lateral and angular correction\nThe alternating colour reticle illumination rangefinder lets you easily determine the distance to the subject under observation\nThe internal part of the body is filled with nitrogen, which prevents the formation of moisture on the lenses inside, and possible corrosion of metal components\nUses a standard dovetail mounting of 1" diam.\nDesigned for use on the SVU-AS sniper rifle</text>
-</string>
-<string id="wpn_addon_zrak_scope1">
-<text>Zastava optical sight</text>
-</string>
-<string id="enc_weapons_addon_zrak_scope1">
-<text>'Zrak' is the optical sight that is specially used for Zastava snipers family.</text>
-</string>
-<string id="wpn_addon_ik_scope">
-<text>IR head</text>
-</string>
-<string id="enc_weapons_wpn_addon_ik_scope">
-<text>Infrared head for optical sights, used for comfortable aiming in the dark.</text>
-</string>
-<string id="wpn_addon_hensoldt_scope">
-<text>Hensoldt Fero-Z24</text>
-</string>
-<string id="enc_weapons_wpn_addon_hensoldt_scope">
-<text>4-x the multiple optical sight Hensoldt Fero-Z24 on HK STANAG bracket, designed for installation to a G3 assault rifles and G41, as well as the MP5 submachine gun.</text>
 </string>
 	<!-- AMMUNITION -->
 	<!-- GLOWING GRENADES -->

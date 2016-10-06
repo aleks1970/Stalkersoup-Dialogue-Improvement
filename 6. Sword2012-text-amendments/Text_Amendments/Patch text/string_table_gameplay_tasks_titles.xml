@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.6  StalkerSoup game tasks - titles aleks1970, boatswain, minor spelling,
+<!-- TB3D 1.1.0.0.0.5  StalkerSoup game tasks - titles aleks1970, boatswain, minor spelling,
  corrected "<string id=" section with "Artefact" back to the "artifact" - aleks1970, Get_Night, seal, lukash -->
  <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 24 Feb 16 -->
  <!-- Changed one instance of 'Clerk' to Clerik' - Sword2012. 07 Apr 16, removed commas -->
@@ -696,7 +696,7 @@
 		<text>Find a PKM machine gun for Sviblov</text>
 	</string>
 	<string id="Bring_Sviblov_brain_of_controller_gameplay_titles">
-		<text>Find a Controller's brain for Sviblov</text>
+		<text>Find a Controller's brain for Sviblov </text>
 	</string>
 	<string id="Get_Clerk_Soul_gameplay_titles">
 		<text>Find a Soul artefact for Clerik</text>

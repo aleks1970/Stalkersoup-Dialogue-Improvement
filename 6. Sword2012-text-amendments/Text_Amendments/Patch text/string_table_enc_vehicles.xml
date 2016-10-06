@@ -1,4 +1,5 @@
-<!-- TB3D 1.1.0.0.0.4 added vehicles, land rover, removed "string_table" - aleks1970   -->
+<!-- TB3D 1.0.9.9.9.8 added vehicles, land rover, removed "string_table" - aleks1970 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 04 Mar 16 -->
 
 
 	<string id="Vehicles">
@@ -6,83 +7,83 @@
 	</string>
 	
 	<string id="vehicles_icarus260_name">
-		<text>ICARUS 260</text>
+		<text>Ikarus 260</text>
 	</string>
 	
 	<string id="enc_vehicles_icarus260">
-		<text>-</text>
+		<text>Mid-engined 11m long city bus</text>
 	</string>
 	
 	<string id="vehicles_laz4202_name">
-		<text>LAZ 4202</text>
+		<text>LAZ-4202</text>
 	</string>
 	
 	<string id="enc_vehicles_laz4202">
-		<text>-</text>
+		<text>Ukrainian city bus</text>
 	</string>
 	
 	<string id="vehicles_kavz685_name">
-		<text>KAVZ 685</text>
+		<text>KAvZ 685</text>
 	</string>
 	
 	<string id="enc_vehicles_kavz685">
-		<text>-</text>
+		<text>Multi-purpose heavy duty bus</text>
 	</string>
 	
 	<string id="vehicles_sport_baggi_name">
-		<text>Sport Baggi</text>
+		<text>Sports Buggy</text>
 	</string>
 	
 	<string id="enc_vehicles_sport_baggi">
-		<text>Great for swampy areas and deep sand.</text>
+		<text>Unsurpassed for swampy areas and deep sand</text>
 	</string>
 	
 	<string id="vehicles_armored_car_name">
-		<text>Armored Car</text>
+		<text>Armoured Car</text>
 	</string>
 	
 	<string id="enc_vehicles_armored_car">
-		<text>Armored transport vehicle.</text>
+		<text>Armoured transport vehicle</text>
 	</string>
 	
 	<string id="vehicles_btr80_name">
-		<text>BTR80</text>
+		<text>BTR-80</text>
 	</string>
 	
 	<string id="enc_vehicles_btr80">
-		<text>Medium range assault tank.</text>
+		<text>Medium range assault tank</text>
 	</string>
 	
 	<string id="vehicles_btr90_name">
-		<text>BTR90</text>
+		<text>BTR-90</text>
 	</string>
 	
 	<string id="enc_vehicles_btr90">
-		<text>Long range assault tank.</text>
+		<text>Long-range assault tank</text>
 	</string>
 	
 	<string id="vehicles_vezdehod_name">
-		<text>Vezdehod</text>
+		<text>Vezdekhod</text>
 	</string>
 	
 	<string id="enc_vehicles_vezdehod">
-		<text>-</text>
+		<text>WW1 tank</text>
 	</string>
 	
 	<string id="vehicles_gaz24_name">
-		<text>GAZ24</text>
+		<text>GAZ-24</text>
 	</string>
 	
 	<string id="enc_vehicles_gaz24">
-		<text>-</text>
+		<text>Saloon car</text>
 	</string>
 	
 	<string id="vehicles_gaz66_name">
-		<text>GAZ66</text>
+		<text>GAZ-66</text>
 	</string>
 	
 	<string id="enc_vehicles_gaz66">
-		<text>-</text>
+		<text>4x4 Military truck</text>
 	</string>
 	
 	<string id="vehicles_zaz965_name">
@@ -98,31 +99,31 @@
 	</string>
 	
 	<string id="enc_vehicles_zaz968">
-		<text>ZAZ-968 Hunchback</text>
+		<text>ZAZ-968 Saloon car</text>
 	</string>
 	
 	<string id="vehicles_zil130_name">
-		<text>ZIL130</text>
+		<text>ZIL-130</text>
 	</string>
 	
 	<string id="enc_vehicles_zil130">
-		<text>-</text>
+		<text>Cargo truck</text>
 	</string>
 	
 	<string id="vehicles_zil131_name">
-		<text>ZIL131</text>
+		<text>ZIL-131</text>
 	</string>
 	
 	<string id="enc_vehicles_zil131">
-		<text>-</text>
+		<text>3.5 ton 6x6 Army truck</text>
 	</string>
 	
 	<string id="vehicles_zil130_truck_name">
-		<text>ZIL130 Truck</text>
+		<text>ZIL-130 Truck</text>
 	</string>
 	
 	<string id="enc_vehicles_zil130_truck">
-		<text>-</text>
+		<text>Cargo truck</text>
 	</string>
 	
 	<string id="vehicles_lada2103_name">
@@ -130,7 +131,7 @@
 	</string>
 	
 	<string id="enc_vehicles_lada2103">
-		<text>-</text>
+		<text>Small passenger car</text>
 	</string>
 	
 	<string id="vehicles_lada2106_name">
@@ -138,7 +139,7 @@
 	</string>
 	
 	<string id="enc_vehicles_lada2106">
-		<text>-</text>
+		<text>Passenger saloon car</text>
 	</string>
 	
 	<string id="vehicles_moskvitch_name">
@@ -146,7 +147,7 @@
 	</string>
 	
 	<string id="enc_vehicles_moskvitch">
-		<text>Soviet Police vehicle.</text>
+		<text>Soviet Police vehicle</text>
 	</string>
 	
 	<string id="Kamaz">
@@ -158,7 +159,7 @@
 	</string>
 	
 	<string id="enc_vehicles_kamaz">
-		<text>A commonly used Soviet truck.</text>
+		<text>A commonly used Soviet truck</text>
 	</string>
 	
 	<string id="vehicles_kamaz_military_name">
@@ -186,7 +187,7 @@
 	</string>
 	
 	<string id="enc_vehicles_niva_sport">
-		<text>An off-road and racing car.</text>
+		<text>An off-road vehicle</text>
 	</string>
 	
 	<string id="vehicles_t40_name">
@@ -194,7 +195,7 @@
 	</string>
 	
 	<string id="enc_vehicles_t40">
-		<text>-</text>
+		<text>WW2 amphibious scout tank</text>
 	</string>
 	
 	<string id="vehicles_raf_name">
@@ -214,7 +215,7 @@
 	</string>
 	
 	<string id="enc_vehicles_uaz">
-		<text>Soviet army jeep.</text>
+		<text>Soviet army 4x4</text>
 	</string>
 	
 	<string id="vehicles_uaz469_uniq_name">
@@ -222,15 +223,15 @@
 	</string>
 	
 	<string id="enc_vehicles_uaz469_uniq">
-		<text>-</text>
+		<text>Off-road military light utility vehicle</text>
 	</string>
 	
 	<string id="vehicles_uaz469_open_name">
-		<text>UAZ-469 Open Cab</text>
+		<text>UAZ-469 open cab</text>
 	</string>
 	
 	<string id="enc_vehicles_uaz469_open">
-		<text>-</text>
+		<text>Off-road military light utility vehicle</text>
 	</string>
 	
 	<string id="vehicles_uaz_buhanka_name">
@@ -242,11 +243,11 @@
 	</string>
 	
 	<string id="vehicles_ural4320_name">
-		<text>URAL4320</text>
+		<text>Ural 4320</text>
 	</string>
 	
 	<string id="enc_vehicles_ural4320">
-		<text>-</text>
+		<text>General purpose off-road 6x6 truck</text>
 	</string>
 	
 	<string id="vehicles_dodge_name">
@@ -254,7 +255,7 @@
 	</string>
 	
 	<string id="enc_vehicles_dodge">
-		<text>Dependable cheap transportation.</text>
+		<text>Dependable, cheap transportation</text>
 	</string>
 	
 	<string id="vehicles_ferrari_name">
@@ -262,15 +263,15 @@
 	</string>
 	
 	<string id="enc_vehicles_ferrari">
-		<text>Sporty Itallian car, way out of place here!</text>
+		<text>Italian sports car. Way out of place here!</text>
 	</string>
 	
 	<string id="vehicles_hummer_name">
-		<text>HUMMER</text>
+		<text>Hummer</text>
 	</string>
 	
 	<string id="enc_vehicles_hummer">
-		<text>Rugged but uneconomical transport vehicle.</text>
+		<text>Rugged and uneconomical transport vehicle</text>
 	</string>
 	
 	<string id="vehicles_land_rover_name">
@@ -278,7 +279,7 @@
 	</string>
 	
 	<string id="enc_vehicles_land_rover">
-		<text>Land Rover popular with scientists, used for harsh environments.</text>
+		<text>Land Rover. Rugged 4x4 popular with scientists. Useful in harsh environments</text>
 	</string>
 	
 	<string id="vehicles_tb3d_atv">
@@ -286,29 +287,29 @@
 	</string>
 	
 	<string id="enc_vehicles_tb3d_atv">
-		<text>Quad ATV commonly used to move across vast areas quickly.</text>
+		<text>Quad ATV commonly used to move quickly across vast uneven areas</text>
 	</string>
 
 	<string id="btr-70">
 		<text>BTR-70</text>
 	</string>
 	<string id="enc_vehicles_btr-70">
-		<text>An armored personnel carrier.</text>
+		<text>Armoured personnel carrier</text>
 	</string>
 	
 	<string id="mi-24">
 		<text>Mi-24 helicopter</text>
 	</string>	
 	<string id="vehicles_mi24_name">
-		<text>MI-24 Assault Helicopter</text>
+		<text>Mi-24 Assault Helicopter</text>
 	</string>
 	<string id="enc_vehicles_mi-24">
-		<text>An army assault helicopter.</text>
+		<text>Army assault helicopter</text>
 	</string>
 	
 	<string id="Zaporozh">
 		<text>Zaporozhets</text>
 	</string>
 	<string id="enc_vehicles_zaporozh">
-		<text>A small Soviet car.</text>
+		<text>Small Soviet car</text>
 	</string>

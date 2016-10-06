@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.6 commented out mutant parts, changed Devil to Bes, 880 max to prapor, 1137 Tolia to Tolik, minor edits,
+<!-- TB3D 1.1.0.0.0.4 commented out mutant parts, changed Devil to Bes, 880 max to prapor, 1137 Tolia to Tolik, minor edits,
 several edits, moved bar_dolg_ivancov_start_41 and bar_dolg_petrenko_start_5 to stable_dialogs_bar, YURICK to Yurek, The Doctor,
 life heart 41-11, artmod_873_dialog_0, removed some hard returns, artmod_821, 841, 851, 661, 511, enc_artmod_medusa_galant_text,
 new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, removed '-' -->
@@ -67,7 +67,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Here, it's yours...</text>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_3">
-		<text>Amazing! Simply amazing! Okay, here's the trail. I'll mark it on your map, from Agroprom leading straight here. See?\nHowever, I don't know the way back. There's evidence that the Military at Agroprom have documents that show the location of the road. But the case with those documents has gone missing. Do you think you could find them for us?</text>
+		<text>Amazing! Simply amazing! Okay, here's the trail. I'll mark it on your map, from Agroprom leading straight here. See? \nHowever, I don't know the way back. There's evidence that the Military at Agroprom have documents that show the location of the road. But the case with those documents has gone missing. Do you think you could find them for us?</text>
 	</string>
 	<string id="yan_scientist_find_case_0">
 		<text>Are these documents still around Agroprom?</text>
@@ -155,13 +155,13 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 	</string>
 	<!-- moved string id: "ammo-5.7x28_name" in to the string_table_enc_weapons file -aleks1970 -->
 	<string id="enc_weapons1_wpn-pkm">
-		<text>Ammunition -\n: 7.62x54mm\nCapacity -\n: 100 rounds\n.\nThis extremely rare weapon is found only in heavily armed detachments of Military Stalkers. Because of its large size and weight, it requires the use of Exoskeleton armour, to which it must be physically attached.\nThe original PK Pulemyot Kalashnikova or 'Kalashnikov's Machinegun' was a development of Kalashnikov's automatic rifle design, firing the 7.62x54mmR Eastern Bloc standard ammunition originally from the Mosin-Nagant.\nIt is equipped with a simple bipod, and designed as a squad-level support weapon. It is also suitable for fixed installation and vehicle mounting, and can be used as a light anti-aircraft weapon when fixed to an AA mount.\nMost are belt-fed, using linked 25-round belts, which can be joined together to create any length necessary. Typical of Soviet machine guns, the standard model feeds from the right, and expels its spent cases via an ejection port on the left side of the weapon, contrary to the RH side ejection port on most Western machine guns.\nThe current model is the PKM Kalashnikov's Machinegun Modernized, an improved version of the PK and weighing only 7.5kg when empty</text>
+		<text>Ammunition -\n: 7.62x54mm\n Capacity -\n: 100 rounds\n.\nThis extremely rare weapon is found only in heavily armed detachments of Military Stalkers. Because of its large size and weight, it requires the use of Exoskeleton armour, to which it must be physically attached.\nThe original PK Pulemyot Kalashnikova or 'Kalashnikov's Machinegun' was a development of Kalashnikov's automatic rifle design, firing the 7.62x54mmR Eastern Bloc standard ammunition originally from the Mosin-Nagant. \nIt is equipped with a simple bipod, and designed as a squad-level support weapon. It is also suitable for fixed installation and vehicle mounting, and can be used as a light anti-aircraft weapon when fixed to an AA mount. \nMost are belt-fed, using linked 25-round belts, which can be joined together to create any length necessary. Typical of Soviet machine guns, the standard model feeds from the right, and expels its spent cases via an ejection port on the left side of the weapon, contrary to the RH side ejection port on most Western machine guns.\nThe current model is the PKM Kalashnikov's Machinegun Modernized, an improved version of the PK and weighing only 7.5kg when empty</text>
 	</string>
 	<string id="wpn-pkm_name">
 		<text>PKM Pulemyot Kalashnikova</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54r_box">
-		<text>Regular sniper cartridge for the SVD rifle, SVU-AS rifle, and the PKM machine gun. Available in 100 or 250 round belts for the manual version of the PKM machine gun.\nDespite the fact that the 7N1 cartridge was adopted in 1967, it is 2-3 times less accurate than the 7N13 in terms of dispersion. Also, due to the cold stamped steel core, the shell does not fragment on penetration, thus causing less internal damage</text>
+		<text>Regular sniper cartridge for the SVD rifle, SVU-AS rifle, and the PKM machine gun. Available in 100 or 250 round belts for the manual version of the PKM machine gun.\n Despite the fact that the 7N1 cartridge was adopted in 1967, it is 2-3 times less accurate than the 7N13 in terms of dispersion. Also, due to the cold stamped steel core, the shell does not fragment on penetration, thus causing less internal damage</text>
 	</string>
 	<string id="ammo-7.62x54r_100_s">
 		<text>7.62x54mm (100)</text>
@@ -263,13 +263,13 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 	</string>
 	<!-- AR -->
 	<string id="enc_info_red_battery_text">
-		<text>%c[255,255,255,255]Endurance %c[255,1,255,1]+182\n%c[255,255,255,255]Impact %c[255,1,255,1]+8 %\n%c[255,255,255,255]Electric Shock %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproof Cap %c[255,1,255,1]+2 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nUnique artefact resembling a regular 'Battery' in appearance, but red. Radioactive, and emits light. Has a positive effect on the restoration of stamina, and offers some cushioning from impact. The 'Ruby Battery' should partially nullify the effects of the 'Elektra' and 'Vortex' anomalies\n \nFormed when a 'Battery' reacts with a 'Snow' anomaly\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n%c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+		<text>%c[255,255,255,255]Endurance %c[255,1,255,1]+182\n%c[255,255,255,255]Impact %c[255,1,255,1]+8 %\n%c[255,255,255,255]Electric Shock %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproof Cap %c[255,1,255,1]+2 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nUnique artefact resembling a regular 'Battery' in appearance, but red. Radioactive, and emits light. Has a positive effect on the restoration of stamina, and offers some cushioning from impact. The 'Ruby Battery' should partially nullify the effects of the 'Elektra' and 'Vortex' anomalies \n \nFormed when a 'Battery' reacts with a 'Snow' anomaly\n %c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n %c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n %c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
 	</string>
 	<string id="enc_info_red_spring_text">
-		<text>%c[255,255,255,255]Impact %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion %c[255,1,255,1]+6 %\n%c[255,255,255,255]Bulletproof Cap %c[255,1,255,1]+4 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nUnique artifact resembling a regular 'Spring' in appearance, but red. Slightly radioactive, and emits light. Offers cushioning from impact. The 'Ruby Spring' should partially nullify the effects of the 'Whirligig' anomaly\n \nFormed when a 'Spring' reacts with a 'Snow' anomaly\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n%c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+		<text>%c[255,255,255,255]Impact %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion %c[255,1,255,1]+6 %\n%c[255,255,255,255]Bulletproof Cap %c[255,1,255,1]+4 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nUnique artifact resembling a regular 'Spring' in appearance, but red. Slightly radioactive, and emits light. Offers cushioning from impact. The 'Ruby Spring' should partially nullify the effects of the 'Whirligig' anomaly \n \nFormed when a 'Spring' reacts with a 'Snow' anomaly\n %c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n %c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n %c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
 	</string>
 	<string id="enc_info_red_pellicle_text">
-		<text>%c[255,255,255,255]Health %c[255,1,255,1]+700 %\n%c[255,255,255,255]Bleeding %c[255,1,255,1]-33 %\n%c[255,255,255,255]Impact %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproof Cap %c[255,255,1,1]-50 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nUnique artifact resembling a regular 'Pellicle' in appearance, but red. Slightly radioactive, and emits light. Has the remarkable effect of rapidly healing open wounds, while detrimentally attracting small particles of metal in motion I.e. Bullets. The 'Ruby Pellicle' should partially nullify the effects of the 'Springboard' anomaly\n \nFormed when a 'Pellicle' reacts with a 'Snow' anomaly\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n%c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+		<text>%c[255,255,255,255]Health %c[255,1,255,1]+700 %\n%c[255,255,255,255]Bleeding %c[255,1,255,1]-33 %\n%c[255,255,255,255]Impact %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproof Cap %c[255,255,1,1]-50 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nUnique artifact resembling a regular 'Pellicle' in appearance, but red. Slightly radioactive, and emits light. Has the remarkable effect of rapidly healing open wounds, while detrimentally attracting small particles of metal in motion I.e. Bullets. The 'Ruby Pellicle' should partially nullify the effects of the 'Springboard' anomaly \n \nFormed when a 'Pellicle' reacts with a 'Snow' anomaly\n %c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n %c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n %c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
 	</string>
 	<string id="enc_enc_info_way100a_text">
 		<text>Transition discovered from Agroprom to the Cordon</text>
@@ -326,7 +326,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>There is a class of anomalies beyond comprehension. One is the Jumper. This anomaly will teleport matter a great distance away in an incredibly small period of time, while whatever's inside experiences no discomfort nor awareness of the passing of time or space. It's rumoured that one of these can teleport you directly to the Monolithian Base at the NPP, and that's it's at the Army Warehouses</text>
 	</string>
 	<string id="ways_info_way100a_text">
-		<text>\nMilitary Troop Commander\nCordon Defense\nReport\n14 Sept 2012 - at 2200 hours in the evening, roll call revealed the absence of three soldiers entrusted to my unit, located in the area of the former Agricultural Institute. Further investigation revealed that the missing soldiers were repeatedly insubordinate to their NCOs, and regularly absconded to visit the trader known as Sidorovich, who supplied them with cigarettes and alcohol.\nAccording to their colleagues, they had discovered a hidden passage to the Cordon. The location and approach to this passage are detailed on the attached sketch-map. The searches for my missing soldiers is still ongoing</text>
+		<text>\nMilitary Troop Commander \nCordon Defense \nReport \n14 Sept 2012 - at 2200 hours in the evening, roll call revealed the absence of three soldiers entrusted to my unit, located in the area of the former Agricultural Institute. Further investigation revealed that the missing soldiers were repeatedly insubordinate to their NCOs, and regularly absconded to visit the trader known as Sidorovich, who supplied them with cigarettes and alcohol. \nAccording to their colleagues, they had discovered a hidden passage to the Cordon. The location and approach to this passage are detailed on the attached sketch-map. The searches for my missing soldiers is still ongoing</text>
 	</string>
 	<string id="ways_info_way101a_text">
 		<text>Explorer: Near the vicinity of the former farm is an unregistered transition to Agroprom</text>
@@ -383,7 +383,10 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Unique BCC 'Vintorez'</text>
 	</string>
 	<string id="enc_wpn_vintorez_m1">
-		<text>Ammunition -\n: 9x39mm SP-6 - armor\n: 9x39mm SP-5 - sniper\nSpecial 'Vintorez' sniper rifle. Optical (daytime) and electro-optical (night) sights enable accurate shooting at a distance, and an integrated silencer ensures noise-free, flashless shots. A peculiarity of this unique weapon is the low wear and tear of the barrel. Rumour has it that this rifle has been enhanced by placement inside an anomaly</text>
+		<text>Ammunition -
+		\n: 9x39mm SP-6 - armoR
+		\n: 9x39mm SP-5 - snipeR
+		\nSpecial 'Vintorez' sniper rifle. Optical (daytime) and electro-optical (night) sights enable accurate shooting at a distance, and an integrated silencer ensures noise-free, flashless shots. A peculiarity of this unique weapon is the low wear and tear of the barrel. Rumour has it that this rifle has been enhanced by placement inside an anomaly</text>
 	</string>
 	<string id="playboy_name">
 		<text>Playboy Magazine</text>
@@ -404,7 +407,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>I need a better weapon. Are there any special jobs I can do to earn one?</text>
 	</string>
 	<string id="artmod_861_dialog_1">
-		<text>One Stalker is in possession of a document I really need. I won't say who, nor from where, but it was quite near here that he fell into an anomaly. He survived, but the document was lost. I'd have gone looking for it myself, but I can't leave these Rookies alone. Find this document, bring it to me, and I'll give you an AK-74U as a reward. It's in the underpass under the railroad tracks, directly to the North.\nWill you do this for me?</text>
+		<text>One Stalker is in possession of a document I really need. I won't say who, nor from where, but it was quite near here that he fell into an anomaly. He survived, but the document was lost. I'd have gone looking for it myself, but I can't leave these Rookies alone. Find this document, bring it to me, and I'll give you an AK-74U as a reward. It's in the underpass under the railroad tracks, directly to the North. \nWill you do this for me?</text>
 	</string>
 	<string id="artmod_861_dialog_2">
 		<text>Okay, if it's still there, in the underpass, I'll find it for you</text>
@@ -627,7 +630,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Found a PDA near the Psi-Emitter. In amongst all the gibberish was an artefact transmutation recipe</text>
 	</string>
 	<string id="quest_manycase_01_desc">
-		<text>Fireproof steel case with a combination lock\nContents: Cash</text>
+		<text>Fireproof steel case with a combination lock\n Contents: Cash</text>
 	</string>
 	<string id="quest_manycase_01_name">
 		<text>Steel case</text>
@@ -756,7 +759,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Yep, ten bottles as requested. The real deal, too...</text>
 	</string>
 	<string id="artmod_142_dialog_3">
-		<text>Well done Stalker! I remembered your reward - three boxes of ammo. Oh, and the recipe. Let me put that in your PDA.\nIf you need any gear from me in future, don't forget to bring vodka!\nThere's another little matter I'd like to discuss with you, but it can wait until later...</text>
+		<text>Well done Stalker! I remembered your reward - three boxes of ammo. Oh, and the recipe. Let me put that in your PDA.\nIf you need any gear from me in future, don't forget to bring vodka! \nThere's another little matter I'd like to discuss with you, but it can wait until later...</text>
 	</string>
 	<string id="tex_esc_bridge_vodka">
 		<text>\nMajor Kuznetsov can supply rounds for an AK-74, plus useful information on artefact transformation, in exchange for ten bottles of vodka. He also promised further bargains to be had upon the successful execution of a personal favour</text>
@@ -768,7 +771,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>I'm not sure. The blind dogs around here seem to getting even more mutated, so even the tiniest cut could mean the difference between life and death! You have to cut out the piece of contaminated flesh completely, and disinfect it immediately.\nIf you're up to it, bring me a dozen first-aid kits. I'll give you another artefact recipe, okay?</text>
 	</string>
 	<string id="artmod_161_dialog_2">
-		<text>Okay, I'll get them for you\nAh, the Zone! It's like shit - the deeper you're in, the worse it gets!</text>
+		<text>Okay, I'll get them for you \n Ah, the Zone! It's like shit - the deeper you're in, the worse it gets!</text>
 	</string>
 	<string id="artmod_161_dialog_3">
 		<text>Sorry Fox, but I need to move on. You're on your own...</text>
@@ -819,7 +822,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>What a day! Okay, what do you need?</text>
 	</string>
 	<string id="artmod_811_dialog_1">
-		<text>I just arrived yesterday from the Cordon, I don't know how...\nI wanted to prove to everyone at the rookie camp that I'm worthy, but as soon as I'd left there I was mugged by Bandits. If I return now, they'll all laugh at me. If I could just get part of a mutant - you know, something like a Burer - then I could hold my head high when I go back. If you have one spare, I'll tell you about a special artefact...</text>
+		<text>I just arrived yesterday from the Cordon, I don't know how... \nI wanted to prove to everyone at the rookie camp that I'm worthy, but as soon as I'd left there I was mugged by Bandits. If I return now, they'll all laugh at me. If I could just get part of a mutant - you know, something like a Burer - then I could hold my head high when I go back. If you have one spare, I'll tell you about a special artefact...</text>
 	</string>
 	<string id="artmod_811_dialog_2">
 		<text>A Burer? You sure you don't want something easier? Like a Bloodsucker or a Chimera? Okay, I'll see what I can do for you...</text>
@@ -846,7 +849,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Interested in conducting business?</text>
 	</string>
 	<string id="artmod_831_dialog_1">
-		<text>Maybe you can do a favour for me and my group?\nOld Stalkers - you know, the ones still alive - they know that a gulp of vodka increases your resistance to radiation and anomalies. They also know that one gulp leads to the whole bottle!\nThere are eight of us here, so if you bring me eight bottles of vodka, and eight boar hooves, I'll give you a very useful and expensive artefact\nDo you agree?</text>
+		<text>Maybe you can do a favour for me and my group? \nOld Stalkers - you know, the ones still alive - they know that a gulp of vodka increases your resistance to radiation and anomalies. They also know that one gulp leads to the whole bottle! \nThere are eight of us here, so if you bring me eight bottles of vodka, and eight boar hooves, I'll give you a very useful and expensive artefact \nDo you agree?</text>
 	</string>
 	<string id="artmod_831_dialog_2">
 		<text>I'm happy to help, as long you're not just using me to get drunk...</text>
@@ -864,7 +867,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Here's your vodka and hooves. Took me a while, but I found them all eventually</text>
 	</string>
 	<string id="artmod_832_dialog_3">
-		<text>Thank you, bro. Now my guys will feel like terminators!\nHere's our gift to you, a Ruby Pellicle. If you're sick, it'll help you heal faster. And if you want another, you can make it from a standard Pellicle. Just throw it into a 'Snowball' anomaly and leave it there for ten minutes\nOh - nearly forgot - one of these can destroy an anomaly, but I've forgotten which one...</text>
+		<text>Thank you, bro. Now my guys will feel like terminators! \n Here's our gift to you, a Ruby Pellicle. If you're sick, it'll help you heal faster. And if you want another, you can make it from a standard Pellicle. Just throw it into a 'Snowball' anomaly and leave it there for ten minutes \nOh - nearly forgot - one of these can destroy an anomaly, but I've forgotten which one...</text>
 	</string>
 	<string id="tex_val_pula_boar_leg">
 		<text>Prapor needs eight wild boar hooves, and eight bottles of vodka. In exchange, he promises an unusual artefact</text>
@@ -1710,6 +1713,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>alone will remain between us? Can you pass one thing to Miser?</text>
 	</string>
 	<string id="artmod_511_dialog_2">
+
 		<text>Sure, why not..</text>
 	</string>
 	<string id="artmod_511_dialog_3">
@@ -1937,7 +1941,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 	</string>
 	<!-- AR -->
 	<string id="enc_artmod_life_heart_ice_zone_text">
-		<text>%c[default]\nunique, very rare artifact. It has truly miraculous properties - to resurrect the dead! The only drawback - a large burden.\n.\nArtifact produced by a joint anomalies in the transmutation of "Snow" just four artifacts:\nNight Star "Goldfish", "Sea urchin", "Babys dummy".\n%c[255,255,255,255]Time transmutation %c[255,224,224,160]5 minutes Zones\n%c[255,255,255,255]The probability of successful transmutation %c[255,1,255,1] 100% %c[default]</text>
+		<text>%c[default]\nunique, very rare artifact. It has truly miraculous properties - to resurrect the dead! The only drawback - a large burden.\n.\nArtifact produced by a joint anomalies in the transmutation of "Snow" just four artifacts:\nNight Star "Goldfish", "Sea urchin", "Babys dummy".\n %c[255,255,255,255]Time transmutation %c[255,224,224,160]5 minutes Zones\n %c[255,255,255,255]The probability of successful transmutation %c[255,1,255,1] 100% %c[default]</text>
 	</string>
 	<string id="af_life_heart">
 		<text>The heart</text>

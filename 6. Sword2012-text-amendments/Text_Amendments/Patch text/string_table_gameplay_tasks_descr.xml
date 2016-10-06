@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.4 StalkerSoup game tasks - descriptions aleks1970, life heart, explore the hospital, Tushkan heads, boatswain, minor edits, lukash, Miser -->
+<!-- TB3D 1.1.0.0.0.0 StalkerSoup game tasks - descriptions aleks1970, life heart, explore the hospital, Tushkan heads, boatswain, minor edits, lukash, Miser -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Mar 16 -->
-<!-- Changed all instances of 'Clerk' to Clerik' - Sword2012. 07 Apr 16 -->
 <string_table>
 	<string id="useful_information_gameplay_descriptions">
 		<text>Got any useful information?</text>
@@ -1096,7 +1095,7 @@
 		<text>Bring the three diaries to Ghost</text>
 	</string>
 	<string id="Report_to_Clerk_gameplay_descriptions">
-		<text>Report to Clerik</text>
+		<text>Report to Clerk</text>
 	</string>
 	<string id="Bring_Sviblov_the_brain_controller_gameplay_descriptions">
 		<text>Bring Sviblov the brain of a controller</text>
@@ -1324,13 +1323,13 @@
 		<text>Talk to Clear Sky scout Kashcheev</text>
 	</string>
 	<string id="Bring_Soul_artifact_Clerk_gameplay_descriptions">
-		<text>Bring a Soul artefact to Clerik</text>
+		<text>Bring a Soul artefact to Clerk</text>
 	</string>
 	<string id="Find_Clerk_Soul_artifact_gameplay_descriptions">
-		<text>Find Clerik a Soul artefact</text>
+		<text>Find Clerk a Soul artefact</text>
 	</string>
 	<string id="Get_Clerk_Soul_gameplay_descriptions">
-		<text>Get Clerik a Soul artefact</text>
+		<text>Get Clerk a Soul artefact</text>
 	</string>
 	<string id="three_cans_kalmyak_salve_Basil_gameplay_descriptions">
 		<text>Bring three tins of Kalmyak's salve to Basil</text>

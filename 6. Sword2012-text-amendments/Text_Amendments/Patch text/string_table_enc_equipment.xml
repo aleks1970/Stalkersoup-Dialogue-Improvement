@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!-- TB3D 1.1.0.0.0.6 minor edits 700 - end of file, hand_radio, attachable_item, Astrologer, The Doctor, gold bars, fosfor_r,g,b,y, Bomb Casing, item_arhara_instruk, item_flyga_s, removed includes, Fang -->
+<!-- TB3D 1.1.0.0.0.5 minor edits 700 - end of file, hand_radio, attachable_item, Astrologer, The Doctor, gold bars, fosfor_r,g,b,y, Bomb Casing, item_arhara_instruk, item_flyga_s, removed includes, Fang -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for accuracy, clarity, brevity, and consistency. 07 Apr 16 -->
 <!-- All Simulators in Lines 1234-1267 were designated 'Simulator 1'. Changed to Simulators 1-4 according to string line, without understanding context - Sword2012. 07 Apr 16, armor -->
 <!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
@@ -43,7 +43,7 @@
 		<text>Bread</text>
 	</string>
 	<string id="item_mozg">
-		<text>2nd Chernobyl NPP2 Controller's Brain</text>
+		<text> 2nd Chernobyl NPP2 Controller's Brain</text>
 	</string>
 	<string id="item_mozg_s">
 		<text>Brain</text>
@@ -133,7 +133,7 @@
 		<text>Powerful flashlight. Recharge time improved by using the latest battery technology, and a more efficient transducer</text>
 	</string>
 	<string id="enc_equipment_energydrink">
-		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\nThe warning label states that 'Consumption in excessive quantities has proven lethal'</text>
+		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\n The warning label states that 'Consumption in excessive quantities has proven lethal'</text>
 	</string>
 	<string id="enc_equipment_energydrinka">
 		<text>Nondescript can of unknown origin.\nNo, that can't be - is that a beer?</text>
@@ -635,7 +635,7 @@
 		<text>Casket</text>
 	</string>
 	<string id="enc_item_shkatulka_descr">
-		<text>On the reverse side reads an inscription - 'Master Khabarych'. Inside are papers on which the numbers 434018 and 206018 are written, and a short message:\n'Coded doors in Bunker #3. I have only found two, so that means there must be another - but where? I have heard of a place where there is a safe - still locked, but intact - and within it may lie the answer. The missing code?'\nOther than illegible scribble, there's nothing else inside...</text>
+		<text>On the reverse side reads an inscription - 'Master Khabarych'. Inside are papers on which the numbers 434018 and 206018 are written, and a short message:\n 'Coded doors in Bunker #3. I have only found two, so that means there must be another - but where? I have heard of a place where there is a safe - still locked, but intact - and within it may lie the answer. The missing code?'\nOther than illegible scribble, there's nothing else inside...</text>
 	</string>
 	<string id="item_arhara_seif">
 		<text>Small safe</text>
@@ -1023,7 +1023,7 @@
 		<text>Amanita</text>
 	</string>
 	<string id="enc_equipment_amanita_mushroom">
-		<text>Although slightly radioactive, the Amanita mushroom is edible after prolonged boiling - but be warned. A common ingredient in the manufacture of potent tranquilizers and pain medication, it's often used by local drug addicts for its variety of hallucinegenic effects. It grows mostly in marshland, and has a tendency to disintegrate if kept for too long once plucked from the ground</text>
+		<text> Although slightly radioactive, the Amanita mushroom is edible after prolonged boiling - but be warned. A common ingredient in the manufacture of potent tranquilizers and pain medication, it's often used by local drug addicts for its variety of hallucinegenic effects. It grows mostly in marshland, and has a tendency to disintegrate if kept for too long once plucked from the ground</text>
 	</string>
 	<!-- Duplicated section!!! - game will use text from "dmx_mod_items.xml" file instead - aleks1970 -->
 	<!-- Duplicated string id was moved in to the "dmx_mod_items.xml" file - aleks1970 -->

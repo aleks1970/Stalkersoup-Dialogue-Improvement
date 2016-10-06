@@ -5,7 +5,9 @@ Date: 06.10.2016
 "Patch text" folder contain files from the 1.1.0005 patch version
 -------------------------------------------------------------------
 "Patch text" folder contain files from the 1.1.0006 patch version
-___________________________________________________________________
+-----------------------------------------------------------------------------------------------
+Textual files from the "from 16 Jan 16 and forward" folder are copied in to "Patch text" folder
+_______________________________________________________________________________________________
 
 
 

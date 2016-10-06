@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-<!-- TB3D 1.1.0.0.0.4 -->
+<!-- TB3D 1.0.9.9.9.8 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 04 Mar 16 -->
 
 	<string id="st_activate_artefact">
-		<text>Activate Artefact</text>
+		<text>Activate artefact</text>
 	</string>
 	<string id="st_attach_gl_to_rifle">
-		<text>attach grenade launcher to rifle</text>
+		<text>Attach grenade launcher to rifle</text>
 	</string>
 	<string id="st_attach_scope_to_pistol">
-		<text>attach scope to pistol</text>
+		<text>Attach scope to pistol</text>
 	</string>
 	<string id="st_attach_scope_to_rifle">
-		<text>attach scope to rifle</text>
+		<text>Attach scope to rifle</text>
 	</string>
 	<string id="st_attach_silencer_to_pistol">
-		<text>attach silencer to pistol</text>
+		<text>Attach silencer to pistol</text>
 	</string>
 	<string id="st_attach_silencer_to_rifle">
-		<text>attach silencer to rifle</text>
+		<text>Attach silencer to rifle</text>
 	</string>
 	<string id="st_base_cost">
 		<text>Price</text>
@@ -26,16 +27,16 @@
 		<text>Condition</text>
 	</string>
 	<string id="st_detach_gl">
-		<text>dismount grenade launcher</text>
+		<text>Unmount grenade launcher</text>
 	</string>
 	<string id="st_detach_scope">
-		<text>dismount scope</text>
+		<text>Unmount scope</text>
 	</string>
 	<string id="st_detach_silencer">
-		<text>dismount silencer</text>
+		<text>Unmount silencer</text>
 	</string>
 	<string id="st_dress_outfit">
-		<text>put on the suit</text>
+		<text>Put on the suit</text>
 	</string>
 	<string id="st_drop">
 		<text>Drop</text>
@@ -47,22 +48,22 @@
 		<text>Eat</text>
 	</string>
 	<string id="st_move_on_belt">
-		<text>attach to belt</text>
+		<text>Attach to belt</text>
 	</string>
 	<string id="st_move_to_bag">
-		<text>move to backpack</text>
+		<text>Move to backpack</text>
 	</string>
 	<string id="st_move_to_slot">
-		<text>move to slot</text>
+		<text>Move to slot</text>
 	</string>
 	<string id="st_sell_item">
-		<text>sell item</text>
+		<text>Sell item</text>
 	</string>
 	<string id="st_undress_outfit">
-		<text>take off the suit</text>
+		<text>Take off the suit</text>
 	</string>
 	<string id="st_unload_magazine">
-		<text>remove ammo</text>
+		<text>Remove ammo</text>
 	</string>
 	<string id="st_use">
 		<text>Use</text>
@@ -167,7 +168,7 @@
 		<text>Rest</text>
 	</string>
 	<string id="ui_inv_rifles">
-		<text>Assault Rifles</text>
+		<text>Assault rifles</text>
 	</string>
 	<string id="ui_inv_shop">
 		<text>Shop</text>
@@ -182,7 +183,7 @@
 		<text>Time</text>
 	</string>
 	<string id="ui_inv_total_money">
-		<text>total money</text>
+		<text>Total money</text>
 	</string>
 	<string id="ui_inv_weight">
 		<text>Weight</text>
@@ -227,19 +228,19 @@
 		<text>Preset 3 (F3)</text>
 	</string>
 	<string id="ui_inv_last_buy(F4)">
-		<text>Last Items (F4)</text>
+		<text>Last items (F4)</text>
 	</string>
 	<string id="ui_inv_default(F5)">
-		<text>Default Items (F5)</text>
+		<text>Default items (F5)</text>
 	</string>
 	<string id="ui_st_preset_def">
-		<text>Default Items</text>
+		<text>Default items</text>
 	</string>
 	<string id="ui_inv_reset_items(C)">
-		<text>Reset Items (C)</text>
+		<text>Reset items (C)</text>
 	</string>
 	<string id="ui_inv_cant_buy_item">
-		<text>Can't buy Item</text>
+		<text>Can't buy item</text>
 	</string>
 	<string id="ui_inv_rank_restr">
 		<text>Rank restriction</text>
@@ -260,8 +261,8 @@
 		<text>You already have</text>
 	</string>
 	<string id="ui_st_err_gs_not_available">
-		<text>Live-Link Services are not available at this time.</text>
+		<text>Online services for S.T.A.L.K.E.R. are not available</text>
 	</string>
 	<string id="ui_st_err_sb_master_server_conn_fail">
-		<text>Unable to connect to the Live-Link System</text>
+		<text>Unable to connect to master server</text>
 	</string>

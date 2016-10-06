@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<!-- TB3D 1.1.0.0.0.4, line 308 Russian char., removed "string_table" - aleks1970, Miser -->
+<!-- TB3D 1.1.0.0.0.0, line 308 Russian char., removed "string_table" - aleks1970, Miser -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Mar 16 -->
 
 	<string id="gar_dolg_blokpost_11">
@@ -156,7 +156,7 @@
 		<text>Tell me about yourself</text>
 	</string>
 	<string id="gar_hellcar_start_311131">
-		<text>My name's Bes. I came to these parts three years ago. Like many of the guys in the Zone I'm a fugitive, wanted for two murders and GBH. A few years ago a friend of mine got beat up pretty bad - they literally had to stitch him back together at the hospital. So I paid the bastards who did it a little visit. When the cops showed up, I had to shoot one of them and jump out of a third floor window...\nI've been here since. I've done well in this place, but the list of my crimes has got a little longer too. I try to fight the lawless here, too, just as I did on the outside. I also train up rookies, and teach them to survive in the Zone...</text>
+		<text>My name's Bes. I came to these parts three years ago. Like many of the guys in the Zone I'm a fugitive, wanted for two murders and GBH. A few years ago a friend of mine got beat up pretty bad - they literally had to stitch him back together at the hospital. So I paid the bastards who did it a little visit. When the cops showed up, I had to shoot one of them and jump out of a third floor window... \nI've been here since. I've done well in this place, but the list of my crimes has got a little longer too. I try to fight the lawless here, too, just as I did on the outside. I also train up rookies, and teach them to survive in the Zone...</text>
 	</string>
 	<string id="gar_hellcar_start_3111311">
 		<text>So if you feel that way, why don't you join Duty?</text>
