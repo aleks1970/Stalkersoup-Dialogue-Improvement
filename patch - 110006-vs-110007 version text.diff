@@ -1,0 +1,382 @@
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/dmx_mod_weapons.xml b/4. Accepted text files by TB/Differences for GitHub/eng/dmx_mod_weapons.xml
+index c71d46b..3021723 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/dmx_mod_weapons.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/dmx_mod_weapons.xml	
+@@ -325,7 +325,7 @@
+ 		<text>BM-16 «Predator»</text>
+ 	</string>
+ 	<string id="enc_weapons_wpn_bm16_full">
+-		<text>• Ammunition: 16x70 buckshot, 16x70 slug/dart(metal sleeves)\n• Weight: 3.2 kg\n• Capacity: 2 rounds\nTOZ-BM-16 - a modified 1957 model TOZ-B, but with enhanced barrel strength. Barrels are standard chokes (poluchok and PSCs), for a 16-caliber usually 0,25 and 0,5 mm, at least 0,5 and 1,0 mm. Locks bed-stopper with a triple locking: top with Greener bolt, bottom frame for both Purdue and rifle hook. After firing triggers automatically placed on half-cock. Forend with detachable metal clip. Lodge beech, birch, the piece - walnut semi-pistol, pistol and direct forms. Barrel length 700-725. Reliable gun, but this model is not chromed, and easily suffers from corrosion.</text>
++		<text>• Ammunition: 16x70 birdshot, 16x70 Case-Shot/Zhekan(metal sleeves)\n• Weight: 3.2 kg\n• Capacity: 2 rounds\nTOZ-BM-16 - a modified 1957 model TOZ-B, but with enhanced barrel strength. Barrels are standard chokes (poluchok and PSCs), for a 16-caliber usually 0,25 and 0,5 mm, at least 0,5 and 1,0 mm. Locks bed-stopper with a triple locking: top with Greener bolt, bottom frame for both Purdue and rifle hook. After firing triggers automatically placed on half-cock. Forend with detachable metal clip. Lodge beech, birch, the piece - walnut semi-pistol, pistol and direct forms. Barrel length 700-725. Reliable gun, but this model is not chromed, and easily suffers from corrosion.</text>
+ 	</string>
+ 	<string id="wpn_bm16_m2">
+ 		<text>BM-16</text>
+@@ -337,7 +337,7 @@
+ 		<text>Winchester 1200</text>
+ 	</string>
+ 	<string id="enc_weapons_wpn_w1200">
+-		<text>• Ammunition: 16x70 buckshot, 16x70 slug/dart\n• Weight: 3.26 kg\n• Capacity: 7 rounds\nThe Winchester Model 1200 was introduced in 1964 as a low-cost replacement for the venerable Model 12. A small number of these weapons were acquired by the United States Army in 1968 and 1969 along with Model 15th century.Even though the Model 1200's service in the military was brief, the Army Commanders had orders regarding what to do with the shotgun in case the weapon were in danger of falling into the enemy's hands. The shotgun was to be scavenged for spare parts and then destroyed in such a manner that it would be rendered useless in combat. The major parts of the shotgun which must be destroyed are the receiver and magazine group, the barrel assembly and bayonet assembly, the breech bolt group, and the trigger guard group. The military style Model 1200 was essentially the same weapon as the civilian version, except it had a ventilated handguard, sling swivels, and a bayonet lug</text>
++		<text>• Ammunition: 16x70 birdshot, 16x70 Case-Shot/Zhekan\n• Weight: 3.26 kg\n• Capacity: 7 rounds\nThe Winchester Model 1200 was introduced in 1964 as a low-cost replacement for the venerable Model 12. A small number of these weapons were acquired by the United States Army in 1968 and 1969 along with Model 15th century.Even though the Model 1200's service in the military was brief, the Army Commanders had orders regarding what to do with the shotgun in case the weapon were in danger of falling into the enemy's hands. The shotgun was to be scavenged for spare parts and then destroyed in such a manner that it would be rendered useless in combat. The major parts of the shotgun which must be destroyed are the receiver and magazine group, the barrel assembly and bayonet assembly, the breech bolt group, and the trigger guard group. The military style Model 1200 was essentially the same weapon as the civilian version, except it had a ventilated handguard, sling swivels, and a bayonet lug</text>
+ 	</string>
+ 	<string id="wpn_toz194">
+ 		<text>TOZ-194</text>
+@@ -905,6 +905,15 @@
+ 	<string id="wpn-igla_desc">
+ 		<text>• Ammunition: 9M39 missile\n• Weight: 4.9 kg\n• Capacity: 1 missle\nThe full-capability 9K38 Igla with its 9M39 missile was finally accepted into service in the Soviet Army in 1983. The main improvements over the Igla-1 included much improved resistance against flares and jamming, a more sensitive seeker, expanding forward-hemisphere engagement capability to include straight-approaching fighters (all-aspect capability) under favourable circumstances, a slightly longer range, a higher-impulse, shorter-burning rocket with higher peak velocity (but approximately same time of flight to maximum range), and a propellant that performs as high explosive when detonated by the warhead's secondary charge on impact.</text>
+ 	</string>
++	<string id="ammo_rocket_igla">
++		<text>Guided missile "Needle".</text>
++	</string>
++	<string id="ammo_rocket_igla_s">
++		<text>Of SD "Needle"</text>
++	</string>
++	<string id="ammo_rocket_igla_desc">
++		<text>Guided missile "Needle". The rocket used two-channel infrared seeker, which provides high noise immunity missiles against the background of natural and artificial thermal noise. Blaster provides undermining warhead like a direct hit, and when flying in close proximity to the target. To improve the efficiency with warhead and undermined the remnants of rocket fuel.</text>
++	</string>
+ 	<string id="ammo-igla">
+ 		<text>Igla-S "Needle"</text>
+ 	</string>
+@@ -1117,7 +1126,7 @@
+ 		<text>Remington 870 Scattergun</text>
+ 	</string>
+ 	<string id="enc_weapons_wpn_rem870short">
+-		<text>• Ammunition: 12x70 buckshot, 12x76 slug/dart\n• Weight: 2.8 kg\n • Capacity: 7 Rounds\nThe Remington 870 shotgun debuted in 1950 and has been used by police and military ever since as well as hunters, sportsmen and gun enthusiasts. The Remington 870 is arguably the world's most widely owned and used shotgun, with over 9 million in civilian hands...</text>
++		<text>• Ammunition: 16x70 birdshot, 16x70 Case-Shot/Zhekan\n• Weight: 2.8 kg\n • Capacity: 7 Rounds\nThe Remington 870 shotgun debuted in 1950 and has been used by police and military ever since as well as hunters, sportsmen and gun enthusiasts. The Remington 870 is arguably the world's most widely owned and used shotgun, with over 9 million in civilian hands...</text>
+ 	</string>
+ <!--	<string id="wpn_rem870short"> - Duplicated - aleks1970
+ 		<text>Edge Remington 870</text>
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_new.xml b/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_new.xml
+index a3aa66f..e253091 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_new.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_new.xml	
+@@ -1,5 +1,5 @@
+-<!-- TB3D 1.1.0.0.0.4 the doctor, line 451, 454, 484, rem. russian char. aleks1970, price_dan_prinesi_text, freeman_braad_one_2, Sidorovich,
+- DeJames, something, 6 boar hooves, text outside block removed, ghost diary -->
++<!-- TB3D 1.1.0.0.0.7 the doctor, line 451, 454, 484, rem. russian char. aleks1970, price_dan_prinesi_text, freeman_braad_one_2, Sidorovich,
++ DeJames, something, 6 boar hooves, text outside block removed, ghost diary, land to miser -->
+ <string_table>
+ 	<string id="prinesi_hvost_0">
+ 		<text>Hello!, I have some mutant parts for you..</text>
+@@ -1984,7 +1984,7 @@
+ 		<text>Well, I know the Miser, perhaps I will split.</text>
+ 	</string>
+ 	<string id="freetrader_poisk_trader_need_0">
+-		<text>Hello, Land, how life daring?</text>
++		<text>Hello, Miser, how life daring?</text>
+ 	</string>
+ 	<string id="freetrader_poisk_trader_need_1">
+ 		<text>While the barrier is held all by a way, will be both vodka, and a herring and which that else...</text>
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_tb3d.xml b/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_tb3d.xml
+index ed30134..205be12 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_tb3d.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/stable_dialogs_tb3d.xml	
+@@ -1,4 +1,5 @@
+-<!--TB3D 1.1.0.0.0.6 added notes, removed npp1_lc_opened, gps, pred_barman, gps tips, sak_cube, tb3d_cem_distress, storm, zep_note_np1, zep_note_rad1, zep_note_gen_grimwald, zep hints, npp2 hint, atp hint, grey's note, dead_marsh_recorder_hint, glavney -->
++<!--TB3D 1.1.0.0.0.7 added notes, removed npp1_lc_opened, gps, pred_barman, gps tips, sak_cube, tb3d_cem_distress, storm, zep_note_np1, zep_note_rad1,
++zep_note_gen_grimwald, zep hints, npp2 hint, atp hint, grey's note, dead_marsh_recorder_hint, glavney, removed warehouses from storm -->
+ <string_table>
+ <!--  TB3D  FREE PLAY  COLLECTOR -->
+ <string id="new_line">
+@@ -951,7 +952,7 @@
+ </string>
+ 
+ <string id="zep_note_wlab1">
+-<text>I found a document deep in the lab yesterday. It outlines a series of steps for placing special gold ingots in specific spots in an old tunnel somewhere.\nThe ingots have codes that indicate which spot it is supposed to be droped at. It also indicates that they must be placed in a certain order which is continued on the next page. I cannot find this page so I don't know the order!\nI also found a note with this scribbled on it:\nDS-RB1-NE-RKS\nGR-BAR-HIGH-LDG\nWT-YAN-TNT\n.\nno clue what they mean\nSacola</text>
++<text>I found a document deep in the lab yesterday. It outlines a series of steps for placing special gold ingots in specific spots in an old tunnel somewhere.\nThe ingots have codes that indicate which spot it is supposed to be dropped at. It also indicates that they must be placed in a certain order which is continued on the next page. I cannot find this page so I don't know the order!\nI also found a note with this scribbled on it:\nDS-RB1-NE-RKS\nGR-BAR-HIGH-LDG\nWT-YAN-TNT\n.\nno clue what they mean\nSacola</text>
+ </string>
+ <string id="zep_note_wlb1">
+ <text>Gorto</text>
+@@ -965,14 +966,14 @@
+ </string>
+ 
+ <string id="zep_note_deadm2">
+-<text>I am trapped here\ncontroller outside trying to get to me\n.\nleaving my stuff and will try to run for it\nif you find this then I did not make it\nthe gold bar    is important    take to veronin in rostok\nthere is another bar in the northern research   village tower\ndeath eagle</text>
++<text>I am trapped here\ncontroller outside trying to get to me\n.\nleaving my stuff and will try to run for it\nif you find this then I did not make it\nthe gold bar is important take to Veronin in Rostok\nthere is another bar in the northern research village tower\nDeath Eagle</text>
+ </string>
+ <string id="zep_note_dm2">
+ <text>no choice</text>
+ </string>
+ 
+ <string id="zep_note_tunnels">
+-<text>must be done to control the intensity.\nEach Ingot with a code on it must be placed in the proper slot and in the proper order.\nIt is beleived that the order should be West to center then East to center. It is uncertain if the center is done last but the fifteenth Ingot must be dropped in dead center as the last step.</text>
++<text>must be done to control the intensity.\nEach Ingot with a code on it must be placed in the proper slot and in the proper order.\nIt is beleived that the order should be West to center then East to center. It is certain that the center is done last, the ingot marked C-C must be dropped in dead center of the tunnel.</text>
+ </string>
+ <string id="zep_note_tnls">
+ <text>LOCATOR Page 2</text>
+@@ -2038,7 +2039,7 @@
+ 	</string>
+ 
+ 	<string id="tb3d_sms_storm_areas">
+-		<text>ATTENTION!..   areas effected so far are: NPP, Radar, Dead City, East pripyat, RECON, Warehouses, Generators, Black Market and the old cemetery..    These areas are extremely hazardous and should be avoided at all cost!</text>
++		<text>ATTENTION!..   areas effected so far are: NPP, Radar, Dead City, East pripyat, RECON, Generators, Black Market and the old cemetery..    These areas are extremely hazardous and should be avoided at all cost!</text>
+ 	</string>
+ 
+ 	<string id="kostya_generic">
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_amk_matras.xml b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_amk_matras.xml
+index 8a50c45..5c382fc 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_amk_matras.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_amk_matras.xml	
+@@ -19,8 +19,39 @@
+ 		<text>Rucksack</text>
+ 	</string>
+ 	<string id="enc_amk_ruksak">
+-		<text>A strong expeditionary rucksack. It's vulcanised, so it's tough and waterproof. You could even put something valuable inside and hide it for months, making it an excellent stash</text>
++		<text>Weak expeditionary rucksack. It's vulcanised, so it's waterproof. You could even put something valuable inside and hide it for months, making it an excellent stash</text>
+ 	</string>
++	
++	<string id="amk_ruksak_big">
++		<text>Rucksack Mk-II</text>
++	</string>
++	<string id="amk_ruksak_big_s">
++		<text>Rucksack</text>
++	</string>
++	<string id="enc_amk_ruksak_big">
++		<text>A strong expeditionary rucksack. It's vulcanised and sutured with better and stronger thread, so it's tough with higher capacity and waterproof. You could even put something valuable inside and hide it for months, making it an excellent stash</text>
++	</string>
++	
++	<string id="amk_ruksak_zep">
++		<text>Zep Rucksack</text>
++	</string>
++	<string id="amk_ruksak_zep_s">
++		<text>Rucksack</text>
++	</string>
++	<string id="enc_amk_ruksak_zep">
++		<text>Zep treasure</text>
++	</string>
++	
++	<string id="amk_ruksak_lastday">
++		<text>Last Day treasure</text>
++	</string>
++	<string id="amk_ruksak_lastday_s">
++		<text>Last Day treasure</text>
++	</string>
++	<string id="enc_amk_ruksak_lastday">
++		<text>Unknown treasure from the 'Last Day' member Master. It can be dangerous to open or to look inside - according to the sign of the death head on him...</text>
++	</string>
++	
+ 
+-<!-- 23:52 23.06.2007 -->
++<!-- 18:05 05.08.2016 -->
+ 
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_arhara.xml b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_arhara.xml
+index 3ca677f..400686d 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_arhara.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_arhara.xml	
+@@ -2,7 +2,7 @@
+ <!-- TB3D 1.1.0.0.0.4  dmx135 controller vice comptroller, doc message in pripyat removed dose_asses...,
+  dip: gen/Astrol questline, The Doctor, \\n, cop_prip_msg1, line 981 - removed russian char. aleks1970,
+  tex_lukash_pechatka, tex_lysyi_klad and many minor edits, tex_otkrut_seif_sadik, boatswain, amber, lukash,
+- doc_alive -->
++ doc_alive, map_mil_trader, map_mil_tehnician - aleks1970 -->
+ <string_table>
+ 	<string id="blow_phrase1">
+ 		<text>Attention! Approaching Release! All seek safe haven!</text>
+@@ -1087,4 +1087,10 @@
+ 	<string id="local_energy_zone">		<!-- 110000 -->
+ 		<text>Unknown Anomolous Zone</text>
+ 	</string>
++	<string id="map_mil_technician">	<!-- 110007 - aleks1970 -->
++		<text>Military technician</text>
++	</string>
++	<string id="map_mil_trader">
++		<text>Military trader</text>
++	</string>
+ </string_table>
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_enc_ald_weapons.xml b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_enc_ald_weapons.xml
+index 4d6a840..79fdaae 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_enc_ald_weapons.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_enc_ald_weapons.xml	
+@@ -128,6 +128,16 @@
+ <string id="enc_weapons_wpn_addon_hensoldt_scope">
+ <text>4-x the multiple optical sight Hensoldt Fero-Z24 on HK STANAG bracket, designed for installation to a G3 assault rifles and G41, as well as the MP5 submachine gun.</text>
+ </string>
++
++<string id="equip_device_nightvision_goggles_m1">
++<text>Night Vision goggles</text>
++</string>
++<string id="equip_device_nightvision_goggles_m1_s">
++<text>Night Vision goggles</text>
++</string>
++<string id="enc_equipment_devic_nightvision_goggles_m1">
++<text>Powerful Night Vision goggles.\nRecharge time improved by using the latest LiOn battery technology, and a more efficient transducer</text>
++</string>
+ 	<!-- AMMUNITION -->
+ 	<!-- GLOWING GRENADES -->
+ <string id="fosfor_grenade_g">
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_tasks_bar.xml b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_tasks_bar.xml
+index edc8103..a75ea1c 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_tasks_bar.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_tasks_bar.xml	
+@@ -1,9 +1,9 @@
+-<!-- TB3D 1.1.0.0.0.4 -->
+-<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Jan 16 -->
++<!-- TB3D 1.1.0.0.0.7 -->
++<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Jan 16, _pda -->
+ 	<string id="bar_bring_hunter_rifle">
+ 		<text>Return the family rifle to the hunter</text>
+ 	</string>
+-	<string id="bar_bring_PDA_lucky">
++	<string id="bar_bring_pda_lucky">
+ 		<text>Bring the handheld computer to the Barkeep</text>
+ 	</string>
+ 	<string id="bar_crazy_veterans_quest">
+@@ -60,7 +60,7 @@
+ 	<string id="bar_dolg_svoboda_ambush_return">
+ 		<text>Give the stripes to General Voronin</text>
+ 	</string>
+-	<string id="bar_dolg_tiran_PDA">
++	<string id="bar_dolg_tiran_pda">
+ 		<text>Take the handheld computer to Tirana</text>
+ 	</string>
+ 	<string id="bar_hunter_find_rifle">
+@@ -75,7 +75,7 @@
+ 	<string id="bar_kill_crazy_veterans">
+ 		<text>Kill the leader of the veterans</text>
+ 	</string>
+-	<string id="bar_kill_crazy_veterans_PDA">
++	<string id="bar_kill_crazy_veterans_pda">
+ 		<text>Take the handheld computer of their leader</text>
+ 	</string>
+ 	<string id="bar_kill_veterans">
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_text_after_1100.xml b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_text_after_1100.xml
+index 8641026..31912a1 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_text_after_1100.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_text_after_1100.xml	
+@@ -1,4 +1,4 @@
+-<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
++<?xml version="1.0" encoding="windows-1250" standalone="yes"?>
+ <!-- TB3D 1.1.0.0.0.6, new text after the 1.1.0.0. version - aleks1970 -->
+ <string_table>
+ #include "text\eng\ui_news_messages.xml"
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_ui_text.xml b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_ui_text.xml
+index a15ff28..1bbb281 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/string_table_ui_text.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/string_table_ui_text.xml	
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+ <!-- TB3D 1.1.0.0.0.4 version, Linked text from "ui & gameplay" folder, added/included files in this <string_table>
+-removed duplicated string id's: "exit_ui", "Flash_ui", "Slime_ui", "Soul_ui", "Fireball_ui", "Stone_Flower_ui", "Moonlight_ui", "Mica_ui", "Slug_ui", "Crystal_ui" and "Thorn_ui" - aleks1970, Astrologer -->
+-<!-- Restructured sentences slightly. Sword2012 27 Jan 16, name_2_ui -->
++removed duplicated string id's: "exit_ui", "Flash_ui", "Slime_ui", "Soul_ui", "Fireball_ui", "Stone_Flower_ui", "Moonlight_ui", "Mica_ui", "Slug_ui", "Crystal_ui" and "Thorn_ui", return "name_2_ui" id. - aleks1970, Astrologer -->
++<!-- Restructured sentences slightly. Sword2012 27 Jan 16, -->
+ <!-- Restructured two Teleporter UI sentences. Sword2012 06 Feb 16. Used a Final File, removed mp  -->
+ <string_table>
+ #include "text\eng\ui_st_mm.xml"
+@@ -98,6 +98,9 @@ removed duplicated string id's: "exit_ui", "Flash_ui", "Slime_ui", "Soul_ui", "F
+ 	<string id="move_ui">
+ 		<text>Move</text>
+ 	</string>
++	<string id="name_2_ui">
++		<text>Name:</text>
++	</string>
+ 	<string id="chance_of_success_85_ui">
+ 		<text>Chance of Success = 85%</text>
+ 	</string>
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/ui_death_messages.xml b/4. Accepted text files by TB/Differences for GitHub/eng/ui_death_messages.xml
+index 037fe2e..a8e9f9d 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/ui_death_messages.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/ui_death_messages.xml	
+@@ -1,4 +1,4 @@
+-<?xml version="1.0" encoding="windows-1252"?>
++<?xml version="1.0" encoding="windows-1250"?>
+ <!-- TB3D 1.1.0.0.0.6 Redirected strings from the Misc folder - aleks1970 -->
+ <!-- Strings from misc\tb3d_death_list.ltx file - aleks1970 -->
+ <!-- section "dead_reason" - aleks1970 -->
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/ui_news_messages.xml b/4. Accepted text files by TB/Differences for GitHub/eng/ui_news_messages.xml
+index 9d3d05f..bfbb874 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/ui_news_messages.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/ui_news_messages.xml	
+@@ -1,7 +1,7 @@
+-<?xml version="1.0" encoding="windows-1252"?>
+-<!-- TB3D 1.1.0.0.0.6 Redirected strings from the Misc folder - aleks1970 -->
++<?xml version="1.0" encoding="windows-1250"?>
++<!-- TB3D 1.1.0.0.0.7 Redirected strings from the Misc folder - aleks1970 -->
+ 	<!-- from misc-tb3d_uniq_news.ltx file - aleks1970 -->
+-	<!-- section "news_uniq" - aleks1970 -->
++	<!-- section "news_uniq" - aleks1970 , added two 'b' forms of message-->
+ 	<string id="news_uniq_1">
+ 		<text>A couple of helicopters have just passed me. Coordinates enclosed. Stay safe. I don't know what their orders are.</text>
+ 	</string>
+@@ -21,13 +21,16 @@
+ 		<text>Mayday... A pack of dogs is coming straight for us. Exact coordinates given. Please help!</text>
+ 	</string>
+ 	<string id="news_uniq_7">
+-		<text>If it's not mutants, it's bandits...\nPotap\nYes, we can guess...</text>
++		<text>If it's not mutants, it's bandits...\nPotap:\nYes, we can guess...</text>
+ 	</string>
+ 	<string id="news_uniq_8">
+-		<text>Just been rushed by a Pseudodog. Barely shot it in time!\nPotap\nWell done...</text>
++		<text>Just been rushed by a Pseudodog. Barely shot it in time!\nPotap:\nWell done...</text>
+ 	</string>
+ 	<string id="news_uniq_9">
+-		<text>Mayday... A battle has broken out at the Agricultural Industry in the central complex!\n \nDuty\nAnyone doing the same as in here, be warned - you WILL be raided...</text>
++		<text>Mayday... A battle has broken out at the Agricultural Industry in the central complex!</text>
++	</string>
++	<string id="news_uniq_9b">
++		<text>Duty:\n Anyone doing the same as in here, be warned - you WILL be raided...</text>
+ 	</string>
+ 	<string id="news_uniq_10">
+ 		<text>Lukash, the Merc's been shot. On my way back.\nFreedom\nSwitch to the private channel, assholes!</text>
+@@ -39,19 +42,19 @@
+ 		<text>Marauders! We're being attacked! Help!\nNo one can help unless you attach your coordinates, idiot...</text>
+ 	</string>
+ 	<string id="news_uniq_13">
+-		<text>We need access to the Internet. Should we make our way to the bar, where it's crowded, or go further to Sidorovich where it's more private?\nPotap\nYes, the Bar will always be busy, but you can try the signallers at Duty. They also have access</text>
++		<text>We need access to the Internet. Should we make our way to the bar, where it's crowded, or go further to Sidorovich where it's more private?\nPotap:\nYes, the Bar will always be busy, but you can try the signallers at Duty. They also have access</text>
+ 	</string>
+ 	<string id="news_uniq_14">
+ 		<text>Has anyone figured out where those ALD weapons are?\nIt's probably a trap anyway...</text>
+ 	</string>
+ 	<string id="news_uniq_15">
+-		<text>Crap...\nJust stepped in the biggest pile of boar shit ever!</text>
++		<text>Crap...\n Just stepped in the biggest pile of boar shit ever!</text>
+ 	</string>
+ 	<string id="news_uniq_16">
+ 		<text>Where the hell am I?\nWhy is it so foggy out here?...</text>
+ 	</string>
+ 	<string id="news_uniq_17">
+-		<text>I'm lost! I need help...\nIs anybody receiving this?\nAnybody...?</text>
++		<text>I'm lost! I need help...\n Is anybody receiving this?\n Anybody...?</text>
+ 	</string>
+ 	<string id="news_uniq_18">
+ 		<text>So that explains it, but I don't know where the signal is coming from...</text>
+@@ -60,7 +63,7 @@
+ 		<text>In the Swamps, a Stalker named Kalmyak sells medical ointment. It really helps! Almost all my symptoms have gone. Much better than vodka!</text>
+ 	</string>
+ 	<string id="news_uniq_20">
+-		<text>I'm going to try using emoticons more often :) ;) 8)... Communication scrambled...\nPotap\nIdiot blocked </text>
++		<text>I'm going to try using emoticons more often :) ;) 8)... Communication scrambled...\nPotap:\n Idiot blocked </text>
+ 	</string>
+ 	<string id="news_uniq_21">
+ 		<text>A huge beast has turned up in the swamps. It's strong, and almost two metres tall. The Bandits near the church are covered in blood, and it's still alive... I gave them a bandage to share</text>
+@@ -72,7 +75,10 @@
+ 		<text>Attention, all fighters! Bandits are trying to take over the ATP! This is our territory! Help us defend it!</text>
+ 	</string>
+ 	<string id="news_uniq_24">
+-		<text>A group of five people are moving towards the Barrier. Looks like the Monolith. Take immediate action.\n \nBarrier\nUnderstood. Those fucking lunatics!</text>
++		<text>\n A group of five people are moving towards the Barrier. Looks like the Monolith. Take immediate action.</text>
++	</string>
++	<string id="news_uniq_24b">
++		<text>Barrier:\n Understood. Those fucking lunatics!</text>
+ 	</string>
+ 	<string id="news_uniq_25">
+ 		<text>Warning: In a small village in the Dark Valley, if you're offered a Gauss rifle for 800 roubles - don't believe it. It's a scam!</text>
+@@ -138,7 +144,7 @@
+ 		<text>The Duty warehouse has just received a batch of brand new FN-2000's. You need to get there quickly if you want to ste..., sorry, buy one</text>
+ 	</string>
+ 	<string id="news_uniq_46">
+-		<text>Damn! The area around Yantar is full of zombies again! Neat job you did there, people!\nPotap\Carry on with the mission. We still need that information...</text>
++		<text>Damn! The area around Yantar is full of zombies again! Neat job you did there, people!\nPotap:\nCarry on with the mission. We still need that information...</text>
+ 	</string>
+ 	<string id="news_uniq_47">
+ 		<text>Speak with the Bandits. They should know how to get through that area quietly...</text>
+diff --git a/4. Accepted text files by TB/Differences for GitHub/eng/ui_task_messages.xml b/4. Accepted text files by TB/Differences for GitHub/eng/ui_task_messages.xml
+index b0cf4bf..fc03bc5 100644
+--- a/4. Accepted text files by TB/Differences for GitHub/eng/ui_task_messages.xml	
++++ b/4. Accepted text files by TB/Differences for GitHub/eng/ui_task_messages.xml	
+@@ -1,4 +1,4 @@
+-<?xml version="1.0" encoding="windows-1252"?>
++<?xml version="1.0" encoding="windows-1250"?>
+ <!-- TB3D 1.1.0.0.0.6 Redirected strings from the Misc folder - aleks1970 -->
+ 	<!-- from misc\tb3d_tasks.ltx file - aleks1970 -->
+ 	<!-- section "tasks" - aleks1970 -->
